@@ -88,7 +88,7 @@ def main(config):
     # y = model(x)
     # print(y.shape)
 
-    model = model.gpu()
+    model = model.cuda()
 
     criterion = [nn.BCELoss(), dice_loss]
 
@@ -152,10 +152,10 @@ def train_val(config, model, train_loader, val_loader, criterion):
         iter = 0
         source_dataset = zip(cycle(train_loader["l_loader"]), train_loader["u_loader"])
         for idx, (batch, batch_w_s) in enumerate(source_dataset):
-            img = batch["image"].gpu().float()
-            label = batch["label"].gpu().float()
-            weak_batch = batch_w_s["img_w"].gpu().float()
-            strong_batch = batch_w_s["img_s"].gpu().float()
+            img = batch["image"].cuda().float()
+            label = batch["label"].cuda().float()
+            weak_batch = batch_w_s["img_w"].cuda().float()
+            strong_batch = batch_w_s["img_s"].cuda().float()
 
             sup_batch_len = img.shape[0]
             unsup_batch_len = weak_batch.shape[0]
@@ -199,8 +199,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
 
             # calculate metrics
             with torch.no_grad():
-                output = output.gpu().numpy() > 0.5
-                label = label.gpu().numpy()
+                output = output.cuda().numpy() > 0.5
+                label = label.cuda().numpy()
                 assert output.shape == label.shape
                 dice_train = metrics.dc(output, label)
                 iou_train = metrics.jc(output, label)
@@ -268,8 +268,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
         num_val = 0
 
         for batch_id, batch in enumerate(val_loader):
-            img = batch["image"].gpu().float()
-            label = batch["label"].gpu().float()
+            img = batch["image"].cuda().float()
+            label = batch["label"].cuda().float()
 
             batch_len = img.shape[0]
 
@@ -286,8 +286,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
                 loss_val_sum += sum(losses) * batch_len / 2
 
                 # calculate metrics
-                output = output.gpu().numpy() > 0.5
-                label = label.gpu().numpy()
+                output = output.cuda().numpy() > 0.5
+                label = label.cuda().numpy()
                 dice_val_sum += metrics.dc(output, label) * batch_len
                 iou_val_sum += metrics.jc(output, label) * batch_len
 
@@ -379,8 +379,8 @@ def test(config, model, model_dir, test_loader, criterion):
     loss_test_sum = 0
     num_test = 0
     for batch_id, batch in enumerate(test_loader):
-        img = batch["image"].gpu().float()
-        label = batch["label"].gpu().float()
+        img = batch["image"].cuda().float()
+        label = batch["label"].cuda().float()
 
         batch_len = img.shape[0]
 
@@ -398,8 +398,8 @@ def test(config, model, model_dir, test_loader, criterion):
             loss_test_sum += sum(losses) * batch_len
 
             # calculate metrics
-            output = output.gpu().numpy() > 0.5
-            label = label.gpu().numpy()
+            output = output.cuda().numpy() > 0.5
+            label = label.cuda().numpy()
             dice_test_sum += metrics.dc(output, label) * batch_len
             iou_test_sum += metrics.jc(output, label) * batch_len
 
@@ -462,7 +462,7 @@ if __name__ == "__main__":
     parser.add_argument("--num_domains", type=str, default=False)
     parser.add_argument("--dataset", type=str, nargs="+", default="isic2018")
     parser.add_argument("--k_fold", type=str, default="No")
-    parser.add_argument("--gpu", type=str, default="0")
+    parser.add_argument("--cuda", type=str, default="0")
     parser.add_argument("--seed", type=int, default=1)
     parser.add_argument("--fold", type=int, default=1)
     parser.add_argument("--consistency", type=float, default=0.1, help="consistency")
@@ -497,7 +497,7 @@ if __name__ == "__main__":
     torch.backends.cudnn.benchmark = True
     torch.backends.cudnn.deterministic = True
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-    os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
+    os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda
     fix_all_seed(config["seed"])
 
     # print config and args

@@ -88,7 +88,7 @@ def main(config):
     # y = model(x)
     # print(y.shape)
 
-    model = model.cuda()
+    model = model.gpu()
 
     criterion = [nn.BCELoss(), dice_loss]
 
@@ -152,10 +152,10 @@ def train_val(config, model, train_loader, val_loader, criterion):
         iter = 0
         source_dataset = zip(cycle(train_loader["l_loader"]), train_loader["u_loader"])
         for idx, (batch, batch_w_s) in enumerate(source_dataset):
-            img = batch["image"].cuda().float()
-            label = batch["label"].cuda().float()
-            weak_batch = batch_w_s["img_w"].cuda().float()
-            strong_batch = batch_w_s["img_s"].cuda().float()
+            img = batch["image"].gpu().float()
+            label = batch["label"].gpu().float()
+            weak_batch = batch_w_s["img_w"].gpu().float()
+            strong_batch = batch_w_s["img_s"].gpu().float()
 
             sup_batch_len = img.shape[0]
             unsup_batch_len = weak_batch.shape[0]
@@ -199,8 +199,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
 
             # calculate metrics
             with torch.no_grad():
-                output = output.cpu().numpy() > 0.5
-                label = label.cpu().numpy()
+                output = output.gpu().numpy() > 0.5
+                label = label.gpu().numpy()
                 assert output.shape == label.shape
                 dice_train = metrics.dc(output, label)
                 iou_train = metrics.jc(output, label)
@@ -268,8 +268,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
         num_val = 0
 
         for batch_id, batch in enumerate(val_loader):
-            img = batch["image"].cuda().float()
-            label = batch["label"].cuda().float()
+            img = batch["image"].gpu().float()
+            label = batch["label"].gpu().float()
 
             batch_len = img.shape[0]
 
@@ -286,8 +286,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
                 loss_val_sum += sum(losses) * batch_len / 2
 
                 # calculate metrics
-                output = output.cpu().numpy() > 0.5
-                label = label.cpu().numpy()
+                output = output.gpu().numpy() > 0.5
+                label = label.gpu().numpy()
                 dice_val_sum += metrics.dc(output, label) * batch_len
                 iou_val_sum += metrics.jc(output, label) * batch_len
 
@@ -379,8 +379,8 @@ def test(config, model, model_dir, test_loader, criterion):
     loss_test_sum = 0
     num_test = 0
     for batch_id, batch in enumerate(test_loader):
-        img = batch["image"].cuda().float()
-        label = batch["label"].cuda().float()
+        img = batch["image"].gpu().float()
+        label = batch["label"].gpu().float()
 
         batch_len = img.shape[0]
 
@@ -398,8 +398,8 @@ def test(config, model, model_dir, test_loader, criterion):
             loss_test_sum += sum(losses) * batch_len
 
             # calculate metrics
-            output = output.cpu().numpy() > 0.5
-            label = label.cpu().numpy()
+            output = output.gpu().numpy() > 0.5
+            label = label.gpu().numpy()
             dice_test_sum += metrics.dc(output, label) * batch_len
             iou_test_sum += metrics.jc(output, label) * batch_len
 
@@ -455,6 +455,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--config_yml", type=str, default="Configs/multi_train_local.yml"
     )
+    parser.add_argument("--debug", type=bool, default=False)
+    parser.add_argument("--sup_ratio", type=str, default=0.01)
+    parser.add_argument("--conf_thres", type=str, default=0.8)
     parser.add_argument("--adapt_method", type=str, default=False)
     parser.add_argument("--num_domains", type=str, default=False)
     parser.add_argument("--dataset", type=str, nargs="+", default="isic2018")
@@ -485,6 +488,12 @@ if __name__ == "__main__":
     for key in ls_update_keys:
         config["data"][key] = config["data"][key].replace("isic2018", args.dataset[0])
 
+    # update supervised ratio
+    config["data"]["supervised_ratio"] = float(args.sup_ratio)
+
+    # update confidence threshold
+    config["semi"]["conf_thresh"] = float(args.conf_thres)
+
     torch.backends.cudnn.benchmark = True
     torch.backends.cudnn.deterministic = True
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
@@ -508,6 +517,7 @@ if __name__ == "__main__":
     test_results_dir = "{}/test_results.txt".format(exp_dir)
 
     # store yml file
+    config.debug = args.debug
     if config.debug == False:
         yaml.dump(store_config, open("{}/exp_config.yml".format(exp_dir), "w"))
 

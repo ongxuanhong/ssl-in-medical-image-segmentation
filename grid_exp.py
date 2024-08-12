@@ -25,4 +25,8 @@ for exp in ["fixmatch"]:
                             fold,
                         )
                         print(run)
-                        os.system(run)
+                        try:
+                            os.system(run)
+                        except Exception as e:
+                            print(e)
+                            continue

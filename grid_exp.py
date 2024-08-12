@@ -14,7 +14,7 @@ grid_search = {
     "seed": [1],
 }
 
-run_template = "python -u {}.py --gpu 0 --seed {} --exp {} --dataset {} --sup_ratio {} --conf_thres {} --fold {} --debug 1"
+run_template = "python -u {}.py --cuda 0 --seed {} --exp {} --dataset {} --sup_ratio {} --conf_thres {} --fold {} --debug 1"
 for exp in ["fixmatch"]:
     for dataset in ["bccd"]:
         for supervised_ratio in grid_search["supervised_ratio"]:

@@ -199,8 +199,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
 
             # calculate metrics
             with torch.no_grad():
-                output = output.cuda().numpy() > 0.5
-                label = label.cuda().numpy()
+                output = output.cpu().numpy() > 0.5
+                label = label.cpu().numpy()
                 assert output.shape == label.shape
                 dice_train = metrics.dc(output, label)
                 iou_train = metrics.jc(output, label)
@@ -286,8 +286,8 @@ def train_val(config, model, train_loader, val_loader, criterion):
                 loss_val_sum += sum(losses) * batch_len / 2
 
                 # calculate metrics
-                output = output.cuda().numpy() > 0.5
-                label = label.cuda().numpy()
+                output = output.cpu().numpy() > 0.5
+                label = label.cpu().numpy()
                 dice_val_sum += metrics.dc(output, label) * batch_len
                 iou_val_sum += metrics.jc(output, label) * batch_len
 
@@ -398,8 +398,8 @@ def test(config, model, model_dir, test_loader, criterion):
             loss_test_sum += sum(losses) * batch_len
 
             # calculate metrics
-            output = output.cuda().numpy() > 0.5
-            label = label.cuda().numpy()
+            output = output.cpu().numpy() > 0.5
+            label = label.cpu().numpy()
             dice_test_sum += metrics.dc(output, label) * batch_len
             iou_test_sum += metrics.jc(output, label) * batch_len
 

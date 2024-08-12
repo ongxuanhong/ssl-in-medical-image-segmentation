@@ -23,3 +23,8 @@ Folder Organization
 |-download.ipynb
 |-*.py
 ```
+
+# How to run
+```bash
+python -u fixmatch.py --gpu 0 --seed 1 --exp exp_fixmatch_bbbc --fold 1 --dataset bbbc
+```

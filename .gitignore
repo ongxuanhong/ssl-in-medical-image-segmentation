@@ -1,0 +1,7 @@
+processed_data/
+download/
+checkpoints/
+data/
+*.pyc
+.DS_store
+.vscode

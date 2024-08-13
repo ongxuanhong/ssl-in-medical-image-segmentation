@@ -621,7 +621,6 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     config = yaml.load(open(args.config_yml), Loader=yaml.FullLoader)
-    config["data"]["name"] = args.dataset
     config["model_adapt"]["adapt_method"] = args.adapt_method
     config["model_adapt"]["num_domains"] = args.num_domains
     config["data"]["k_fold"] = args.k_fold
@@ -637,6 +636,7 @@ if __name__ == "__main__":
         "val_folder",
     ]
     for key in ls_update_keys:
+        print(key)
         config["data"][key] = config["data"][key].replace("isic2018", args.dataset[0])
 
     # update supervised ratio

@@ -524,6 +524,7 @@ if __name__ == "__main__":
     test_results_dir = "{}/test_results.txt".format(exp_dir)
 
     # store yml file
+    config.debug = args.debug
     if config.debug == False:
         yaml.dump(store_config, open("{}/exp_config.yml".format(exp_dir), "w"))
 

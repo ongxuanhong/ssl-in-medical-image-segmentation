@@ -95,8 +95,8 @@ def main(config):
     # y = model(x)
     # print(y.shape)
 
-    model1 = model1.cuda()
-    model2 = model2.cuda()
+    model1 = model1.cpu()
+    model2 = model2.cpu()
 
     criterion = [nn.BCELoss(), dice_loss]
 
@@ -166,9 +166,9 @@ def train_val(config, model1, model2, train_loader, val_loader, criterion):
         iter = 0
         source_dataset = zip(cycle(train_loader["l_loader"]), train_loader["u_loader"])
         for idx, (batch, batch_w_s) in enumerate(source_dataset):
-            img = batch["image"].cuda().float()
-            label = batch["label"].cuda().float()
-            weak_batch = batch_w_s["img_w"].cuda().float()
+            img = batch["image"].cpu().float()
+            label = batch["label"].cpu().float()
+            weak_batch = batch_w_s["img_w"].cpu().float()
 
             sup_batch_len = img.shape[0]
             unsup_batch_len = weak_batch.shape[0]
@@ -305,7 +305,7 @@ def train_val(config, model1, model2, train_loader, val_loader, criterion):
                 break
 
         # print
-        file_log(
+        file_log.write(
             "Epoch {}, Total train step {} || AVG_loss: {}, Avg Dice score 1: {}, Avg IOU 1: {}, Avg Dice score 2: {}, Avg IOU 2: {}\n".format(
                 epoch,
                 iter,
@@ -340,8 +340,8 @@ def train_val(config, model1, model2, train_loader, val_loader, criterion):
         num_val = 0
 
         for batch_id, batch in enumerate(val_loader):
-            img = batch["image"].cuda().float()
-            label = batch["label"].cuda().float()
+            img = batch["image"].cpu().float()
+            label = batch["label"].cpu().float()
 
             batch_len = img.shape[0]
 
@@ -408,8 +408,8 @@ def train_val(config, model1, model2, train_loader, val_loader, criterion):
         num_val = 0
 
         for batch_id, batch in enumerate(val_loader):
-            img = batch["image"].cuda().float()
-            label = batch["label"].cuda().float()
+            img = batch["image"].cpu().float()
+            label = batch["label"].cpu().float()
 
             batch_len = img.shape[0]
 
@@ -528,8 +528,8 @@ def test(config, model, model_dir, test_loader, criterion):
     loss_test_sum = 0
     num_test = 0
     for batch_id, batch in enumerate(test_loader):
-        img = batch["image"].cuda().float()
-        label = batch["label"].cuda().float()
+        img = batch["image"].cpu().float()
+        label = batch["label"].cpu().float()
 
         batch_len = img.shape[0]
 

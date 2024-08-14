@@ -502,7 +502,7 @@ def train_val(config, model1, model2, train_loader, val_loader, criterion):
 
         # end one epoch
         if config.debug:
-            return
+            return model
 
     file_log.write(
         "Complete training ---------------------------------------------------- \n The best epoch is {}\n".format(

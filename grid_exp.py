@@ -19,8 +19,8 @@ python -u {}.py --cuda 0 --seed {} \
 --exp {} --dataset {} --sup_ratio {} \
 --conf_thres {} --fold {} --debug 1
 """
-for exp in ["train_sup"]:
-    for dataset in ["bccd"]:
+for exp in ["unimatch"]:
+    for dataset in ["lisc"]:
         for supervised_ratio in grid_search["supervised_ratio"]:
             for conf_thresh in grid_search["conf_thresh"]:
                 for fold in grid_search["fold"]:

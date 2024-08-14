@@ -536,10 +536,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--config_yml", type=str, default="Configs/multi_train_local.yml"
     )
+    parser.add_argument("--debug", type=bool, default=False)
+    parser.add_argument("--sup_ratio", type=str, default=0.01)
+    parser.add_argument("--conf_thres", type=str, default=0.8)
     parser.add_argument("--adapt_method", type=str, default=False)
     parser.add_argument("--num_domains", type=str, default=False)
     parser.add_argument("--dataset", type=str, nargs="+", default="isic2018")
     parser.add_argument("--k_fold", type=str, default="No")
+    parser.add_argument("--cuda", type=str, default="0")
     parser.add_argument("--gpu", type=str, default="0")
     parser.add_argument("--seed", type=int, default=1)
     parser.add_argument("--fold", type=int, default=1)
@@ -554,6 +558,23 @@ if __name__ == "__main__":
     config["data"]["k_fold"] = args.k_fold
     config["seed"] = args.seed
     config["fold"] = args.fold
+
+    # update dataset
+    ls_update_keys = [
+        "name",
+        "save_folder",
+        "test_folder",
+        "train_folder",
+        "val_folder",
+    ]
+    for key in ls_update_keys:
+        config["data"][key] = config["data"][key].replace("isic2018", args.dataset[0])
+
+    # update supervised ratio
+    config["data"]["supervised_ratio"] = float(args.sup_ratio)
+
+    # update confidence threshold
+    config["semi"]["conf_thresh"] = float(args.conf_thres)
 
     torch.backends.cudnn.benchmark = True
     torch.backends.cudnn.deterministic = True
@@ -578,6 +599,7 @@ if __name__ == "__main__":
     test_results_dir = "{}/test_results.txt".format(exp_dir)
 
     # store yml file
+    config.debug = args.debug
     if config.debug == False:
         yaml.dump(store_config, open("{}/exp_config.yml".format(exp_dir), "w"))
 

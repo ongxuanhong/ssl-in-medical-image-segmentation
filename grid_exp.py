@@ -19,7 +19,7 @@ python -u {}.py --cuda 0 --seed {} \
 --exp {} --dataset {} --sup_ratio {} \
 --conf_thres {} --fold {} --debug 1
 """
-for exp in ["cps"]:
+for exp in ["train_sup"]:
     for dataset in ["bccd"]:
         for supervised_ratio in grid_search["supervised_ratio"]:
             for conf_thresh in grid_search["conf_thresh"]:

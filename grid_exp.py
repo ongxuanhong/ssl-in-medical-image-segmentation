@@ -17,7 +17,7 @@ grid_search = {
 run_template = """
 python -u {}.py --cuda 0 --seed {} \
 --exp {} --dataset {} --sup_ratio {} \
---conf_thres {} --fold {} --debug 1
+--conf_thres {} --fold {}
 """
 for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
     for dataset in ["lisc", "bccd"]:

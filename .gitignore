@@ -1,6 +1,6 @@
 processed_data/
 download/
-checkpoints/
+checkpoints*/
 data/
 *.pyc
 .DS_store

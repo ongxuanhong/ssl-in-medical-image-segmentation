@@ -1,0 +1,839 @@
+Epoch 0, iter 1, Dice Sup Loss: 0.9568, BCE Sup Loss: 0.7316
+Epoch 0, iter 2, Dice Sup Loss: 0.93944, BCE Sup Loss: 0.55702
+Epoch 0, iter 3, Dice Sup Loss: 0.93594, BCE Sup Loss: 0.44383
+Epoch 0, iter 4, Dice Sup Loss: 0.91924, BCE Sup Loss: 0.36274
+Epoch 0, iter 5, Dice Sup Loss: 0.88922, BCE Sup Loss: 0.30554
+Epoch 0, iter 6, Dice Sup Loss: 0.9131, BCE Sup Loss: 0.25199
+Epoch 0, iter 7, Dice Sup Loss: 0.88667, BCE Sup Loss: 0.21368
+Epoch 0, Total train step 6 || AVG_loss: 0.67852, Avg Dice score: 0.0251, Avg IOU: 0.0128
+Epoch 0, Validation || sum_loss: 1.06478, Dice score: 0.0024, IOU: 0.0012
+New best epoch 0!===============================
+Training and evaluating on epoch0 complete in 0m 3s
+Epoch 1, iter 8, Dice Sup Loss: 0.89662, BCE Sup Loss: 0.1862
+Epoch 1, iter 9, Dice Sup Loss: 0.87385, BCE Sup Loss: 0.16798
+Epoch 1, iter 10, Dice Sup Loss: 0.87508, BCE Sup Loss: 0.14769
+Epoch 1, iter 11, Dice Sup Loss: 0.86932, BCE Sup Loss: 0.14114
+Epoch 1, iter 12, Dice Sup Loss: 0.87012, BCE Sup Loss: 0.12669
+Epoch 1, iter 13, Dice Sup Loss: 0.84971, BCE Sup Loss: 0.12753
+Epoch 1, iter 14, Dice Sup Loss: 0.84157, BCE Sup Loss: 0.11046
+Epoch 1, Total train step 13 || AVG_loss: 0.5096, Avg Dice score: 0.0008, Avg IOU: 0.0004
+Epoch 1, Validation || sum_loss: 0.95618, Dice score: 0.0127, IOU: 0.0064
+New best epoch 1!===============================
+Training and evaluating on epoch1 complete in 0m 2s
+Epoch 2, iter 15, Dice Sup Loss: 0.85934, BCE Sup Loss: 0.10796
+Epoch 2, iter 16, Dice Sup Loss: 0.84914, BCE Sup Loss: 0.10808
+Epoch 2, iter 17, Dice Sup Loss: 0.82791, BCE Sup Loss: 0.10526
+Epoch 2, iter 18, Dice Sup Loss: 0.84595, BCE Sup Loss: 0.11973
+Epoch 2, iter 19, Dice Sup Loss: 0.78625, BCE Sup Loss: 0.11507
+Epoch 2, iter 20, Dice Sup Loss: 0.74441, BCE Sup Loss: 0.12125
+Epoch 2, iter 21, Dice Sup Loss: 0.60661, BCE Sup Loss: 0.09485
+Epoch 2, Total train step 20 || AVG_loss: 0.46126, Avg Dice score: 0.0645, Avg IOU: 0.0368
+Epoch 2, Validation || sum_loss: 0.78615, Dice score: 0.2148, IOU: 0.125
+New best epoch 2!===============================
+Training and evaluating on epoch2 complete in 0m 2s
+Epoch 3, iter 22, Dice Sup Loss: 0.67482, BCE Sup Loss: 0.08494
+Epoch 3, iter 23, Dice Sup Loss: 0.62778, BCE Sup Loss: 0.08364
+Epoch 3, iter 24, Dice Sup Loss: 0.72016, BCE Sup Loss: 0.11221
+Epoch 3, iter 25, Dice Sup Loss: 0.42987, BCE Sup Loss: 0.06318
+Epoch 3, iter 26, Dice Sup Loss: 0.67164, BCE Sup Loss: 0.07784
+Epoch 3, iter 27, Dice Sup Loss: 0.59383, BCE Sup Loss: 0.06547
+Epoch 3, iter 28, Dice Sup Loss: 0.66128, BCE Sup Loss: 0.13653
+Epoch 3, Total train step 27 || AVG_loss: 0.35239, Avg Dice score: 0.3336, Avg IOU: 0.2093
+Epoch 3, Validation || sum_loss: 0.54468, Dice score: 0.5245, IOU: 0.3663
+New best epoch 3!===============================
+Training and evaluating on epoch3 complete in 0m 2s
+Epoch 4, iter 29, Dice Sup Loss: 0.40102, BCE Sup Loss: 0.06535
+Epoch 4, iter 30, Dice Sup Loss: 0.40026, BCE Sup Loss: 0.05156
+Epoch 4, iter 31, Dice Sup Loss: 0.53736, BCE Sup Loss: 0.06069
+Epoch 4, iter 32, Dice Sup Loss: 0.4512, BCE Sup Loss: 0.05122
+Epoch 4, iter 33, Dice Sup Loss: 0.31313, BCE Sup Loss: 0.0459
+Epoch 4, iter 34, Dice Sup Loss: 0.2993, BCE Sup Loss: 0.04219
+Epoch 4, iter 35, Dice Sup Loss: 0.40822, BCE Sup Loss: 0.05086
+Epoch 4, Total train step 34 || AVG_loss: 0.22671, Avg Dice score: 0.5979, Avg IOU: 0.4315
+Epoch 4, Validation || sum_loss: 0.72068, Dice score: 0.3609, IOU: 0.232
+Training and evaluating on epoch4 complete in 0m 2s
+Epoch 5, iter 36, Dice Sup Loss: 0.43454, BCE Sup Loss: 0.07379
+Epoch 5, iter 37, Dice Sup Loss: 0.49674, BCE Sup Loss: 0.06473
+Epoch 5, iter 38, Dice Sup Loss: 0.26135, BCE Sup Loss: 0.03753
+Epoch 5, iter 39, Dice Sup Loss: 0.33667, BCE Sup Loss: 0.04548
+Epoch 5, iter 40, Dice Sup Loss: 0.4318, BCE Sup Loss: 0.04543
+Epoch 5, iter 41, Dice Sup Loss: 0.53021, BCE Sup Loss: 0.05845
+Epoch 5, iter 42, Dice Sup Loss: 0.64273, BCE Sup Loss: 0.04984
+Epoch 5, Total train step 41 || AVG_loss: 0.23919, Avg Dice score: 0.5483, Avg IOU: 0.3854
+Epoch 5, Validation || sum_loss: 0.43418, Dice score: 0.5991, IOU: 0.4325
+New best epoch 5!===============================
+Training and evaluating on epoch5 complete in 0m 2s
+Epoch 6, iter 43, Dice Sup Loss: 0.52248, BCE Sup Loss: 0.04786
+Epoch 6, iter 44, Dice Sup Loss: 0.39142, BCE Sup Loss: 0.05043
+Epoch 6, iter 45, Dice Sup Loss: 0.34914, BCE Sup Loss: 0.04224
+Epoch 6, iter 46, Dice Sup Loss: 0.25409, BCE Sup Loss: 0.03683
+Epoch 6, iter 47, Dice Sup Loss: 0.35916, BCE Sup Loss: 0.0463
+Epoch 6, iter 48, Dice Sup Loss: 0.22167, BCE Sup Loss: 0.03389
+Epoch 6, iter 49, Dice Sup Loss: 0.1884, BCE Sup Loss: 0.02427
+Epoch 6, Total train step 48 || AVG_loss: 0.19269, Avg Dice score: 0.6403, Avg IOU: 0.4784
+Epoch 6, Validation || sum_loss: 0.43926, Dice score: 0.5818, IOU: 0.431
+Training and evaluating on epoch6 complete in 0m 2s
+Epoch 7, iter 50, Dice Sup Loss: 0.20964, BCE Sup Loss: 0.03119
+Epoch 7, iter 51, Dice Sup Loss: 0.26778, BCE Sup Loss: 0.04112
+Epoch 7, iter 52, Dice Sup Loss: 0.22382, BCE Sup Loss: 0.03012
+Epoch 7, iter 53, Dice Sup Loss: 0.18822, BCE Sup Loss: 0.02899
+Epoch 7, iter 54, Dice Sup Loss: 0.19124, BCE Sup Loss: 0.03006
+Epoch 7, iter 55, Dice Sup Loss: 0.24618, BCE Sup Loss: 0.03753
+Epoch 7, iter 56, Dice Sup Loss: 0.18302, BCE Sup Loss: 0.02758
+Epoch 7, Total train step 55 || AVG_loss: 0.12628, Avg Dice score: 0.763, Avg IOU: 0.6182
+Epoch 7, Validation || sum_loss: 0.26555, Dice score: 0.7504, IOU: 0.6023
+New best epoch 7!===============================
+Training and evaluating on epoch7 complete in 0m 2s
+Epoch 8, iter 57, Dice Sup Loss: 0.231, BCE Sup Loss: 0.03067
+Epoch 8, iter 58, Dice Sup Loss: 0.23683, BCE Sup Loss: 0.03198
+Epoch 8, iter 59, Dice Sup Loss: 0.25775, BCE Sup Loss: 0.03161
+Epoch 8, iter 60, Dice Sup Loss: 0.19498, BCE Sup Loss: 0.03016
+Epoch 8, iter 61, Dice Sup Loss: 0.22692, BCE Sup Loss: 0.03557
+Epoch 8, iter 62, Dice Sup Loss: 0.19259, BCE Sup Loss: 0.0288
+Epoch 8, iter 63, Dice Sup Loss: 0.14035, BCE Sup Loss: 0.02385
+Epoch 8, Total train step 62 || AVG_loss: 0.12559, Avg Dice score: 0.7689, Avg IOU: 0.6255
+Epoch 8, Validation || sum_loss: 0.24186, Dice score: 0.7672, IOU: 0.6241
+New best epoch 8!===============================
+Training and evaluating on epoch8 complete in 0m 2s
+Epoch 9, iter 64, Dice Sup Loss: 0.1904, BCE Sup Loss: 0.02448
+Epoch 9, iter 65, Dice Sup Loss: 0.19593, BCE Sup Loss: 0.0368
+Epoch 9, iter 66, Dice Sup Loss: 0.18901, BCE Sup Loss: 0.02865
+Epoch 9, iter 67, Dice Sup Loss: 0.18523, BCE Sup Loss: 0.02664
+Epoch 9, iter 68, Dice Sup Loss: 0.23979, BCE Sup Loss: 0.03207
+Epoch 9, iter 69, Dice Sup Loss: 0.18135, BCE Sup Loss: 0.02679
+Epoch 9, iter 70, Dice Sup Loss: 0.10544, BCE Sup Loss: 0.01765
+Epoch 9, Total train step 69 || AVG_loss: 0.11103, Avg Dice score: 0.7823, Avg IOU: 0.6436
+Epoch 9, Validation || sum_loss: 0.23917, Dice score: 0.7613, IOU: 0.618
+Training and evaluating on epoch9 complete in 0m 2s
+Epoch 10, iter 71, Dice Sup Loss: 0.15553, BCE Sup Loss: 0.02291
+Epoch 10, iter 72, Dice Sup Loss: 0.19583, BCE Sup Loss: 0.02655
+Epoch 10, iter 73, Dice Sup Loss: 0.18718, BCE Sup Loss: 0.03046
+Epoch 10, iter 74, Dice Sup Loss: 0.14663, BCE Sup Loss: 0.02348
+Epoch 10, iter 75, Dice Sup Loss: 0.17002, BCE Sup Loss: 0.02497
+Epoch 10, iter 76, Dice Sup Loss: 0.16144, BCE Sup Loss: 0.02408
+Epoch 10, iter 77, Dice Sup Loss: 0.35608, BCE Sup Loss: 0.04984
+Epoch 10, Total train step 76 || AVG_loss: 0.10164, Avg Dice score: 0.8016, Avg IOU: 0.6712
+Epoch 10, Validation || sum_loss: 0.2134, Dice score: 0.7895, IOU: 0.6539
+New best epoch 10!===============================
+Training and evaluating on epoch10 complete in 0m 2s
+Epoch 11, iter 78, Dice Sup Loss: 0.18185, BCE Sup Loss: 0.02708
+Epoch 11, iter 79, Dice Sup Loss: 0.16919, BCE Sup Loss: 0.02369
+Epoch 11, iter 80, Dice Sup Loss: 0.14478, BCE Sup Loss: 0.02131
+Epoch 11, iter 81, Dice Sup Loss: 0.22973, BCE Sup Loss: 0.02447
+Epoch 11, iter 82, Dice Sup Loss: 0.26909, BCE Sup Loss: 0.04041
+Epoch 11, iter 83, Dice Sup Loss: 0.2619, BCE Sup Loss: 0.03175
+Epoch 11, iter 84, Dice Sup Loss: 0.09917, BCE Sup Loss: 0.01653
+Epoch 11, Total train step 83 || AVG_loss: 0.11633, Avg Dice score: 0.7786, Avg IOU: 0.6402
+Epoch 11, Validation || sum_loss: 0.24407, Dice score: 0.7697, IOU: 0.6278
+Training and evaluating on epoch11 complete in 0m 2s
+Epoch 12, iter 85, Dice Sup Loss: 0.2147, BCE Sup Loss: 0.02762
+Epoch 12, iter 86, Dice Sup Loss: 0.22732, BCE Sup Loss: 0.02763
+Epoch 12, iter 87, Dice Sup Loss: 0.18745, BCE Sup Loss: 0.02921
+Epoch 12, iter 88, Dice Sup Loss: 0.22341, BCE Sup Loss: 0.03202
+Epoch 12, iter 89, Dice Sup Loss: 0.20538, BCE Sup Loss: 0.02594
+Epoch 12, iter 90, Dice Sup Loss: 0.15571, BCE Sup Loss: 0.0227
+Epoch 12, iter 91, Dice Sup Loss: 0.13283, BCE Sup Loss: 0.02153
+Epoch 12, Total train step 90 || AVG_loss: 0.11341, Avg Dice score: 0.7825, Avg IOU: 0.6435
+Epoch 12, Validation || sum_loss: 0.22221, Dice score: 0.7751, IOU: 0.6355
+Training and evaluating on epoch12 complete in 0m 2s
+Epoch 13, iter 92, Dice Sup Loss: 0.17531, BCE Sup Loss: 0.02491
+Epoch 13, iter 93, Dice Sup Loss: 0.19423, BCE Sup Loss: 0.02862
+Epoch 13, iter 94, Dice Sup Loss: 0.14487, BCE Sup Loss: 0.02009
+Epoch 13, iter 95, Dice Sup Loss: 0.13206, BCE Sup Loss: 0.02089
+Epoch 13, iter 96, Dice Sup Loss: 0.13807, BCE Sup Loss: 0.02369
+Epoch 13, iter 97, Dice Sup Loss: 0.16323, BCE Sup Loss: 0.024
+Epoch 13, iter 98, Dice Sup Loss: 0.1454, BCE Sup Loss: 0.02517
+Epoch 13, Total train step 97 || AVG_loss: 0.09061, Avg Dice score: 0.8163, Avg IOU: 0.6904
+Epoch 13, Validation || sum_loss: 0.20455, Dice score: 0.7967, IOU: 0.6642
+New best epoch 13!===============================
+Training and evaluating on epoch13 complete in 0m 2s
+Epoch 14, iter 99, Dice Sup Loss: 0.19985, BCE Sup Loss: 0.02491
+Epoch 14, iter 100, Dice Sup Loss: 0.17789, BCE Sup Loss: 0.02436
+Epoch 14, iter 101, Dice Sup Loss: 0.15257, BCE Sup Loss: 0.02765
+Epoch 14, iter 102, Dice Sup Loss: 0.12413, BCE Sup Loss: 0.02313
+Epoch 14, iter 103, Dice Sup Loss: 0.17138, BCE Sup Loss: 0.02701
+Epoch 14, iter 104, Dice Sup Loss: 0.16262, BCE Sup Loss: 0.02202
+Epoch 14, iter 105, Dice Sup Loss: 0.14268, BCE Sup Loss: 0.02618
+Epoch 14, Total train step 104 || AVG_loss: 0.09438, Avg Dice score: 0.8158, Avg IOU: 0.6897
+Epoch 14, Validation || sum_loss: 0.18848, Dice score: 0.8098, IOU: 0.6825
+New best epoch 14!===============================
+Training and evaluating on epoch14 complete in 0m 2s
+Epoch 15, iter 106, Dice Sup Loss: 0.15311, BCE Sup Loss: 0.02103
+Epoch 15, iter 107, Dice Sup Loss: 0.13326, BCE Sup Loss: 0.02044
+Epoch 15, iter 108, Dice Sup Loss: 0.16142, BCE Sup Loss: 0.02232
+Epoch 15, iter 109, Dice Sup Loss: 0.12158, BCE Sup Loss: 0.01851
+Epoch 15, iter 110, Dice Sup Loss: 0.14276, BCE Sup Loss: 0.02043
+Epoch 15, iter 111, Dice Sup Loss: 0.14424, BCE Sup Loss: 0.02272
+Epoch 15, iter 112, Dice Sup Loss: 0.10224, BCE Sup Loss: 0.01693
+Epoch 15, Total train step 111 || AVG_loss: 0.08093, Avg Dice score: 0.8376, Avg IOU: 0.7209
+Epoch 15, Validation || sum_loss: 0.18344, Dice score: 0.8122, IOU: 0.6858
+New best epoch 15!===============================
+Training and evaluating on epoch15 complete in 0m 2s
+Epoch 16, iter 113, Dice Sup Loss: 0.13346, BCE Sup Loss: 0.01837
+Epoch 16, iter 114, Dice Sup Loss: 0.13112, BCE Sup Loss: 0.02416
+Epoch 16, iter 115, Dice Sup Loss: 0.16766, BCE Sup Loss: 0.02257
+Epoch 16, iter 116, Dice Sup Loss: 0.12603, BCE Sup Loss: 0.01899
+Epoch 16, iter 117, Dice Sup Loss: 0.12891, BCE Sup Loss: 0.01623
+Epoch 16, iter 118, Dice Sup Loss: 0.16443, BCE Sup Loss: 0.01956
+Epoch 16, iter 119, Dice Sup Loss: 0.1038, BCE Sup Loss: 0.01989
+Epoch 16, Total train step 118 || AVG_loss: 0.08019, Avg Dice score: 0.8336, Avg IOU: 0.7152
+Epoch 16, Validation || sum_loss: 0.17409, Dice score: 0.8214, IOU: 0.6989
+New best epoch 16!===============================
+Training and evaluating on epoch16 complete in 0m 2s
+Epoch 17, iter 120, Dice Sup Loss: 0.1197, BCE Sup Loss: 0.01826
+Epoch 17, iter 121, Dice Sup Loss: 0.12989, BCE Sup Loss: 0.01884
+Epoch 17, iter 122, Dice Sup Loss: 0.14251, BCE Sup Loss: 0.01626
+Epoch 17, iter 123, Dice Sup Loss: 0.12625, BCE Sup Loss: 0.01816
+Epoch 17, iter 124, Dice Sup Loss: 0.10117, BCE Sup Loss: 0.01869
+Epoch 17, iter 125, Dice Sup Loss: 0.21154, BCE Sup Loss: 0.02489
+Epoch 17, iter 126, Dice Sup Loss: 0.08435, BCE Sup Loss: 0.01415
+Epoch 17, Total train step 125 || AVG_loss: 0.07766, Avg Dice score: 0.843, Avg IOU: 0.7306
+Epoch 17, Validation || sum_loss: 0.16429, Dice score: 0.8299, IOU: 0.7109
+New best epoch 17!===============================
+Training and evaluating on epoch17 complete in 0m 2s
+Epoch 18, iter 127, Dice Sup Loss: 0.12785, BCE Sup Loss: 0.0176
+Epoch 18, iter 128, Dice Sup Loss: 0.12324, BCE Sup Loss: 0.01637
+Epoch 18, iter 129, Dice Sup Loss: 0.10701, BCE Sup Loss: 0.01651
+Epoch 18, iter 130, Dice Sup Loss: 0.15291, BCE Sup Loss: 0.02188
+Epoch 18, iter 131, Dice Sup Loss: 0.12835, BCE Sup Loss: 0.02128
+Epoch 18, iter 132, Dice Sup Loss: 0.09836, BCE Sup Loss: 0.01487
+Epoch 18, iter 133, Dice Sup Loss: 0.09077, BCE Sup Loss: 0.01428
+Epoch 18, Total train step 132 || AVG_loss: 0.0698, Avg Dice score: 0.8611, Avg IOU: 0.7566
+Epoch 18, Validation || sum_loss: 0.15756, Dice score: 0.8365, IOU: 0.7207
+New best epoch 18!===============================
+Training and evaluating on epoch18 complete in 0m 2s
+Epoch 19, iter 134, Dice Sup Loss: 0.10756, BCE Sup Loss: 0.0153
+Epoch 19, iter 135, Dice Sup Loss: 0.09647, BCE Sup Loss: 0.01422
+Epoch 19, iter 136, Dice Sup Loss: 0.13268, BCE Sup Loss: 0.01763
+Epoch 19, iter 137, Dice Sup Loss: 0.10886, BCE Sup Loss: 0.01624
+Epoch 19, iter 138, Dice Sup Loss: 0.13113, BCE Sup Loss: 0.01925
+Epoch 19, iter 139, Dice Sup Loss: 0.12421, BCE Sup Loss: 0.02034
+Epoch 19, iter 140, Dice Sup Loss: 0.12803, BCE Sup Loss: 0.0188
+Epoch 19, Total train step 139 || AVG_loss: 0.06725, Avg Dice score: 0.8644, Avg IOU: 0.7614
+Epoch 19, Validation || sum_loss: 0.16083, Dice score: 0.8338, IOU: 0.7164
+Training and evaluating on epoch19 complete in 0m 2s
+Epoch 20, iter 141, Dice Sup Loss: 0.11235, BCE Sup Loss: 0.01614
+Epoch 20, iter 142, Dice Sup Loss: 0.09714, BCE Sup Loss: 0.0169
+Epoch 20, iter 143, Dice Sup Loss: 0.11831, BCE Sup Loss: 0.01754
+Epoch 20, iter 144, Dice Sup Loss: 0.09855, BCE Sup Loss: 0.01508
+Epoch 20, iter 145, Dice Sup Loss: 0.13577, BCE Sup Loss: 0.01763
+Epoch 20, iter 146, Dice Sup Loss: 0.14097, BCE Sup Loss: 0.01807
+Epoch 20, iter 147, Dice Sup Loss: 0.06817, BCE Sup Loss: 0.01264
+Epoch 20, Total train step 146 || AVG_loss: 0.06597, Avg Dice score: 0.8637, Avg IOU: 0.7607
+Epoch 20, Validation || sum_loss: 0.15085, Dice score: 0.8437, IOU: 0.7313
+New best epoch 20!===============================
+Training and evaluating on epoch20 complete in 0m 2s
+Epoch 21, iter 148, Dice Sup Loss: 0.091, BCE Sup Loss: 0.01536
+Epoch 21, iter 149, Dice Sup Loss: 0.14172, BCE Sup Loss: 0.02057
+Epoch 21, iter 150, Dice Sup Loss: 0.0959, BCE Sup Loss: 0.01405
+Epoch 21, iter 151, Dice Sup Loss: 0.09097, BCE Sup Loss: 0.01386
+Epoch 21, iter 152, Dice Sup Loss: 0.15011, BCE Sup Loss: 0.01794
+Epoch 21, iter 153, Dice Sup Loss: 0.1377, BCE Sup Loss: 0.01962
+Epoch 21, iter 154, Dice Sup Loss: 0.12432, BCE Sup Loss: 0.01309
+Epoch 21, Total train step 153 || AVG_loss: 0.06745, Avg Dice score: 0.8634, Avg IOU: 0.7607
+Epoch 21, Validation || sum_loss: 0.14616, Dice score: 0.8469, IOU: 0.7364
+New best epoch 21!===============================
+Training and evaluating on epoch21 complete in 0m 2s
+Epoch 22, iter 155, Dice Sup Loss: 0.09503, BCE Sup Loss: 0.01455
+Epoch 22, iter 156, Dice Sup Loss: 0.16514, BCE Sup Loss: 0.02205
+Epoch 22, iter 157, Dice Sup Loss: 0.16229, BCE Sup Loss: 0.01967
+Epoch 22, iter 158, Dice Sup Loss: 0.14687, BCE Sup Loss: 0.01755
+Epoch 22, iter 159, Dice Sup Loss: 0.10856, BCE Sup Loss: 0.01544
+Epoch 22, iter 160, Dice Sup Loss: 0.10664, BCE Sup Loss: 0.01495
+Epoch 22, iter 161, Dice Sup Loss: 0.12595, BCE Sup Loss: 0.01665
+Epoch 22, Total train step 160 || AVG_loss: 0.07395, Avg Dice score: 0.8501, Avg IOU: 0.7404
+Epoch 22, Validation || sum_loss: 0.18192, Dice score: 0.8048, IOU: 0.6749
+Training and evaluating on epoch22 complete in 0m 2s
+Epoch 23, iter 162, Dice Sup Loss: 0.17128, BCE Sup Loss: 0.02021
+Epoch 23, iter 163, Dice Sup Loss: 0.16639, BCE Sup Loss: 0.01983
+Epoch 23, iter 164, Dice Sup Loss: 0.11501, BCE Sup Loss: 0.01994
+Epoch 23, iter 165, Dice Sup Loss: 0.08788, BCE Sup Loss: 0.01393
+Epoch 23, iter 166, Dice Sup Loss: 0.10938, BCE Sup Loss: 0.01545
+Epoch 23, iter 167, Dice Sup Loss: 0.1324, BCE Sup Loss: 0.01446
+Epoch 23, iter 168, Dice Sup Loss: 0.1282, BCE Sup Loss: 0.01648
+Epoch 23, Total train step 167 || AVG_loss: 0.07379, Avg Dice score: 0.844, Avg IOU: 0.7319
+Epoch 23, Validation || sum_loss: 0.14472, Dice score: 0.8492, IOU: 0.7398
+New best epoch 23!===============================
+Training and evaluating on epoch23 complete in 0m 2s
+Epoch 24, iter 169, Dice Sup Loss: 0.1157, BCE Sup Loss: 0.01598
+Epoch 24, iter 170, Dice Sup Loss: 0.09824, BCE Sup Loss: 0.01547
+Epoch 24, iter 171, Dice Sup Loss: 0.13305, BCE Sup Loss: 0.01754
+Epoch 24, iter 172, Dice Sup Loss: 0.11434, BCE Sup Loss: 0.01722
+Epoch 24, iter 173, Dice Sup Loss: 0.15166, BCE Sup Loss: 0.01984
+Epoch 24, iter 174, Dice Sup Loss: 0.09221, BCE Sup Loss: 0.0135
+Epoch 24, iter 175, Dice Sup Loss: 0.10444, BCE Sup Loss: 0.01269
+Epoch 24, Total train step 174 || AVG_loss: 0.06672, Avg Dice score: 0.86, Avg IOU: 0.755
+Epoch 24, Validation || sum_loss: 0.15383, Dice score: 0.8374, IOU: 0.7226
+Training and evaluating on epoch24 complete in 0m 2s
+Epoch 25, iter 176, Dice Sup Loss: 0.11987, BCE Sup Loss: 0.01459
+Epoch 25, iter 177, Dice Sup Loss: 0.13452, BCE Sup Loss: 0.01892
+Epoch 25, iter 178, Dice Sup Loss: 0.15511, BCE Sup Loss: 0.01938
+Epoch 25, iter 179, Dice Sup Loss: 0.07959, BCE Sup Loss: 0.0133
+Epoch 25, iter 180, Dice Sup Loss: 0.08521, BCE Sup Loss: 0.01382
+Epoch 25, iter 181, Dice Sup Loss: 0.1328, BCE Sup Loss: 0.01626
+Epoch 25, iter 182, Dice Sup Loss: 0.10418, BCE Sup Loss: 0.01314
+Epoch 25, Total train step 181 || AVG_loss: 0.06662, Avg Dice score: 0.8596, Avg IOU: 0.755
+Epoch 25, Validation || sum_loss: 0.14331, Dice score: 0.8507, IOU: 0.7415
+New best epoch 25!===============================
+Training and evaluating on epoch25 complete in 0m 2s
+Epoch 26, iter 183, Dice Sup Loss: 0.10362, BCE Sup Loss: 0.01605
+Epoch 26, iter 184, Dice Sup Loss: 0.1111, BCE Sup Loss: 0.01366
+Epoch 26, iter 185, Dice Sup Loss: 0.10402, BCE Sup Loss: 0.01361
+Epoch 26, iter 186, Dice Sup Loss: 0.08464, BCE Sup Loss: 0.01314
+Epoch 26, iter 187, Dice Sup Loss: 0.1404, BCE Sup Loss: 0.02063
+Epoch 26, iter 188, Dice Sup Loss: 0.08399, BCE Sup Loss: 0.01271
+Epoch 26, iter 189, Dice Sup Loss: 0.15164, BCE Sup Loss: 0.01481
+Epoch 26, Total train step 188 || AVG_loss: 0.06074, Avg Dice score: 0.8747, Avg IOU: 0.778
+Epoch 26, Validation || sum_loss: 0.13733, Dice score: 0.8552, IOU: 0.7489
+New best epoch 26!===============================
+Training and evaluating on epoch26 complete in 0m 2s
+Epoch 27, iter 190, Dice Sup Loss: 0.14547, BCE Sup Loss: 0.01852
+Epoch 27, iter 191, Dice Sup Loss: 0.0808, BCE Sup Loss: 0.01432
+Epoch 27, iter 192, Dice Sup Loss: 0.0952, BCE Sup Loss: 0.01477
+Epoch 27, iter 193, Dice Sup Loss: 0.11465, BCE Sup Loss: 0.01422
+Epoch 27, iter 194, Dice Sup Loss: 0.10872, BCE Sup Loss: 0.01419
+Epoch 27, iter 195, Dice Sup Loss: 0.07132, BCE Sup Loss: 0.01207
+Epoch 27, iter 196, Dice Sup Loss: 0.20638, BCE Sup Loss: 0.02273
+Epoch 27, Total train step 195 || AVG_loss: 0.06092, Avg Dice score: 0.8731, Avg IOU: 0.7761
+Epoch 27, Validation || sum_loss: 0.15207, Dice score: 0.8407, IOU: 0.7274
+Training and evaluating on epoch27 complete in 0m 2s
+Epoch 28, iter 197, Dice Sup Loss: 0.15238, BCE Sup Loss: 0.01838
+Epoch 28, iter 198, Dice Sup Loss: 0.14651, BCE Sup Loss: 0.01629
+Epoch 28, iter 199, Dice Sup Loss: 0.10369, BCE Sup Loss: 0.01223
+Epoch 28, iter 200, Dice Sup Loss: 0.07892, BCE Sup Loss: 0.01317
+Epoch 28, iter 201, Dice Sup Loss: 0.0728, BCE Sup Loss: 0.01393
+Epoch 28, iter 202, Dice Sup Loss: 0.08655, BCE Sup Loss: 0.01197
+Epoch 28, iter 203, Dice Sup Loss: 0.21837, BCE Sup Loss: 0.0228
+Epoch 28, Total train step 202 || AVG_loss: 0.06297, Avg Dice score: 0.8694, Avg IOU: 0.7715
+Epoch 28, Validation || sum_loss: 0.14159, Dice score: 0.8508, IOU: 0.742
+Training and evaluating on epoch28 complete in 0m 2s
+Epoch 29, iter 204, Dice Sup Loss: 0.11126, BCE Sup Loss: 0.01484
+Epoch 29, iter 205, Dice Sup Loss: 0.0962, BCE Sup Loss: 0.01244
+Epoch 29, iter 206, Dice Sup Loss: 0.10941, BCE Sup Loss: 0.01623
+Epoch 29, iter 207, Dice Sup Loss: 0.08238, BCE Sup Loss: 0.01264
+Epoch 29, iter 208, Dice Sup Loss: 0.0762, BCE Sup Loss: 0.01251
+Epoch 29, iter 209, Dice Sup Loss: 0.1228, BCE Sup Loss: 0.01475
+Epoch 29, iter 210, Dice Sup Loss: 0.09227, BCE Sup Loss: 0.01341
+Epoch 29, Total train step 209 || AVG_loss: 0.05665, Avg Dice score: 0.882, Avg IOU: 0.7893
+Epoch 29, Validation || sum_loss: 0.1333, Dice score: 0.8572, IOU: 0.7521
+New best epoch 29!===============================
+Training and evaluating on epoch29 complete in 0m 2s
+Epoch 30, iter 211, Dice Sup Loss: 0.10287, BCE Sup Loss: 0.01366
+Epoch 30, iter 212, Dice Sup Loss: 0.07606, BCE Sup Loss: 0.01174
+Epoch 30, iter 213, Dice Sup Loss: 0.13432, BCE Sup Loss: 0.01403
+Epoch 30, iter 214, Dice Sup Loss: 0.07863, BCE Sup Loss: 0.01413
+Epoch 30, iter 215, Dice Sup Loss: 0.07701, BCE Sup Loss: 0.01214
+Epoch 30, iter 216, Dice Sup Loss: 0.14294, BCE Sup Loss: 0.0185
+Epoch 30, iter 217, Dice Sup Loss: 0.05662, BCE Sup Loss: 0.01086
+Epoch 30, Total train step 216 || AVG_loss: 0.05703, Avg Dice score: 0.8799, Avg IOU: 0.7872
+Epoch 30, Validation || sum_loss: 0.12882, Dice score: 0.8624, IOU: 0.7602
+New best epoch 30!===============================
+Training and evaluating on epoch30 complete in 0m 2s
+Epoch 31, iter 218, Dice Sup Loss: 0.07186, BCE Sup Loss: 0.01087
+Epoch 31, iter 219, Dice Sup Loss: 0.11463, BCE Sup Loss: 0.0149
+Epoch 31, iter 220, Dice Sup Loss: 0.14026, BCE Sup Loss: 0.01628
+Epoch 31, iter 221, Dice Sup Loss: 0.07042, BCE Sup Loss: 0.01016
+Epoch 31, iter 222, Dice Sup Loss: 0.09006, BCE Sup Loss: 0.0114
+Epoch 31, iter 223, Dice Sup Loss: 0.08076, BCE Sup Loss: 0.01411
+Epoch 31, iter 224, Dice Sup Loss: 0.09722, BCE Sup Loss: 0.015
+Epoch 31, Total train step 223 || AVG_loss: 0.0539, Avg Dice score: 0.8873, Avg IOU: 0.7985
+Epoch 31, Validation || sum_loss: 0.12873, Dice score: 0.865, IOU: 0.7637
+New best epoch 31!===============================
+Training and evaluating on epoch31 complete in 0m 2s
+Epoch 32, iter 225, Dice Sup Loss: 0.10206, BCE Sup Loss: 0.0155
+Epoch 32, iter 226, Dice Sup Loss: 0.11843, BCE Sup Loss: 0.01468
+Epoch 32, iter 227, Dice Sup Loss: 0.08225, BCE Sup Loss: 0.01166
+Epoch 32, iter 228, Dice Sup Loss: 0.1101, BCE Sup Loss: 0.01386
+Epoch 32, iter 229, Dice Sup Loss: 0.06434, BCE Sup Loss: 0.0102
+Epoch 32, iter 230, Dice Sup Loss: 0.08765, BCE Sup Loss: 0.01336
+Epoch 32, iter 231, Dice Sup Loss: 0.04928, BCE Sup Loss: 0.00994
+Epoch 32, Total train step 230 || AVG_loss: 0.05271, Avg Dice score: 0.8898, Avg IOU: 0.8023
+Epoch 32, Validation || sum_loss: 0.12468, Dice score: 0.8674, IOU: 0.7673
+New best epoch 32!===============================
+Training and evaluating on epoch32 complete in 0m 2s
+Epoch 33, iter 232, Dice Sup Loss: 0.07066, BCE Sup Loss: 0.01229
+Epoch 33, iter 233, Dice Sup Loss: 0.07893, BCE Sup Loss: 0.01141
+Epoch 33, iter 234, Dice Sup Loss: 0.09575, BCE Sup Loss: 0.01305
+Epoch 33, iter 235, Dice Sup Loss: 0.06627, BCE Sup Loss: 0.01135
+Epoch 33, iter 236, Dice Sup Loss: 0.11639, BCE Sup Loss: 0.01519
+Epoch 33, iter 237, Dice Sup Loss: 0.10172, BCE Sup Loss: 0.01198
+Epoch 33, iter 238, Dice Sup Loss: 0.14896, BCE Sup Loss: 0.01091
+Epoch 33, Total train step 237 || AVG_loss: 0.0516, Avg Dice score: 0.8908, Avg IOU: 0.804
+Epoch 33, Validation || sum_loss: 0.12021, Dice score: 0.874, IOU: 0.7778
+New best epoch 33!===============================
+Training and evaluating on epoch33 complete in 0m 2s
+Epoch 34, iter 239, Dice Sup Loss: 0.12771, BCE Sup Loss: 0.01501
+Epoch 34, iter 240, Dice Sup Loss: 0.07849, BCE Sup Loss: 0.01132
+Epoch 34, iter 241, Dice Sup Loss: 0.07266, BCE Sup Loss: 0.01294
+Epoch 34, iter 242, Dice Sup Loss: 0.09321, BCE Sup Loss: 0.01201
+Epoch 34, iter 243, Dice Sup Loss: 0.06978, BCE Sup Loss: 0.01051
+Epoch 34, iter 244, Dice Sup Loss: 0.10371, BCE Sup Loss: 0.01276
+Epoch 34, iter 245, Dice Sup Loss: 0.08427, BCE Sup Loss: 0.01038
+Epoch 34, Total train step 244 || AVG_loss: 0.0515, Avg Dice score: 0.8904, Avg IOU: 0.8032
+Epoch 34, Validation || sum_loss: 0.12278, Dice score: 0.8688, IOU: 0.7698
+Training and evaluating on epoch34 complete in 0m 2s
+Epoch 35, iter 246, Dice Sup Loss: 0.10579, BCE Sup Loss: 0.01309
+Epoch 35, iter 247, Dice Sup Loss: 0.0703, BCE Sup Loss: 0.01119
+Epoch 35, iter 248, Dice Sup Loss: 0.06022, BCE Sup Loss: 0.01021
+Epoch 35, iter 249, Dice Sup Loss: 0.13804, BCE Sup Loss: 0.01461
+Epoch 35, iter 250, Dice Sup Loss: 0.07434, BCE Sup Loss: 0.01083
+Epoch 35, iter 251, Dice Sup Loss: 0.10256, BCE Sup Loss: 0.01417
+Epoch 35, iter 252, Dice Sup Loss: 0.11079, BCE Sup Loss: 0.01335
+Epoch 35, Total train step 251 || AVG_loss: 0.05251, Avg Dice score: 0.8875, Avg IOU: 0.799
+Epoch 35, Validation || sum_loss: 0.12322, Dice score: 0.8676, IOU: 0.7674
+Training and evaluating on epoch35 complete in 0m 2s
+Epoch 36, iter 253, Dice Sup Loss: 0.06248, BCE Sup Loss: 0.01053
+Epoch 36, iter 254, Dice Sup Loss: 0.08087, BCE Sup Loss: 0.01193
+Epoch 36, iter 255, Dice Sup Loss: 0.06635, BCE Sup Loss: 0.01002
+Epoch 36, iter 256, Dice Sup Loss: 0.07126, BCE Sup Loss: 0.00975
+Epoch 36, iter 257, Dice Sup Loss: 0.12279, BCE Sup Loss: 0.01298
+Epoch 36, iter 258, Dice Sup Loss: 0.1218, BCE Sup Loss: 0.0183
+Epoch 36, iter 259, Dice Sup Loss: 0.0943, BCE Sup Loss: 0.00935
+Epoch 36, Total train step 258 || AVG_loss: 0.05, Avg Dice score: 0.8938, Avg IOU: 0.809
+Epoch 36, Validation || sum_loss: 0.12083, Dice score: 0.871, IOU: 0.773
+Training and evaluating on epoch36 complete in 0m 2s
+Epoch 37, iter 260, Dice Sup Loss: 0.07928, BCE Sup Loss: 0.01104
+Epoch 37, iter 261, Dice Sup Loss: 0.06533, BCE Sup Loss: 0.01275
+Epoch 37, iter 262, Dice Sup Loss: 0.11497, BCE Sup Loss: 0.01406
+Epoch 37, iter 263, Dice Sup Loss: 0.10829, BCE Sup Loss: 0.01354
+Epoch 37, iter 264, Dice Sup Loss: 0.06839, BCE Sup Loss: 0.00998
+Epoch 37, iter 265, Dice Sup Loss: 0.06715, BCE Sup Loss: 0.00953
+Epoch 37, iter 266, Dice Sup Loss: 0.11792, BCE Sup Loss: 0.01139
+Epoch 37, Total train step 265 || AVG_loss: 0.04853, Avg Dice score: 0.8969, Avg IOU: 0.8138
+Epoch 37, Validation || sum_loss: 0.1171, Dice score: 0.8744, IOU: 0.7784
+New best epoch 37!===============================
+Training and evaluating on epoch37 complete in 0m 2s
+Epoch 38, iter 267, Dice Sup Loss: 0.08374, BCE Sup Loss: 0.01225
+Epoch 38, iter 268, Dice Sup Loss: 0.07826, BCE Sup Loss: 0.01076
+Epoch 38, iter 269, Dice Sup Loss: 0.05892, BCE Sup Loss: 0.01142
+Epoch 38, iter 270, Dice Sup Loss: 0.09396, BCE Sup Loss: 0.01219
+Epoch 38, iter 271, Dice Sup Loss: 0.13382, BCE Sup Loss: 0.01475
+Epoch 38, iter 272, Dice Sup Loss: 0.06505, BCE Sup Loss: 0.00896
+Epoch 38, iter 273, Dice Sup Loss: 0.04779, BCE Sup Loss: 0.00835
+Epoch 38, Total train step 272 || AVG_loss: 0.04785, Avg Dice score: 0.8987, Avg IOU: 0.8173
+Epoch 38, Validation || sum_loss: 0.12211, Dice score: 0.8698, IOU: 0.772
+Training and evaluating on epoch38 complete in 0m 2s
+Epoch 39, iter 274, Dice Sup Loss: 0.1091, BCE Sup Loss: 0.01318
+Epoch 39, iter 275, Dice Sup Loss: 0.09459, BCE Sup Loss: 0.01309
+Epoch 39, iter 276, Dice Sup Loss: 0.0611, BCE Sup Loss: 0.0093
+Epoch 39, iter 277, Dice Sup Loss: 0.07418, BCE Sup Loss: 0.01135
+Epoch 39, iter 278, Dice Sup Loss: 0.09799, BCE Sup Loss: 0.01249
+Epoch 39, iter 279, Dice Sup Loss: 0.07864, BCE Sup Loss: 0.01098
+Epoch 39, iter 280, Dice Sup Loss: 0.07846, BCE Sup Loss: 0.00952
+Epoch 39, Total train step 279 || AVG_loss: 0.04864, Avg Dice score: 0.8964, Avg IOU: 0.8127
+Epoch 39, Validation || sum_loss: 0.12288, Dice score: 0.8683, IOU: 0.7686
+Training and evaluating on epoch39 complete in 0m 2s
+Epoch 40, iter 281, Dice Sup Loss: 0.06316, BCE Sup Loss: 0.01
+Epoch 40, iter 282, Dice Sup Loss: 0.09191, BCE Sup Loss: 0.01112
+Epoch 40, iter 283, Dice Sup Loss: 0.10424, BCE Sup Loss: 0.01321
+Epoch 40, iter 284, Dice Sup Loss: 0.07177, BCE Sup Loss: 0.01023
+Epoch 40, iter 285, Dice Sup Loss: 0.06423, BCE Sup Loss: 0.01074
+Epoch 40, iter 286, Dice Sup Loss: 0.05536, BCE Sup Loss: 0.00868
+Epoch 40, iter 287, Dice Sup Loss: 0.18043, BCE Sup Loss: 0.01986
+Epoch 40, Total train step 286 || AVG_loss: 0.04518, Avg Dice score: 0.9041, Avg IOU: 0.8263
+Epoch 40, Validation || sum_loss: 0.11564, Dice score: 0.8761, IOU: 0.7815
+New best epoch 40!===============================
+Training and evaluating on epoch40 complete in 0m 2s
+Epoch 41, iter 288, Dice Sup Loss: 0.093, BCE Sup Loss: 0.01141
+Epoch 41, iter 289, Dice Sup Loss: 0.11318, BCE Sup Loss: 0.01524
+Epoch 41, iter 290, Dice Sup Loss: 0.06827, BCE Sup Loss: 0.0105
+Epoch 41, iter 291, Dice Sup Loss: 0.07241, BCE Sup Loss: 0.00983
+Epoch 41, iter 292, Dice Sup Loss: 0.06525, BCE Sup Loss: 0.01056
+Epoch 41, iter 293, Dice Sup Loss: 0.0757, BCE Sup Loss: 0.01023
+Epoch 41, iter 294, Dice Sup Loss: 0.05217, BCE Sup Loss: 0.00896
+Epoch 41, Total train step 293 || AVG_loss: 0.04567, Avg Dice score: 0.9044, Avg IOU: 0.826
+Epoch 41, Validation || sum_loss: 0.1132, Dice score: 0.8796, IOU: 0.7867
+New best epoch 41!===============================
+Training and evaluating on epoch41 complete in 0m 2s
+Epoch 42, iter 295, Dice Sup Loss: 0.05922, BCE Sup Loss: 0.01165
+Epoch 42, iter 296, Dice Sup Loss: 0.0829, BCE Sup Loss: 0.01004
+Epoch 42, iter 297, Dice Sup Loss: 0.12787, BCE Sup Loss: 0.01434
+Epoch 42, iter 298, Dice Sup Loss: 0.04821, BCE Sup Loss: 0.00778
+Epoch 42, iter 299, Dice Sup Loss: 0.0847, BCE Sup Loss: 0.01113
+Epoch 42, iter 300, Dice Sup Loss: 0.07565, BCE Sup Loss: 0.01016
+Epoch 42, iter 301, Dice Sup Loss: 0.04377, BCE Sup Loss: 0.00767
+Epoch 42, Total train step 300 || AVG_loss: 0.04452, Avg Dice score: 0.9046, Avg IOU: 0.8271
+Epoch 42, Validation || sum_loss: 0.11308, Dice score: 0.8788, IOU: 0.7855
+Training and evaluating on epoch42 complete in 0m 2s
+Epoch 43, iter 302, Dice Sup Loss: 0.05491, BCE Sup Loss: 0.01015
+Epoch 43, iter 303, Dice Sup Loss: 0.07515, BCE Sup Loss: 0.00913
+Epoch 43, iter 304, Dice Sup Loss: 0.0569, BCE Sup Loss: 0.00904
+Epoch 43, iter 305, Dice Sup Loss: 0.06498, BCE Sup Loss: 0.01016
+Epoch 43, iter 306, Dice Sup Loss: 0.11988, BCE Sup Loss: 0.01405
+Epoch 43, iter 307, Dice Sup Loss: 0.1042, BCE Sup Loss: 0.01259
+Epoch 43, iter 308, Dice Sup Loss: 0.05935, BCE Sup Loss: 0.00766
+Epoch 43, Total train step 307 || AVG_loss: 0.04463, Avg Dice score: 0.9055, Avg IOU: 0.8284
+Epoch 43, Validation || sum_loss: 0.10986, Dice score: 0.8825, IOU: 0.7918
+New best epoch 43!===============================
+Training and evaluating on epoch43 complete in 0m 2s
+Epoch 44, iter 309, Dice Sup Loss: 0.09354, BCE Sup Loss: 0.01191
+Epoch 44, iter 310, Dice Sup Loss: 0.08005, BCE Sup Loss: 0.01116
+Epoch 44, iter 311, Dice Sup Loss: 0.06268, BCE Sup Loss: 0.00845
+Epoch 44, iter 312, Dice Sup Loss: 0.05691, BCE Sup Loss: 0.00822
+Epoch 44, iter 313, Dice Sup Loss: 0.09435, BCE Sup Loss: 0.01177
+Epoch 44, iter 314, Dice Sup Loss: 0.06276, BCE Sup Loss: 0.01118
+Epoch 44, iter 315, Dice Sup Loss: 0.08734, BCE Sup Loss: 0.01066
+Epoch 44, Total train step 314 || AVG_loss: 0.043, Avg Dice score: 0.9086, Avg IOU: 0.8329
+Epoch 44, Validation || sum_loss: 0.10978, Dice score: 0.8822, IOU: 0.7909
+Training and evaluating on epoch44 complete in 0m 2s
+Epoch 45, iter 316, Dice Sup Loss: 0.07131, BCE Sup Loss: 0.01049
+Epoch 45, iter 317, Dice Sup Loss: 0.0671, BCE Sup Loss: 0.00887
+Epoch 45, iter 318, Dice Sup Loss: 0.07848, BCE Sup Loss: 0.01079
+Epoch 45, iter 319, Dice Sup Loss: 0.07427, BCE Sup Loss: 0.01088
+Epoch 45, iter 320, Dice Sup Loss: 0.10399, BCE Sup Loss: 0.01239
+Epoch 45, iter 321, Dice Sup Loss: 0.06329, BCE Sup Loss: 0.0095
+Epoch 45, iter 322, Dice Sup Loss: 0.11446, BCE Sup Loss: 0.00924
+Epoch 45, Total train step 321 || AVG_loss: 0.04418, Avg Dice score: 0.9049, Avg IOU: 0.8268
+Epoch 45, Validation || sum_loss: 0.11398, Dice score: 0.876, IOU: 0.7808
+Training and evaluating on epoch45 complete in 0m 2s
+Epoch 46, iter 323, Dice Sup Loss: 0.09978, BCE Sup Loss: 0.0125
+Epoch 46, iter 324, Dice Sup Loss: 0.06611, BCE Sup Loss: 0.00929
+Epoch 46, iter 325, Dice Sup Loss: 0.07338, BCE Sup Loss: 0.01217
+Epoch 46, iter 326, Dice Sup Loss: 0.09922, BCE Sup Loss: 0.0121
+Epoch 46, iter 327, Dice Sup Loss: 0.07293, BCE Sup Loss: 0.00849
+Epoch 46, iter 328, Dice Sup Loss: 0.06578, BCE Sup Loss: 0.00946
+Epoch 46, iter 329, Dice Sup Loss: 0.06941, BCE Sup Loss: 0.00831
+Epoch 46, Total train step 328 || AVG_loss: 0.04485, Avg Dice score: 0.9027, Avg IOU: 0.823
+Epoch 46, Validation || sum_loss: 0.10995, Dice score: 0.8829, IOU: 0.7922
+New best epoch 46!===============================
+Training and evaluating on epoch46 complete in 0m 2s
+Epoch 47, iter 330, Dice Sup Loss: 0.10772, BCE Sup Loss: 0.01371
+Epoch 47, iter 331, Dice Sup Loss: 0.06133, BCE Sup Loss: 0.00851
+Epoch 47, iter 332, Dice Sup Loss: 0.07427, BCE Sup Loss: 0.00972
+Epoch 47, iter 333, Dice Sup Loss: 0.09027, BCE Sup Loss: 0.0128
+Epoch 47, iter 334, Dice Sup Loss: 0.05917, BCE Sup Loss: 0.00821
+Epoch 47, iter 335, Dice Sup Loss: 0.05998, BCE Sup Loss: 0.0096
+Epoch 47, iter 336, Dice Sup Loss: 0.10312, BCE Sup Loss: 0.01018
+Epoch 47, Total train step 335 || AVG_loss: 0.04349, Avg Dice score: 0.9063, Avg IOU: 0.8293
+Epoch 47, Validation || sum_loss: 0.10894, Dice score: 0.8824, IOU: 0.7911
+Training and evaluating on epoch47 complete in 0m 2s
+Epoch 48, iter 337, Dice Sup Loss: 0.06221, BCE Sup Loss: 0.00986
+Epoch 48, iter 338, Dice Sup Loss: 0.09271, BCE Sup Loss: 0.01098
+Epoch 48, iter 339, Dice Sup Loss: 0.09008, BCE Sup Loss: 0.0098
+Epoch 48, iter 340, Dice Sup Loss: 0.09352, BCE Sup Loss: 0.01277
+Epoch 48, iter 341, Dice Sup Loss: 0.07816, BCE Sup Loss: 0.0102
+Epoch 48, iter 342, Dice Sup Loss: 0.0478, BCE Sup Loss: 0.00792
+Epoch 48, iter 343, Dice Sup Loss: 0.05592, BCE Sup Loss: 0.00946
+Epoch 48, Total train step 342 || AVG_loss: 0.04339, Avg Dice score: 0.9072, Avg IOU: 0.8306
+Epoch 48, Validation || sum_loss: 0.11369, Dice score: 0.8756, IOU: 0.78
+Training and evaluating on epoch48 complete in 0m 2s
+Epoch 49, iter 344, Dice Sup Loss: 0.0835, BCE Sup Loss: 0.01129
+Epoch 49, iter 345, Dice Sup Loss: 0.06716, BCE Sup Loss: 0.00863
+Epoch 49, iter 346, Dice Sup Loss: 0.07538, BCE Sup Loss: 0.00954
+Epoch 49, iter 347, Dice Sup Loss: 0.05672, BCE Sup Loss: 0.00855
+Epoch 49, iter 348, Dice Sup Loss: 0.10448, BCE Sup Loss: 0.01213
+Epoch 49, iter 349, Dice Sup Loss: 0.07693, BCE Sup Loss: 0.0116
+Epoch 49, iter 350, Dice Sup Loss: 0.18044, BCE Sup Loss: 0.0187
+Epoch 49, Total train step 349 || AVG_loss: 0.04606, Avg Dice score: 0.8997, Avg IOU: 0.8187
+Epoch 49, Validation || sum_loss: 0.11006, Dice score: 0.8816, IOU: 0.7902
+Training and evaluating on epoch49 complete in 0m 2s
+Epoch 50, iter 351, Dice Sup Loss: 0.05882, BCE Sup Loss: 0.00885
+Epoch 50, iter 352, Dice Sup Loss: 0.08795, BCE Sup Loss: 0.0108
+Epoch 50, iter 353, Dice Sup Loss: 0.05149, BCE Sup Loss: 0.00828
+Epoch 50, iter 354, Dice Sup Loss: 0.06893, BCE Sup Loss: 0.00908
+Epoch 50, iter 355, Dice Sup Loss: 0.05684, BCE Sup Loss: 0.01001
+Epoch 50, iter 356, Dice Sup Loss: 0.11637, BCE Sup Loss: 0.01254
+Epoch 50, iter 357, Dice Sup Loss: 0.20634, BCE Sup Loss: 0.01848
+Epoch 50, Total train step 356 || AVG_loss: 0.04449, Avg Dice score: 0.9043, Avg IOU: 0.8274
+Epoch 50, Validation || sum_loss: 0.11298, Dice score: 0.8756, IOU: 0.7802
+Training and evaluating on epoch50 complete in 0m 2s
+Epoch 51, iter 358, Dice Sup Loss: 0.06183, BCE Sup Loss: 0.00885
+Epoch 51, iter 359, Dice Sup Loss: 0.06474, BCE Sup Loss: 0.00878
+Epoch 51, iter 360, Dice Sup Loss: 0.1153, BCE Sup Loss: 0.01325
+Epoch 51, iter 361, Dice Sup Loss: 0.05507, BCE Sup Loss: 0.00969
+Epoch 51, iter 362, Dice Sup Loss: 0.06245, BCE Sup Loss: 0.00807
+Epoch 51, iter 363, Dice Sup Loss: 0.0717, BCE Sup Loss: 0.00929
+Epoch 51, iter 364, Dice Sup Loss: 0.15241, BCE Sup Loss: 0.01839
+Epoch 51, Total train step 363 || AVG_loss: 0.04254, Avg Dice score: 0.9082, Avg IOU: 0.833
+Epoch 51, Validation || sum_loss: 0.11012, Dice score: 0.8812, IOU: 0.7895
+Training and evaluating on epoch51 complete in 0m 2s
+Epoch 52, iter 365, Dice Sup Loss: 0.10395, BCE Sup Loss: 0.01354
+Epoch 52, iter 366, Dice Sup Loss: 0.08637, BCE Sup Loss: 0.01158
+Epoch 52, iter 367, Dice Sup Loss: 0.05242, BCE Sup Loss: 0.00955
+Epoch 52, iter 368, Dice Sup Loss: 0.05898, BCE Sup Loss: 0.00819
+Epoch 52, iter 369, Dice Sup Loss: 0.07623, BCE Sup Loss: 0.00885
+Epoch 52, iter 370, Dice Sup Loss: 0.06592, BCE Sup Loss: 0.00901
+Epoch 52, iter 371, Dice Sup Loss: 0.05623, BCE Sup Loss: 0.00646
+Epoch 52, Total train step 370 || AVG_loss: 0.04162, Avg Dice score: 0.9104, Avg IOU: 0.8361
+Epoch 52, Validation || sum_loss: 0.1072, Dice score: 0.8835, IOU: 0.793
+New best epoch 52!===============================
+Training and evaluating on epoch52 complete in 0m 2s
+Epoch 53, iter 372, Dice Sup Loss: 0.08649, BCE Sup Loss: 0.01013
+Epoch 53, iter 373, Dice Sup Loss: 0.05428, BCE Sup Loss: 0.00746
+Epoch 53, iter 374, Dice Sup Loss: 0.09965, BCE Sup Loss: 0.01231
+Epoch 53, iter 375, Dice Sup Loss: 0.0711, BCE Sup Loss: 0.01084
+Epoch 53, iter 376, Dice Sup Loss: 0.05344, BCE Sup Loss: 0.00847
+Epoch 53, iter 377, Dice Sup Loss: 0.0903, BCE Sup Loss: 0.01095
+Epoch 53, iter 378, Dice Sup Loss: 0.04746, BCE Sup Loss: 0.00797
+Epoch 53, Total train step 377 || AVG_loss: 0.04234, Avg Dice score: 0.9095, Avg IOU: 0.8347
+Epoch 53, Validation || sum_loss: 0.10688, Dice score: 0.8843, IOU: 0.7942
+New best epoch 53!===============================
+Training and evaluating on epoch53 complete in 0m 2s
+Epoch 54, iter 379, Dice Sup Loss: 0.05434, BCE Sup Loss: 0.00815
+Epoch 54, iter 380, Dice Sup Loss: 0.07745, BCE Sup Loss: 0.00863
+Epoch 54, iter 381, Dice Sup Loss: 0.07094, BCE Sup Loss: 0.00947
+Epoch 54, iter 382, Dice Sup Loss: 0.09697, BCE Sup Loss: 0.01504
+Epoch 54, iter 383, Dice Sup Loss: 0.07191, BCE Sup Loss: 0.00922
+Epoch 54, iter 384, Dice Sup Loss: 0.06157, BCE Sup Loss: 0.00863
+Epoch 54, iter 385, Dice Sup Loss: 0.04081, BCE Sup Loss: 0.00864
+Epoch 54, Total train step 384 || AVG_loss: 0.04037, Avg Dice score: 0.9133, Avg IOU: 0.8409
+Epoch 54, Validation || sum_loss: 0.10605, Dice score: 0.8852, IOU: 0.796
+New best epoch 54!===============================
+Training and evaluating on epoch54 complete in 0m 2s
+Epoch 55, iter 386, Dice Sup Loss: 0.06117, BCE Sup Loss: 0.00818
+Epoch 55, iter 387, Dice Sup Loss: 0.09632, BCE Sup Loss: 0.01151
+Epoch 55, iter 388, Dice Sup Loss: 0.0789, BCE Sup Loss: 0.01038
+Epoch 55, iter 389, Dice Sup Loss: 0.04856, BCE Sup Loss: 0.00848
+Epoch 55, iter 390, Dice Sup Loss: 0.082, BCE Sup Loss: 0.0107
+Epoch 55, iter 391, Dice Sup Loss: 0.04923, BCE Sup Loss: 0.00694
+Epoch 55, iter 392, Dice Sup Loss: 0.07437, BCE Sup Loss: 0.00997
+Epoch 55, Total train step 391 || AVG_loss: 0.03948, Avg Dice score: 0.9142, Avg IOU: 0.8426
+Epoch 55, Validation || sum_loss: 0.10489, Dice score: 0.8863, IOU: 0.7974
+New best epoch 55!===============================
+Training and evaluating on epoch55 complete in 0m 2s
+Epoch 56, iter 393, Dice Sup Loss: 0.10782, BCE Sup Loss: 0.01394
+Epoch 56, iter 394, Dice Sup Loss: 0.05313, BCE Sup Loss: 0.00768
+Epoch 56, iter 395, Dice Sup Loss: 0.0556, BCE Sup Loss: 0.00941
+Epoch 56, iter 396, Dice Sup Loss: 0.07761, BCE Sup Loss: 0.01056
+Epoch 56, iter 397, Dice Sup Loss: 0.05803, BCE Sup Loss: 0.00807
+Epoch 56, iter 398, Dice Sup Loss: 0.04454, BCE Sup Loss: 0.00663
+Epoch 56, iter 399, Dice Sup Loss: 0.06523, BCE Sup Loss: 0.00814
+Epoch 56, Total train step 398 || AVG_loss: 0.03771, Avg Dice score: 0.9191, Avg IOU: 0.8512
+Epoch 56, Validation || sum_loss: 0.10641, Dice score: 0.885, IOU: 0.7956
+Training and evaluating on epoch56 complete in 0m 2s
+Epoch 57, iter 400, Dice Sup Loss: 0.12156, BCE Sup Loss: 0.0137
+Epoch 57, iter 401, Dice Sup Loss: 0.06126, BCE Sup Loss: 0.00962
+Epoch 57, iter 402, Dice Sup Loss: 0.05366, BCE Sup Loss: 0.00755
+Epoch 57, iter 403, Dice Sup Loss: 0.05259, BCE Sup Loss: 0.00893
+Epoch 57, iter 404, Dice Sup Loss: 0.04632, BCE Sup Loss: 0.00681
+Epoch 57, iter 405, Dice Sup Loss: 0.09039, BCE Sup Loss: 0.0111
+Epoch 57, iter 406, Dice Sup Loss: 0.059, BCE Sup Loss: 0.00653
+Epoch 57, Total train step 405 || AVG_loss: 0.03999, Avg Dice score: 0.914, Avg IOU: 0.8429
+Epoch 57, Validation || sum_loss: 0.1043, Dice score: 0.8865, IOU: 0.7978
+New best epoch 57!===============================
+Training and evaluating on epoch57 complete in 0m 2s
+Epoch 58, iter 407, Dice Sup Loss: 0.072, BCE Sup Loss: 0.0097
+Epoch 58, iter 408, Dice Sup Loss: 0.06258, BCE Sup Loss: 0.00785
+Epoch 58, iter 409, Dice Sup Loss: 0.07742, BCE Sup Loss: 0.01122
+Epoch 58, iter 410, Dice Sup Loss: 0.06001, BCE Sup Loss: 0.00872
+Epoch 58, iter 411, Dice Sup Loss: 0.08091, BCE Sup Loss: 0.01063
+Epoch 58, iter 412, Dice Sup Loss: 0.04656, BCE Sup Loss: 0.00698
+Epoch 58, iter 413, Dice Sup Loss: 0.06355, BCE Sup Loss: 0.00902
+Epoch 58, Total train step 412 || AVG_loss: 0.03782, Avg Dice score: 0.9185, Avg IOU: 0.8496
+Epoch 58, Validation || sum_loss: 0.10448, Dice score: 0.8863, IOU: 0.7977
+Training and evaluating on epoch58 complete in 0m 2s
+Epoch 59, iter 414, Dice Sup Loss: 0.05235, BCE Sup Loss: 0.00792
+Epoch 59, iter 415, Dice Sup Loss: 0.07689, BCE Sup Loss: 0.01238
+Epoch 59, iter 416, Dice Sup Loss: 0.04877, BCE Sup Loss: 0.00753
+Epoch 59, iter 417, Dice Sup Loss: 0.06308, BCE Sup Loss: 0.00847
+Epoch 59, iter 418, Dice Sup Loss: 0.06329, BCE Sup Loss: 0.00807
+Epoch 59, iter 419, Dice Sup Loss: 0.07491, BCE Sup Loss: 0.0089
+Epoch 59, iter 420, Dice Sup Loss: 0.13714, BCE Sup Loss: 0.01716
+Epoch 59, Total train step 419 || AVG_loss: 0.03769, Avg Dice score: 0.9185, Avg IOU: 0.8499
+Epoch 59, Validation || sum_loss: 0.10563, Dice score: 0.8859, IOU: 0.7972
+Training and evaluating on epoch59 complete in 0m 2s
+Epoch 60, iter 421, Dice Sup Loss: 0.05199, BCE Sup Loss: 0.00867
+Epoch 60, iter 422, Dice Sup Loss: 0.06069, BCE Sup Loss: 0.00813
+Epoch 60, iter 423, Dice Sup Loss: 0.0561, BCE Sup Loss: 0.00751
+Epoch 60, iter 424, Dice Sup Loss: 0.07755, BCE Sup Loss: 0.01062
+Epoch 60, iter 425, Dice Sup Loss: 0.11418, BCE Sup Loss: 0.01229
+Epoch 60, iter 426, Dice Sup Loss: 0.05257, BCE Sup Loss: 0.00748
+Epoch 60, iter 427, Dice Sup Loss: 0.03493, BCE Sup Loss: 0.0067
+Epoch 60, Total train step 426 || AVG_loss: 0.03825, Avg Dice score: 0.9158, Avg IOU: 0.8457
+Epoch 60, Validation || sum_loss: 0.10782, Dice score: 0.8823, IOU: 0.7912
+Training and evaluating on epoch60 complete in 0m 2s
+Epoch 61, iter 428, Dice Sup Loss: 0.05715, BCE Sup Loss: 0.00741
+Epoch 61, iter 429, Dice Sup Loss: 0.0658, BCE Sup Loss: 0.00845
+Epoch 61, iter 430, Dice Sup Loss: 0.05008, BCE Sup Loss: 0.00771
+Epoch 61, iter 431, Dice Sup Loss: 0.09053, BCE Sup Loss: 0.01104
+Epoch 61, iter 432, Dice Sup Loss: 0.04733, BCE Sup Loss: 0.00789
+Epoch 61, iter 433, Dice Sup Loss: 0.10781, BCE Sup Loss: 0.01303
+Epoch 61, iter 434, Dice Sup Loss: 0.05133, BCE Sup Loss: 0.00767
+Epoch 61, Total train step 433 || AVG_loss: 0.03912, Avg Dice score: 0.9146, Avg IOU: 0.8437
+Epoch 61, Validation || sum_loss: 0.10811, Dice score: 0.8823, IOU: 0.7911
+Training and evaluating on epoch61 complete in 0m 2s
+Epoch 62, iter 435, Dice Sup Loss: 0.05466, BCE Sup Loss: 0.00769
+Epoch 62, iter 436, Dice Sup Loss: 0.07614, BCE Sup Loss: 0.00945
+Epoch 62, iter 437, Dice Sup Loss: 0.05835, BCE Sup Loss: 0.00836
+Epoch 62, iter 438, Dice Sup Loss: 0.05272, BCE Sup Loss: 0.00733
+Epoch 62, iter 439, Dice Sup Loss: 0.06375, BCE Sup Loss: 0.01063
+Epoch 62, iter 440, Dice Sup Loss: 0.09232, BCE Sup Loss: 0.01135
+Epoch 62, iter 441, Dice Sup Loss: 0.05223, BCE Sup Loss: 0.00841
+Epoch 62, Total train step 440 || AVG_loss: 0.03743, Avg Dice score: 0.9193, Avg IOU: 0.8511
+Epoch 62, Validation || sum_loss: 0.10805, Dice score: 0.8839, IOU: 0.7939
+Training and evaluating on epoch62 complete in 0m 2s
+Epoch 63, iter 442, Dice Sup Loss: 0.08206, BCE Sup Loss: 0.01183
+Epoch 63, iter 443, Dice Sup Loss: 0.04943, BCE Sup Loss: 0.00765
+Epoch 63, iter 444, Dice Sup Loss: 0.08647, BCE Sup Loss: 0.01228
+Epoch 63, iter 445, Dice Sup Loss: 0.0538, BCE Sup Loss: 0.00704
+Epoch 63, iter 446, Dice Sup Loss: 0.04632, BCE Sup Loss: 0.00662
+Epoch 63, iter 447, Dice Sup Loss: 0.06057, BCE Sup Loss: 0.00764
+Epoch 63, iter 448, Dice Sup Loss: 0.05481, BCE Sup Loss: 0.00782
+Epoch 63, Total train step 447 || AVG_loss: 0.03579, Avg Dice score: 0.9224, Avg IOU: 0.8565
+Epoch 63, Validation || sum_loss: 0.10541, Dice score: 0.8855, IOU: 0.7962
+Training and evaluating on epoch63 complete in 0m 2s
+Epoch 64, iter 449, Dice Sup Loss: 0.04252, BCE Sup Loss: 0.00742
+Epoch 64, iter 450, Dice Sup Loss: 0.06573, BCE Sup Loss: 0.00783
+Epoch 64, iter 451, Dice Sup Loss: 0.04977, BCE Sup Loss: 0.00709
+Epoch 64, iter 452, Dice Sup Loss: 0.04856, BCE Sup Loss: 0.00796
+Epoch 64, iter 453, Dice Sup Loss: 0.09744, BCE Sup Loss: 0.01213
+Epoch 64, iter 454, Dice Sup Loss: 0.10145, BCE Sup Loss: 0.01185
+Epoch 64, iter 455, Dice Sup Loss: 0.03493, BCE Sup Loss: 0.00611
+Epoch 64, Total train step 454 || AVG_loss: 0.0376, Avg Dice score: 0.9193, Avg IOU: 0.8518
+Epoch 64, Validation || sum_loss: 0.10575, Dice score: 0.8859, IOU: 0.7971
+Training and evaluating on epoch64 complete in 0m 2s
+Epoch 65, iter 456, Dice Sup Loss: 0.04336, BCE Sup Loss: 0.0065
+Epoch 65, iter 457, Dice Sup Loss: 0.0642, BCE Sup Loss: 0.00841
+Epoch 65, iter 458, Dice Sup Loss: 0.07945, BCE Sup Loss: 0.01014
+Epoch 65, iter 459, Dice Sup Loss: 0.07794, BCE Sup Loss: 0.01226
+Epoch 65, iter 460, Dice Sup Loss: 0.07104, BCE Sup Loss: 0.00966
+Epoch 65, iter 461, Dice Sup Loss: 0.05581, BCE Sup Loss: 0.00767
+Epoch 65, iter 462, Dice Sup Loss: 0.05625, BCE Sup Loss: 0.00747
+Epoch 65, Total train step 461 || AVG_loss: 0.03699, Avg Dice score: 0.9207, Avg IOU: 0.8535
+Epoch 65, Validation || sum_loss: 0.10677, Dice score: 0.8852, IOU: 0.7958
+Training and evaluating on epoch65 complete in 0m 2s
+Epoch 66, iter 463, Dice Sup Loss: 0.08538, BCE Sup Loss: 0.00995
+Epoch 66, iter 464, Dice Sup Loss: 0.07623, BCE Sup Loss: 0.01017
+Epoch 66, iter 465, Dice Sup Loss: 0.06494, BCE Sup Loss: 0.00931
+Epoch 66, iter 466, Dice Sup Loss: 0.05282, BCE Sup Loss: 0.00709
+Epoch 66, iter 467, Dice Sup Loss: 0.05983, BCE Sup Loss: 0.0084
+Epoch 66, iter 468, Dice Sup Loss: 0.05356, BCE Sup Loss: 0.00767
+Epoch 66, iter 469, Dice Sup Loss: 0.04204, BCE Sup Loss: 0.00672
+Epoch 66, Total train step 468 || AVG_loss: 0.0366, Avg Dice score: 0.9199, Avg IOU: 0.852
+Epoch 66, Validation || sum_loss: 0.10846, Dice score: 0.8824, IOU: 0.7911
+Training and evaluating on epoch66 complete in 0m 2s
+Epoch 67, iter 470, Dice Sup Loss: 0.04488, BCE Sup Loss: 0.00694
+Epoch 67, iter 471, Dice Sup Loss: 0.04917, BCE Sup Loss: 0.00826
+Epoch 67, iter 472, Dice Sup Loss: 0.09004, BCE Sup Loss: 0.01186
+Epoch 67, iter 473, Dice Sup Loss: 0.08214, BCE Sup Loss: 0.01075
+Epoch 67, iter 474, Dice Sup Loss: 0.06483, BCE Sup Loss: 0.00748
+Epoch 67, iter 475, Dice Sup Loss: 0.05433, BCE Sup Loss: 0.00704
+Epoch 67, iter 476, Dice Sup Loss: 0.04311, BCE Sup Loss: 0.00878
+Epoch 67, Total train step 475 || AVG_loss: 0.03605, Avg Dice score: 0.9216, Avg IOU: 0.8552
+Epoch 67, Validation || sum_loss: 0.10974, Dice score: 0.882, IOU: 0.7911
+Training and evaluating on epoch67 complete in 0m 2s
+Epoch 68, iter 477, Dice Sup Loss: 0.04762, BCE Sup Loss: 0.00669
+Epoch 68, iter 478, Dice Sup Loss: 0.09502, BCE Sup Loss: 0.01014
+Epoch 68, iter 479, Dice Sup Loss: 0.06809, BCE Sup Loss: 0.00821
+Epoch 68, iter 480, Dice Sup Loss: 0.05648, BCE Sup Loss: 0.00874
+Epoch 68, iter 481, Dice Sup Loss: 0.0675, BCE Sup Loss: 0.00958
+Epoch 68, iter 482, Dice Sup Loss: 0.06499, BCE Sup Loss: 0.01019
+Epoch 68, iter 483, Dice Sup Loss: 0.06133, BCE Sup Loss: 0.00598
+Epoch 68, Total train step 482 || AVG_loss: 0.0376, Avg Dice score: 0.9188, Avg IOU: 0.8501
+Epoch 68, Validation || sum_loss: 0.10734, Dice score: 0.8832, IOU: 0.7925
+Training and evaluating on epoch68 complete in 0m 2s
+Epoch 69, iter 484, Dice Sup Loss: 0.04669, BCE Sup Loss: 0.00732
+Epoch 69, iter 485, Dice Sup Loss: 0.06132, BCE Sup Loss: 0.00795
+Epoch 69, iter 486, Dice Sup Loss: 0.07278, BCE Sup Loss: 0.01069
+Epoch 69, iter 487, Dice Sup Loss: 0.07079, BCE Sup Loss: 0.00945
+Epoch 69, iter 488, Dice Sup Loss: 0.07608, BCE Sup Loss: 0.0097
+Epoch 69, iter 489, Dice Sup Loss: 0.04897, BCE Sup Loss: 0.00734
+Epoch 69, iter 490, Dice Sup Loss: 0.05013, BCE Sup Loss: 0.0061
+Epoch 69, Total train step 489 || AVG_loss: 0.03545, Avg Dice score: 0.9239, Avg IOU: 0.8588
+Epoch 69, Validation || sum_loss: 0.10888, Dice score: 0.8827, IOU: 0.7922
+Training and evaluating on epoch69 complete in 0m 2s
+Epoch 70, iter 491, Dice Sup Loss: 0.10189, BCE Sup Loss: 0.01051
+Epoch 70, iter 492, Dice Sup Loss: 0.04896, BCE Sup Loss: 0.00677
+Epoch 70, iter 493, Dice Sup Loss: 0.0775, BCE Sup Loss: 0.01028
+Epoch 70, iter 494, Dice Sup Loss: 0.0502, BCE Sup Loss: 0.00744
+Epoch 70, iter 495, Dice Sup Loss: 0.06503, BCE Sup Loss: 0.0108
+Epoch 70, iter 496, Dice Sup Loss: 0.0518, BCE Sup Loss: 0.00731
+Epoch 70, iter 497, Dice Sup Loss: 0.07665, BCE Sup Loss: 0.00684
+Epoch 70, Total train step 496 || AVG_loss: 0.03755, Avg Dice score: 0.9175, Avg IOU: 0.8483
+Epoch 70, Validation || sum_loss: 0.10547, Dice score: 0.885, IOU: 0.7956
+Training and evaluating on epoch70 complete in 0m 2s
+Epoch 71, iter 498, Dice Sup Loss: 0.05799, BCE Sup Loss: 0.00729
+Epoch 71, iter 499, Dice Sup Loss: 0.05927, BCE Sup Loss: 0.01038
+Epoch 71, iter 500, Dice Sup Loss: 0.08592, BCE Sup Loss: 0.00992
+Epoch 71, iter 501, Dice Sup Loss: 0.04593, BCE Sup Loss: 0.00696
+Epoch 71, iter 502, Dice Sup Loss: 0.06634, BCE Sup Loss: 0.00948
+Epoch 71, iter 503, Dice Sup Loss: 0.0719, BCE Sup Loss: 0.00791
+Epoch 71, iter 504, Dice Sup Loss: 0.0365, BCE Sup Loss: 0.00591
+Epoch 71, Total train step 503 || AVG_loss: 0.03599, Avg Dice score: 0.9221, Avg IOU: 0.856
+Epoch 71, Validation || sum_loss: 0.10678, Dice score: 0.8842, IOU: 0.7942
+Training and evaluating on epoch71 complete in 0m 2s
+Epoch 72, iter 505, Dice Sup Loss: 0.06435, BCE Sup Loss: 0.0088
+Epoch 72, iter 506, Dice Sup Loss: 0.08125, BCE Sup Loss: 0.00978
+Epoch 72, iter 507, Dice Sup Loss: 0.05579, BCE Sup Loss: 0.00803
+Epoch 72, iter 508, Dice Sup Loss: 0.05172, BCE Sup Loss: 0.00863
+Epoch 72, iter 509, Dice Sup Loss: 0.08201, BCE Sup Loss: 0.01109
+Epoch 72, iter 510, Dice Sup Loss: 0.05917, BCE Sup Loss: 0.00692
+Epoch 72, iter 511, Dice Sup Loss: 0.03809, BCE Sup Loss: 0.00578
+Epoch 72, Total train step 510 || AVG_loss: 0.03668, Avg Dice score: 0.9208, Avg IOU: 0.8535
+Epoch 72, Validation || sum_loss: 0.11205, Dice score: 0.8804, IOU: 0.7887
+Training and evaluating on epoch72 complete in 0m 2s
+Epoch 73, iter 512, Dice Sup Loss: 0.11625, BCE Sup Loss: 0.01354
+Epoch 73, iter 513, Dice Sup Loss: 0.05929, BCE Sup Loss: 0.00722
+Epoch 73, iter 514, Dice Sup Loss: 0.07167, BCE Sup Loss: 0.00958
+Epoch 73, iter 515, Dice Sup Loss: 0.0587, BCE Sup Loss: 0.00699
+Epoch 73, iter 516, Dice Sup Loss: 0.04329, BCE Sup Loss: 0.00624
+Epoch 73, iter 517, Dice Sup Loss: 0.0449, BCE Sup Loss: 0.00716
+Epoch 73, iter 518, Dice Sup Loss: 0.04135, BCE Sup Loss: 0.01101
+Epoch 73, Total train step 517 || AVG_loss: 0.03663, Avg Dice score: 0.9207, Avg IOU: 0.8542
+Epoch 73, Validation || sum_loss: 0.11083, Dice score: 0.8788, IOU: 0.7853
+Training and evaluating on epoch73 complete in 0m 2s
+Epoch 74, iter 519, Dice Sup Loss: 0.06081, BCE Sup Loss: 0.00771
+Epoch 74, iter 520, Dice Sup Loss: 0.07092, BCE Sup Loss: 0.00911
+Epoch 74, iter 521, Dice Sup Loss: 0.06364, BCE Sup Loss: 0.00835
+Epoch 74, iter 522, Dice Sup Loss: 0.06865, BCE Sup Loss: 0.00925
+Epoch 74, iter 523, Dice Sup Loss: 0.06729, BCE Sup Loss: 0.00888
+Epoch 74, iter 524, Dice Sup Loss: 0.05523, BCE Sup Loss: 0.00854
+Epoch 74, iter 525, Dice Sup Loss: 0.04644, BCE Sup Loss: 0.00646
+Epoch 74, Total train step 524 || AVG_loss: 0.03613, Avg Dice score: 0.9209, Avg IOU: 0.8535
+Epoch 74, Validation || sum_loss: 0.10601, Dice score: 0.8851, IOU: 0.7957
+Training and evaluating on epoch74 complete in 0m 2s
+Epoch 75, iter 526, Dice Sup Loss: 0.03682, BCE Sup Loss: 0.00589
+Epoch 75, iter 527, Dice Sup Loss: 0.06484, BCE Sup Loss: 0.00833
+Epoch 75, iter 528, Dice Sup Loss: 0.07354, BCE Sup Loss: 0.01132
+Epoch 75, iter 529, Dice Sup Loss: 0.07841, BCE Sup Loss: 0.01067
+Epoch 75, iter 530, Dice Sup Loss: 0.08036, BCE Sup Loss: 0.00889
+Epoch 75, iter 531, Dice Sup Loss: 0.04482, BCE Sup Loss: 0.00648
+Epoch 75, iter 532, Dice Sup Loss: 0.06114, BCE Sup Loss: 0.00671
+Epoch 75, Total train step 531 || AVG_loss: 0.03579, Avg Dice score: 0.9219, Avg IOU: 0.8557
+Epoch 75, Validation || sum_loss: 0.1046, Dice score: 0.8871, IOU: 0.7991
+New best epoch 75!===============================
+Training and evaluating on epoch75 complete in 0m 2s
+Epoch 76, iter 533, Dice Sup Loss: 0.05514, BCE Sup Loss: 0.00702
+Epoch 76, iter 534, Dice Sup Loss: 0.04051, BCE Sup Loss: 0.00594
+Epoch 76, iter 535, Dice Sup Loss: 0.09027, BCE Sup Loss: 0.01106
+Epoch 76, iter 536, Dice Sup Loss: 0.04597, BCE Sup Loss: 0.00648
+Epoch 76, iter 537, Dice Sup Loss: 0.07182, BCE Sup Loss: 0.01039
+Epoch 76, iter 538, Dice Sup Loss: 0.08234, BCE Sup Loss: 0.00885
+Epoch 76, iter 539, Dice Sup Loss: 0.04881, BCE Sup Loss: 0.01231
+Epoch 76, Total train step 538 || AVG_loss: 0.03609, Avg Dice score: 0.9222, Avg IOU: 0.8563
+Epoch 76, Validation || sum_loss: 0.10555, Dice score: 0.8849, IOU: 0.7952
+Training and evaluating on epoch76 complete in 0m 2s
+Epoch 77, iter 540, Dice Sup Loss: 0.07153, BCE Sup Loss: 0.00876
+Epoch 77, iter 541, Dice Sup Loss: 0.05502, BCE Sup Loss: 0.00769
+Epoch 77, iter 542, Dice Sup Loss: 0.06866, BCE Sup Loss: 0.00905
+Epoch 77, iter 543, Dice Sup Loss: 0.06503, BCE Sup Loss: 0.00885
+Epoch 77, iter 544, Dice Sup Loss: 0.04652, BCE Sup Loss: 0.00816
+Epoch 77, iter 545, Dice Sup Loss: 0.08751, BCE Sup Loss: 0.00962
+Epoch 77, iter 546, Dice Sup Loss: 0.05053, BCE Sup Loss: 0.00608
+Epoch 77, Total train step 545 || AVG_loss: 0.03685, Avg Dice score: 0.9199, Avg IOU: 0.8519
+Epoch 77, Validation || sum_loss: 0.10938, Dice score: 0.8832, IOU: 0.7929
+Training and evaluating on epoch77 complete in 0m 2s
+Epoch 78, iter 547, Dice Sup Loss: 0.07285, BCE Sup Loss: 0.00917
+Epoch 78, iter 548, Dice Sup Loss: 0.04502, BCE Sup Loss: 0.00703
+Epoch 78, iter 549, Dice Sup Loss: 0.04837, BCE Sup Loss: 0.00737
+Epoch 78, iter 550, Dice Sup Loss: 0.07667, BCE Sup Loss: 0.00962
+Epoch 78, iter 551, Dice Sup Loss: 0.06275, BCE Sup Loss: 0.00772
+Epoch 78, iter 552, Dice Sup Loss: 0.06191, BCE Sup Loss: 0.00838
+Epoch 78, iter 553, Dice Sup Loss: 0.06795, BCE Sup Loss: 0.00749
+Epoch 78, Total train step 552 || AVG_loss: 0.03486, Avg Dice score: 0.9242, Avg IOU: 0.8594
+Epoch 78, Validation || sum_loss: 0.10658, Dice score: 0.8845, IOU: 0.7947
+Training and evaluating on epoch78 complete in 0m 2s
+Epoch 79, iter 554, Dice Sup Loss: 0.0853, BCE Sup Loss: 0.01027
+Epoch 79, iter 555, Dice Sup Loss: 0.05066, BCE Sup Loss: 0.00711
+Epoch 79, iter 556, Dice Sup Loss: 0.05445, BCE Sup Loss: 0.00833
+Epoch 79, iter 557, Dice Sup Loss: 0.07812, BCE Sup Loss: 0.00814
+Epoch 79, iter 558, Dice Sup Loss: 0.05693, BCE Sup Loss: 0.0081
+Epoch 79, iter 559, Dice Sup Loss: 0.06449, BCE Sup Loss: 0.00843
+Epoch 79, iter 560, Dice Sup Loss: 0.02846, BCE Sup Loss: 0.00542
+Epoch 79, Total train step 559 || AVG_loss: 0.0359, Avg Dice score: 0.9214, Avg IOU: 0.8547
+Epoch 79, Validation || sum_loss: 0.10631, Dice score: 0.8845, IOU: 0.7948
+Training and evaluating on epoch79 complete in 0m 2s
+Complete training ---------------------------------------------------- 
+ The best epoch is 75
+========================================================================================
+Test || Average loss: 0.1046, Dice score: 0.8871, IOU: 0.7991

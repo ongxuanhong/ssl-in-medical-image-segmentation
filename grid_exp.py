@@ -28,7 +28,7 @@ for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
                         # check if the experiment has been run
                         exp_name = f"{exp}_{dataset}_supervised_ratio_{supervised_ratio}_conf_thresh_{conf_thresh}_fold_{fold}_seed_{seed}"
                         current_dir = os.getcwd()
-                        exp_folder = f"{current_dir}/checkpoints/{dataset}/{exp_name}_{supervised_ratio}"
+                        exp_folder = f"{current_dir}/checkpoints/{dataset}/{exp_name}_{supervised_ratio}/fold{fold}/test_results.txt"
                         if os.path.exists(exp_folder):
                             print(f"This {exp_name} exists! Skip")
                             continue

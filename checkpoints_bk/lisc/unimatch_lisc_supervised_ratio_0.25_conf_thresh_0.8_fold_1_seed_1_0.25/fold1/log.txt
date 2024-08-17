@@ -1,0 +1,1713 @@
+Epoch 0, iter 1, Sup Loss: 0.84423, Unsup Loss: 0.86681
+Epoch 0, iter 2, Sup Loss: 0.73713, Unsup Loss: 0.77167
+Epoch 0, iter 3, Sup Loss: 0.67132, Unsup Loss: 0.7119
+Epoch 0, iter 4, Sup Loss: 0.62748, Unsup Loss: 0.68079
+Epoch 0, iter 5, Sup Loss: 0.59577, Unsup Loss: 0.65268
+Epoch 0, iter 6, Sup Loss: 0.56917, Unsup Loss: 0.62113
+Epoch 0, iter 7, Sup Loss: 0.54634, Unsup Loss: 0.60143
+Epoch 0, iter 8, Sup Loss: 0.52916, Unsup Loss: 0.58481
+Epoch 0, iter 9, Sup Loss: 0.50915, Unsup Loss: 0.57353
+Epoch 0, iter 10, Sup Loss: 0.50111, Unsup Loss: 0.57484
+Epoch 0, iter 11, Sup Loss: 0.48732, Unsup Loss: 0.55786
+Epoch 0, iter 12, Sup Loss: 0.49004, Unsup Loss: 0.56736
+Epoch 0, iter 13, Sup Loss: 0.47829, Unsup Loss: 0.56285
+Epoch 0, iter 14, Sup Loss: 0.48723, Unsup Loss: 0.54643
+Epoch 0, iter 15, Sup Loss: 0.47541, Unsup Loss: 0.57983
+Epoch 0, iter 16, Sup Loss: 0.43831, Unsup Loss: 0.54786
+Epoch 0, iter 17, Sup Loss: 0.44466, Unsup Loss: 0.55934
+Epoch 0, iter 18, Sup Loss: 0.40164, Unsup Loss: 0.53701
+Epoch 0, Total train step 18 || AVG_loss: 0.54941, Avg Dice score: 0.0373, Avg IOU: 0.0201
+Epoch 0, Validation || sum_loss: 0.77938, Dice score: 0.266, IOU: 0.1596
+New best epoch 0!===============================
+Training and evaluating on epoch0 complete in 0m 18s
+Epoch 1, iter 1, Sup Loss: 0.41316, Unsup Loss: 0.53196
+Epoch 1, iter 2, Sup Loss: 0.38909, Unsup Loss: 0.60878
+Epoch 1, iter 3, Sup Loss: 0.42047, Unsup Loss: 0.53974
+Epoch 1, iter 4, Sup Loss: 0.30585, Unsup Loss: 0.37897
+Epoch 1, iter 5, Sup Loss: 0.27776, Unsup Loss: 0.29899
+Epoch 1, iter 6, Sup Loss: 0.24936, Unsup Loss: 0.37077
+Epoch 1, iter 7, Sup Loss: 0.39725, Unsup Loss: 0.34141
+Epoch 1, iter 8, Sup Loss: 0.26038, Unsup Loss: 0.42738
+Epoch 1, iter 9, Sup Loss: 0.28458, Unsup Loss: 0.2004
+Epoch 1, iter 10, Sup Loss: 0.2951, Unsup Loss: 0.18808
+Epoch 1, iter 11, Sup Loss: 0.21774, Unsup Loss: 0.32533
+Epoch 1, iter 12, Sup Loss: 0.17192, Unsup Loss: 0.30971
+Epoch 1, iter 13, Sup Loss: 0.16741, Unsup Loss: 0.29012
+Epoch 1, iter 14, Sup Loss: 0.48334, Unsup Loss: 0.28334
+Epoch 1, iter 15, Sup Loss: 0.20537, Unsup Loss: 0.31454
+Epoch 1, iter 16, Sup Loss: 0.217, Unsup Loss: 0.1857
+Epoch 1, iter 17, Sup Loss: 0.2197, Unsup Loss: 0.30002
+Epoch 1, iter 18, Sup Loss: 0.20615, Unsup Loss: 0.29591
+Epoch 1, Total train step 18 || AVG_loss: 0.27424, Avg Dice score: 0.4975, Avg IOU: 0.3453
+Epoch 1, Validation || sum_loss: 0.39925, Dice score: 0.63, IOU: 0.4623
+New best epoch 1!===============================
+Training and evaluating on epoch1 complete in 0m 17s
+Epoch 2, iter 1, Sup Loss: 0.21161, Unsup Loss: 0.21553
+Epoch 2, iter 2, Sup Loss: 0.21774, Unsup Loss: 0.30118
+Epoch 2, iter 3, Sup Loss: 0.16939, Unsup Loss: 0.20981
+Epoch 2, iter 4, Sup Loss: 0.14069, Unsup Loss: 0.25435
+Epoch 2, iter 5, Sup Loss: 0.16428, Unsup Loss: 0.23415
+Epoch 2, iter 6, Sup Loss: 0.14528, Unsup Loss: 0.14187
+Epoch 2, iter 7, Sup Loss: 0.14112, Unsup Loss: 0.26328
+Epoch 2, iter 8, Sup Loss: 0.13362, Unsup Loss: 0.22356
+Epoch 2, iter 9, Sup Loss: 0.2498, Unsup Loss: 0.31252
+Epoch 2, iter 10, Sup Loss: 0.196, Unsup Loss: 0.16018
+Epoch 2, iter 11, Sup Loss: 0.11301, Unsup Loss: 0.33185
+Epoch 2, iter 12, Sup Loss: 0.18387, Unsup Loss: 0.26857
+Epoch 2, iter 13, Sup Loss: 0.17389, Unsup Loss: 0.14564
+Epoch 2, iter 14, Sup Loss: 0.23824, Unsup Loss: 0.19996
+Epoch 2, iter 15, Sup Loss: 0.22327, Unsup Loss: 0.21023
+Epoch 2, iter 16, Sup Loss: 0.23782, Unsup Loss: 0.22212
+Epoch 2, iter 17, Sup Loss: 0.16647, Unsup Loss: 0.3326
+Epoch 2, iter 18, Sup Loss: 0.16116, Unsup Loss: 0.25773
+Epoch 2, Total train step 18 || AVG_loss: 0.18093, Avg Dice score: 0.6595, Avg IOU: 0.4968
+Epoch 2, Validation || sum_loss: 0.30984, Dice score: 0.7128, IOU: 0.5571
+New best epoch 2!===============================
+Training and evaluating on epoch2 complete in 0m 17s
+Epoch 3, iter 1, Sup Loss: 0.21415, Unsup Loss: 0.10077
+Epoch 3, iter 2, Sup Loss: 0.11807, Unsup Loss: 0.27243
+Epoch 3, iter 3, Sup Loss: 0.13451, Unsup Loss: 0.15213
+Epoch 3, iter 4, Sup Loss: 0.11928, Unsup Loss: 0.246
+Epoch 3, iter 5, Sup Loss: 0.09439, Unsup Loss: 0.16241
+Epoch 3, iter 6, Sup Loss: 0.10605, Unsup Loss: 0.3838
+Epoch 3, iter 7, Sup Loss: 0.07263, Unsup Loss: 0.2968
+Epoch 3, iter 8, Sup Loss: 0.10734, Unsup Loss: 0.22658
+Epoch 3, iter 9, Sup Loss: 0.29537, Unsup Loss: 0.33335
+Epoch 3, iter 10, Sup Loss: 0.11321, Unsup Loss: 0.25938
+Epoch 3, iter 11, Sup Loss: 0.10612, Unsup Loss: 0.34531
+Epoch 3, iter 12, Sup Loss: 0.08243, Unsup Loss: 0.21646
+Epoch 3, iter 13, Sup Loss: 0.12327, Unsup Loss: 0.2487
+Epoch 3, iter 14, Sup Loss: 0.10879, Unsup Loss: 0.21275
+Epoch 3, iter 15, Sup Loss: 0.14388, Unsup Loss: 0.28009
+Epoch 3, iter 16, Sup Loss: 0.10423, Unsup Loss: 0.13224
+Epoch 3, iter 17, Sup Loss: 0.12132, Unsup Loss: 0.26341
+Epoch 3, iter 18, Sup Loss: 0.11611, Unsup Loss: 0.24465
+Epoch 3, Total train step 18 || AVG_loss: 0.13016, Avg Dice score: 0.7524, Avg IOU: 0.6119
+Epoch 3, Validation || sum_loss: 0.23741, Dice score: 0.7717, IOU: 0.63
+New best epoch 3!===============================
+Training and evaluating on epoch3 complete in 0m 16s
+Epoch 4, iter 1, Sup Loss: 0.09804, Unsup Loss: 0.23501
+Epoch 4, iter 2, Sup Loss: 0.10077, Unsup Loss: 0.12071
+Epoch 4, iter 3, Sup Loss: 0.104, Unsup Loss: 0.2001
+Epoch 4, iter 4, Sup Loss: 0.12786, Unsup Loss: 0.29664
+Epoch 4, iter 5, Sup Loss: 0.11699, Unsup Loss: 0.23912
+Epoch 4, iter 6, Sup Loss: 0.11168, Unsup Loss: 0.25161
+Epoch 4, iter 7, Sup Loss: 0.10608, Unsup Loss: 0.30102
+Epoch 4, iter 8, Sup Loss: 0.10308, Unsup Loss: 0.2796
+Epoch 4, iter 9, Sup Loss: 0.09563, Unsup Loss: 0.23909
+Epoch 4, iter 10, Sup Loss: 0.07661, Unsup Loss: 0.21803
+Epoch 4, iter 11, Sup Loss: 0.1205, Unsup Loss: 0.1604
+Epoch 4, iter 12, Sup Loss: 0.11261, Unsup Loss: 0.29332
+Epoch 4, iter 13, Sup Loss: 0.09725, Unsup Loss: 0.24639
+Epoch 4, iter 14, Sup Loss: 0.09109, Unsup Loss: 0.22194
+Epoch 4, iter 15, Sup Loss: 0.08946, Unsup Loss: 0.29187
+Epoch 4, iter 16, Sup Loss: 0.08292, Unsup Loss: 0.11738
+Epoch 4, iter 17, Sup Loss: 0.08221, Unsup Loss: 0.17465
+Epoch 4, iter 18, Sup Loss: 0.11811, Unsup Loss: 0.15954
+Epoch 4, Total train step 18 || AVG_loss: 0.10239, Avg Dice score: 0.8007, Avg IOU: 0.6686
+Epoch 4, Validation || sum_loss: 0.20423, Dice score: 0.7969, IOU: 0.6643
+New best epoch 4!===============================
+Training and evaluating on epoch4 complete in 0m 16s
+Epoch 5, iter 1, Sup Loss: 0.10696, Unsup Loss: 0.25625
+Epoch 5, iter 2, Sup Loss: 0.08224, Unsup Loss: 0.2541
+Epoch 5, iter 3, Sup Loss: 0.08982, Unsup Loss: 0.22765
+Epoch 5, iter 4, Sup Loss: 0.07964, Unsup Loss: 0.29353
+Epoch 5, iter 5, Sup Loss: 0.10558, Unsup Loss: 0.31781
+Epoch 5, iter 6, Sup Loss: 0.09567, Unsup Loss: 0.21727
+Epoch 5, iter 7, Sup Loss: 0.05417, Unsup Loss: 0.24832
+Epoch 5, iter 8, Sup Loss: 0.09693, Unsup Loss: 0.26269
+Epoch 5, iter 9, Sup Loss: 0.07806, Unsup Loss: 0.23342
+Epoch 5, iter 10, Sup Loss: 0.08215, Unsup Loss: 0.25151
+Epoch 5, iter 11, Sup Loss: 0.07312, Unsup Loss: 0.18042
+Epoch 5, iter 12, Sup Loss: 0.09049, Unsup Loss: 0.2473
+Epoch 5, iter 13, Sup Loss: 0.08521, Unsup Loss: 0.17465
+Epoch 5, iter 14, Sup Loss: 0.04918, Unsup Loss: 0.25032
+Epoch 5, iter 15, Sup Loss: 0.09407, Unsup Loss: 0.17884
+Epoch 5, iter 16, Sup Loss: 0.07463, Unsup Loss: 0.25207
+Epoch 5, iter 17, Sup Loss: 0.07591, Unsup Loss: 0.18071
+Epoch 5, iter 18, Sup Loss: 0.06687, Unsup Loss: 0.21603
+Epoch 5, Total train step 18 || AVG_loss: 0.0852, Avg Dice score: 0.8287, Avg IOU: 0.7082
+Epoch 5, Validation || sum_loss: 0.18162, Dice score: 0.8112, IOU: 0.6844
+New best epoch 5!===============================
+Training and evaluating on epoch5 complete in 0m 16s
+Epoch 6, iter 1, Sup Loss: 0.0857, Unsup Loss: 0.26253
+Epoch 6, iter 2, Sup Loss: 0.09997, Unsup Loss: 0.22867
+Epoch 6, iter 3, Sup Loss: 0.06398, Unsup Loss: 0.13611
+Epoch 6, iter 4, Sup Loss: 0.08879, Unsup Loss: 0.23574
+Epoch 6, iter 5, Sup Loss: 0.07421, Unsup Loss: 0.20151
+Epoch 6, iter 6, Sup Loss: 0.05913, Unsup Loss: 0.10738
+Epoch 6, iter 7, Sup Loss: 0.07353, Unsup Loss: 0.31024
+Epoch 6, iter 8, Sup Loss: 0.07871, Unsup Loss: 0.26738
+Epoch 6, iter 9, Sup Loss: 0.09748, Unsup Loss: 0.17241
+Epoch 6, iter 10, Sup Loss: 0.05917, Unsup Loss: 0.21101
+Epoch 6, iter 11, Sup Loss: 0.08362, Unsup Loss: 0.17986
+Epoch 6, iter 12, Sup Loss: 0.06957, Unsup Loss: 0.27413
+Epoch 6, iter 13, Sup Loss: 0.05617, Unsup Loss: 0.21703
+Epoch 6, iter 14, Sup Loss: 0.0631, Unsup Loss: 0.21995
+Epoch 6, iter 15, Sup Loss: 0.07453, Unsup Loss: 0.12833
+Epoch 6, iter 16, Sup Loss: 0.08343, Unsup Loss: 0.23252
+Epoch 6, iter 17, Sup Loss: 0.0552, Unsup Loss: 0.1399
+Epoch 6, iter 18, Sup Loss: 0.08056, Unsup Loss: 0.24322
+Epoch 6, Total train step 18 || AVG_loss: 0.07555, Avg Dice score: 0.8445, Avg IOU: 0.7319
+Epoch 6, Validation || sum_loss: 0.15981, Dice score: 0.8285, IOU: 0.709
+New best epoch 6!===============================
+Training and evaluating on epoch6 complete in 0m 16s
+Epoch 7, iter 1, Sup Loss: 0.0822, Unsup Loss: 0.17154
+Epoch 7, iter 2, Sup Loss: 0.08448, Unsup Loss: 0.22084
+Epoch 7, iter 3, Sup Loss: 0.07761, Unsup Loss: 0.28517
+Epoch 7, iter 4, Sup Loss: 0.04998, Unsup Loss: 0.19174
+Epoch 7, iter 5, Sup Loss: 0.0666, Unsup Loss: 0.15863
+Epoch 7, iter 6, Sup Loss: 0.04827, Unsup Loss: 0.14166
+Epoch 7, iter 7, Sup Loss: 0.0473, Unsup Loss: 0.17019
+Epoch 7, iter 8, Sup Loss: 0.08047, Unsup Loss: 0.27986
+Epoch 7, iter 9, Sup Loss: 0.07977, Unsup Loss: 0.18009
+Epoch 7, iter 10, Sup Loss: 0.0741, Unsup Loss: 0.15528
+Epoch 7, iter 11, Sup Loss: 0.04793, Unsup Loss: 0.18804
+Epoch 7, iter 12, Sup Loss: 0.06123, Unsup Loss: 0.15847
+Epoch 7, iter 13, Sup Loss: 0.04691, Unsup Loss: 0.21049
+Epoch 7, iter 14, Sup Loss: 0.04205, Unsup Loss: 0.1255
+Epoch 7, iter 15, Sup Loss: 0.07572, Unsup Loss: 0.21855
+Epoch 7, iter 16, Sup Loss: 0.07384, Unsup Loss: 0.25396
+Epoch 7, iter 17, Sup Loss: 0.07043, Unsup Loss: 0.20235
+Epoch 7, iter 18, Sup Loss: 0.04699, Unsup Loss: 0.21726
+Epoch 7, Total train step 18 || AVG_loss: 0.06613, Avg Dice score: 0.8614, Avg IOU: 0.7578
+Epoch 7, Validation || sum_loss: 0.14527, Dice score: 0.8451, IOU: 0.7329
+New best epoch 7!===============================
+Training and evaluating on epoch7 complete in 0m 17s
+Epoch 8, iter 1, Sup Loss: 0.06595, Unsup Loss: 0.271
+Epoch 8, iter 2, Sup Loss: 0.05887, Unsup Loss: 0.12922
+Epoch 8, iter 3, Sup Loss: 0.05616, Unsup Loss: 0.2603
+Epoch 8, iter 4, Sup Loss: 0.0805, Unsup Loss: 0.17149
+Epoch 8, iter 5, Sup Loss: 0.05421, Unsup Loss: 0.18241
+Epoch 8, iter 6, Sup Loss: 0.05272, Unsup Loss: 0.23057
+Epoch 8, iter 7, Sup Loss: 0.06524, Unsup Loss: 0.12335
+Epoch 8, iter 8, Sup Loss: 0.06314, Unsup Loss: 0.22433
+Epoch 8, iter 9, Sup Loss: 0.0543, Unsup Loss: 0.17188
+Epoch 8, iter 10, Sup Loss: 0.0522, Unsup Loss: 0.21477
+Epoch 8, iter 11, Sup Loss: 0.07963, Unsup Loss: 0.12596
+Epoch 8, iter 12, Sup Loss: 0.05264, Unsup Loss: 0.14232
+Epoch 8, iter 13, Sup Loss: 0.05338, Unsup Loss: 0.1567
+Epoch 8, iter 14, Sup Loss: 0.05119, Unsup Loss: 0.19702
+Epoch 8, iter 15, Sup Loss: 0.05892, Unsup Loss: 0.15505
+Epoch 8, iter 16, Sup Loss: 0.0521, Unsup Loss: 0.17606
+Epoch 8, iter 17, Sup Loss: 0.04754, Unsup Loss: 0.17761
+Epoch 8, iter 18, Sup Loss: 0.08102, Unsup Loss: 0.13373
+Epoch 8, Total train step 18 || AVG_loss: 0.06026, Avg Dice score: 0.8741, Avg IOU: 0.7771
+Epoch 8, Validation || sum_loss: 0.13633, Dice score: 0.8547, IOU: 0.7477
+New best epoch 8!===============================
+Training and evaluating on epoch8 complete in 0m 16s
+Epoch 9, iter 1, Sup Loss: 0.04985, Unsup Loss: 0.24311
+Epoch 9, iter 2, Sup Loss: 0.06455, Unsup Loss: 0.19681
+Epoch 9, iter 3, Sup Loss: 0.05651, Unsup Loss: 0.1919
+Epoch 9, iter 4, Sup Loss: 0.06943, Unsup Loss: 0.12859
+Epoch 9, iter 5, Sup Loss: 0.05233, Unsup Loss: 0.15324
+Epoch 9, iter 6, Sup Loss: 0.06116, Unsup Loss: 0.13197
+Epoch 9, iter 7, Sup Loss: 0.06441, Unsup Loss: 0.27414
+Epoch 9, iter 8, Sup Loss: 0.04543, Unsup Loss: 0.18011
+Epoch 9, iter 9, Sup Loss: 0.06323, Unsup Loss: 0.22134
+Epoch 9, iter 10, Sup Loss: 0.05886, Unsup Loss: 0.31883
+Epoch 9, iter 11, Sup Loss: 0.06537, Unsup Loss: 0.14354
+Epoch 9, iter 12, Sup Loss: 0.05063, Unsup Loss: 0.15881
+Epoch 9, iter 13, Sup Loss: 0.06037, Unsup Loss: 0.25215
+Epoch 9, iter 14, Sup Loss: 0.04912, Unsup Loss: 0.1647
+Epoch 9, iter 15, Sup Loss: 0.0499, Unsup Loss: 0.16199
+Epoch 9, iter 16, Sup Loss: 0.06297, Unsup Loss: 0.24085
+Epoch 9, iter 17, Sup Loss: 0.05012, Unsup Loss: 0.23328
+Epoch 9, iter 18, Sup Loss: 0.06947, Unsup Loss: 0.13674
+Epoch 9, Total train step 18 || AVG_loss: 0.05822, Avg Dice score: 0.8753, Avg IOU: 0.7787
+Epoch 9, Validation || sum_loss: 0.15297, Dice score: 0.8342, IOU: 0.7168
+Training and evaluating on epoch9 complete in 0m 16s
+Epoch 10, iter 1, Sup Loss: 0.05928, Unsup Loss: 0.17986
+Epoch 10, iter 2, Sup Loss: 0.06662, Unsup Loss: 0.19954
+Epoch 10, iter 3, Sup Loss: 0.06044, Unsup Loss: 0.23637
+Epoch 10, iter 4, Sup Loss: 0.05641, Unsup Loss: 0.20744
+Epoch 10, iter 5, Sup Loss: 0.04552, Unsup Loss: 0.23205
+Epoch 10, iter 6, Sup Loss: 0.0717, Unsup Loss: 0.16855
+Epoch 10, iter 7, Sup Loss: 0.04806, Unsup Loss: 0.17884
+Epoch 10, iter 8, Sup Loss: 0.04973, Unsup Loss: 0.14689
+Epoch 10, iter 9, Sup Loss: 0.06688, Unsup Loss: 0.22804
+Epoch 10, iter 10, Sup Loss: 0.05357, Unsup Loss: 0.259
+Epoch 10, iter 11, Sup Loss: 0.05351, Unsup Loss: 0.2951
+Epoch 10, iter 12, Sup Loss: 0.04157, Unsup Loss: 0.16746
+Epoch 10, iter 13, Sup Loss: 0.07205, Unsup Loss: 0.20637
+Epoch 10, iter 14, Sup Loss: 0.05009, Unsup Loss: 0.09494
+Epoch 10, iter 15, Sup Loss: 0.04192, Unsup Loss: 0.20095
+Epoch 10, iter 16, Sup Loss: 0.06003, Unsup Loss: 0.17001
+Epoch 10, iter 17, Sup Loss: 0.05101, Unsup Loss: 0.23895
+Epoch 10, iter 18, Sup Loss: 0.05385, Unsup Loss: 0.2461
+Epoch 10, Total train step 18 || AVG_loss: 0.05642, Avg Dice score: 0.8795, Avg IOU: 0.7854
+Epoch 10, Validation || sum_loss: 0.13039, Dice score: 0.8609, IOU: 0.757
+New best epoch 10!===============================
+Training and evaluating on epoch10 complete in 0m 17s
+Epoch 11, iter 1, Sup Loss: 0.06117, Unsup Loss: 0.14154
+Epoch 11, iter 2, Sup Loss: 0.04334, Unsup Loss: 0.20319
+Epoch 11, iter 3, Sup Loss: 0.04694, Unsup Loss: 0.208
+Epoch 11, iter 4, Sup Loss: 0.0694, Unsup Loss: 0.21879
+Epoch 11, iter 5, Sup Loss: 0.06088, Unsup Loss: 0.21886
+Epoch 11, iter 6, Sup Loss: 0.05118, Unsup Loss: 0.1342
+Epoch 11, iter 7, Sup Loss: 0.0468, Unsup Loss: 0.25717
+Epoch 11, iter 8, Sup Loss: 0.06404, Unsup Loss: 0.19319
+Epoch 11, iter 9, Sup Loss: 0.0514, Unsup Loss: 0.12759
+Epoch 11, iter 10, Sup Loss: 0.03873, Unsup Loss: 0.21884
+Epoch 11, iter 11, Sup Loss: 0.06343, Unsup Loss: 0.16082
+Epoch 11, iter 12, Sup Loss: 0.05831, Unsup Loss: 0.1611
+Epoch 11, iter 13, Sup Loss: 0.0563, Unsup Loss: 0.1545
+Epoch 11, iter 14, Sup Loss: 0.05463, Unsup Loss: 0.1187
+Epoch 11, iter 15, Sup Loss: 0.05281, Unsup Loss: 0.23017
+Epoch 11, iter 16, Sup Loss: 0.0459, Unsup Loss: 0.1996
+Epoch 11, iter 17, Sup Loss: 0.03998, Unsup Loss: 0.18205
+Epoch 11, iter 18, Sup Loss: 0.06545, Unsup Loss: 0.16345
+Epoch 11, Total train step 18 || AVG_loss: 0.05434, Avg Dice score: 0.8827, Avg IOU: 0.7905
+Epoch 11, Validation || sum_loss: 0.13515, Dice score: 0.8539, IOU: 0.7465
+Training and evaluating on epoch11 complete in 0m 16s
+Epoch 12, iter 1, Sup Loss: 0.0393, Unsup Loss: 0.19736
+Epoch 12, iter 2, Sup Loss: 0.04785, Unsup Loss: 0.1174
+Epoch 12, iter 3, Sup Loss: 0.06404, Unsup Loss: 0.18542
+Epoch 12, iter 4, Sup Loss: 0.08653, Unsup Loss: 0.15533
+Epoch 12, iter 5, Sup Loss: 0.04724, Unsup Loss: 0.22489
+Epoch 12, iter 6, Sup Loss: 0.04029, Unsup Loss: 0.12454
+Epoch 12, iter 7, Sup Loss: 0.03889, Unsup Loss: 0.20079
+Epoch 12, iter 8, Sup Loss: 0.03484, Unsup Loss: 0.20055
+Epoch 12, iter 9, Sup Loss: 0.04374, Unsup Loss: 0.22673
+Epoch 12, iter 10, Sup Loss: 0.0579, Unsup Loss: 0.24183
+Epoch 12, iter 11, Sup Loss: 0.07813, Unsup Loss: 0.22337
+Epoch 12, iter 12, Sup Loss: 0.04414, Unsup Loss: 0.16978
+Epoch 12, iter 13, Sup Loss: 0.03777, Unsup Loss: 0.25643
+Epoch 12, iter 14, Sup Loss: 0.0296, Unsup Loss: 0.20309
+Epoch 12, iter 15, Sup Loss: 0.03155, Unsup Loss: 0.19765
+Epoch 12, iter 16, Sup Loss: 0.04353, Unsup Loss: 0.16056
+Epoch 12, iter 17, Sup Loss: 0.05713, Unsup Loss: 0.1736
+Epoch 12, iter 18, Sup Loss: 0.07338, Unsup Loss: 0.12972
+Epoch 12, Total train step 18 || AVG_loss: 0.0513, Avg Dice score: 0.8905, Avg IOU: 0.8041
+Epoch 12, Validation || sum_loss: 0.12233, Dice score: 0.8675, IOU: 0.7674
+New best epoch 12!===============================
+Training and evaluating on epoch12 complete in 0m 17s
+Epoch 13, iter 1, Sup Loss: 0.04281, Unsup Loss: 0.14507
+Epoch 13, iter 2, Sup Loss: 0.04107, Unsup Loss: 0.18687
+Epoch 13, iter 3, Sup Loss: 0.04551, Unsup Loss: 0.21863
+Epoch 13, iter 4, Sup Loss: 0.03765, Unsup Loss: 0.16456
+Epoch 13, iter 5, Sup Loss: 0.0438, Unsup Loss: 0.18627
+Epoch 13, iter 6, Sup Loss: 0.08101, Unsup Loss: 0.17782
+Epoch 13, iter 7, Sup Loss: 0.04153, Unsup Loss: 0.18931
+Epoch 13, iter 8, Sup Loss: 0.03861, Unsup Loss: 0.19225
+Epoch 13, iter 9, Sup Loss: 0.03566, Unsup Loss: 0.0997
+Epoch 13, iter 10, Sup Loss: 0.04026, Unsup Loss: 0.151
+Epoch 13, iter 11, Sup Loss: 0.03723, Unsup Loss: 0.14843
+Epoch 13, iter 12, Sup Loss: 0.0383, Unsup Loss: 0.30724
+Epoch 13, iter 13, Sup Loss: 0.07424, Unsup Loss: 0.14654
+Epoch 13, iter 14, Sup Loss: 0.03488, Unsup Loss: 0.2523
+Epoch 13, iter 15, Sup Loss: 0.03499, Unsup Loss: 0.15126
+Epoch 13, iter 16, Sup Loss: 0.0363, Unsup Loss: 0.13814
+Epoch 13, iter 17, Sup Loss: 0.03854, Unsup Loss: 0.21555
+Epoch 13, iter 18, Sup Loss: 0.03488, Unsup Loss: 0.0906
+Epoch 13, Total train step 18 || AVG_loss: 0.04375, Avg Dice score: 0.9066, Avg IOU: 0.8301
+Epoch 13, Validation || sum_loss: 0.11642, Dice score: 0.8736, IOU: 0.7769
+New best epoch 13!===============================
+Training and evaluating on epoch13 complete in 0m 16s
+Epoch 14, iter 1, Sup Loss: 0.0522, Unsup Loss: 0.19382
+Epoch 14, iter 2, Sup Loss: 0.05302, Unsup Loss: 0.29381
+Epoch 14, iter 3, Sup Loss: 0.05884, Unsup Loss: 0.14115
+Epoch 14, iter 4, Sup Loss: 0.03965, Unsup Loss: 0.24067
+Epoch 14, iter 5, Sup Loss: 0.04182, Unsup Loss: 0.16117
+Epoch 14, iter 6, Sup Loss: 0.039, Unsup Loss: 0.19331
+Epoch 14, iter 7, Sup Loss: 0.04552, Unsup Loss: 0.24527
+Epoch 14, iter 8, Sup Loss: 0.05297, Unsup Loss: 0.2531
+Epoch 14, iter 9, Sup Loss: 0.05203, Unsup Loss: 0.2292
+Epoch 14, iter 10, Sup Loss: 0.05701, Unsup Loss: 0.25113
+Epoch 14, iter 11, Sup Loss: 0.03751, Unsup Loss: 0.20294
+Epoch 14, iter 12, Sup Loss: 0.04368, Unsup Loss: 0.22585
+Epoch 14, iter 13, Sup Loss: 0.04344, Unsup Loss: 0.1362
+Epoch 14, iter 14, Sup Loss: 0.03608, Unsup Loss: 0.12292
+Epoch 14, iter 15, Sup Loss: 0.05128, Unsup Loss: 0.17997
+Epoch 14, iter 16, Sup Loss: 0.0557, Unsup Loss: 0.16121
+Epoch 14, iter 17, Sup Loss: 0.06225, Unsup Loss: 0.17613
+Epoch 14, iter 18, Sup Loss: 0.03338, Unsup Loss: 0.19639
+Epoch 14, Total train step 18 || AVG_loss: 0.04826, Avg Dice score: 0.8946, Avg IOU: 0.8097
+Epoch 14, Validation || sum_loss: 0.11712, Dice score: 0.8721, IOU: 0.7744
+Training and evaluating on epoch14 complete in 0m 16s
+Epoch 15, iter 1, Sup Loss: 0.04952, Unsup Loss: 0.14887
+Epoch 15, iter 2, Sup Loss: 0.05355, Unsup Loss: 0.21471
+Epoch 15, iter 3, Sup Loss: 0.03671, Unsup Loss: 0.20004
+Epoch 15, iter 4, Sup Loss: 0.04564, Unsup Loss: 0.25616
+Epoch 15, iter 5, Sup Loss: 0.04523, Unsup Loss: 0.11448
+Epoch 15, iter 6, Sup Loss: 0.04523, Unsup Loss: 0.14402
+Epoch 15, iter 7, Sup Loss: 0.04966, Unsup Loss: 0.14071
+Epoch 15, iter 8, Sup Loss: 0.04785, Unsup Loss: 0.20288
+Epoch 15, iter 9, Sup Loss: 0.04673, Unsup Loss: 0.12501
+Epoch 15, iter 10, Sup Loss: 0.03084, Unsup Loss: 0.21579
+Epoch 15, iter 11, Sup Loss: 0.04334, Unsup Loss: 0.23357
+Epoch 15, iter 12, Sup Loss: 0.04271, Unsup Loss: 0.20816
+Epoch 15, iter 13, Sup Loss: 0.04836, Unsup Loss: 0.22454
+Epoch 15, iter 14, Sup Loss: 0.03504, Unsup Loss: 0.17338
+Epoch 15, iter 15, Sup Loss: 0.04599, Unsup Loss: 0.10004
+Epoch 15, iter 16, Sup Loss: 0.04573, Unsup Loss: 0.17131
+Epoch 15, iter 17, Sup Loss: 0.0366, Unsup Loss: 0.19851
+Epoch 15, iter 18, Sup Loss: 0.04242, Unsup Loss: 0.20158
+Epoch 15, Total train step 18 || AVG_loss: 0.04422, Avg Dice score: 0.9039, Avg IOU: 0.8249
+Epoch 15, Validation || sum_loss: 0.11588, Dice score: 0.8745, IOU: 0.7784
+New best epoch 15!===============================
+Training and evaluating on epoch15 complete in 0m 16s
+Epoch 16, iter 1, Sup Loss: 0.03409, Unsup Loss: 0.1185
+Epoch 16, iter 2, Sup Loss: 0.05475, Unsup Loss: 0.15459
+Epoch 16, iter 3, Sup Loss: 0.05405, Unsup Loss: 0.19245
+Epoch 16, iter 4, Sup Loss: 0.05244, Unsup Loss: 0.23272
+Epoch 16, iter 5, Sup Loss: 0.04306, Unsup Loss: 0.22349
+Epoch 16, iter 6, Sup Loss: 0.03339, Unsup Loss: 0.19737
+Epoch 16, iter 7, Sup Loss: 0.05508, Unsup Loss: 0.14773
+Epoch 16, iter 8, Sup Loss: 0.03909, Unsup Loss: 0.13855
+Epoch 16, iter 9, Sup Loss: 0.04804, Unsup Loss: 0.22311
+Epoch 16, iter 10, Sup Loss: 0.04802, Unsup Loss: 0.1425
+Epoch 16, iter 11, Sup Loss: 0.0482, Unsup Loss: 0.19529
+Epoch 16, iter 12, Sup Loss: 0.04353, Unsup Loss: 0.15176
+Epoch 16, iter 13, Sup Loss: 0.03316, Unsup Loss: 0.14991
+Epoch 16, iter 14, Sup Loss: 0.0444, Unsup Loss: 0.17353
+Epoch 16, iter 15, Sup Loss: 0.03208, Unsup Loss: 0.10139
+Epoch 16, iter 16, Sup Loss: 0.04808, Unsup Loss: 0.14608
+Epoch 16, iter 17, Sup Loss: 0.0512, Unsup Loss: 0.17974
+Epoch 16, iter 18, Sup Loss: 0.04323, Unsup Loss: 0.17646
+Epoch 16, Total train step 18 || AVG_loss: 0.04443, Avg Dice score: 0.9027, Avg IOU: 0.823
+Epoch 16, Validation || sum_loss: 0.11309, Dice score: 0.8764, IOU: 0.7818
+New best epoch 16!===============================
+Training and evaluating on epoch16 complete in 0m 16s
+Epoch 17, iter 1, Sup Loss: 0.03373, Unsup Loss: 0.17903
+Epoch 17, iter 2, Sup Loss: 0.03601, Unsup Loss: 0.20053
+Epoch 17, iter 3, Sup Loss: 0.02904, Unsup Loss: 0.16621
+Epoch 17, iter 4, Sup Loss: 0.04599, Unsup Loss: 0.12286
+Epoch 17, iter 5, Sup Loss: 0.05351, Unsup Loss: 0.21384
+Epoch 17, iter 6, Sup Loss: 0.05056, Unsup Loss: 0.18871
+Epoch 17, iter 7, Sup Loss: 0.03106, Unsup Loss: 0.09176
+Epoch 17, iter 8, Sup Loss: 0.03012, Unsup Loss: 0.15694
+Epoch 17, iter 9, Sup Loss: 0.03282, Unsup Loss: 0.14461
+Epoch 17, iter 10, Sup Loss: 0.02674, Unsup Loss: 0.1644
+Epoch 17, iter 11, Sup Loss: 0.04287, Unsup Loss: 0.22317
+Epoch 17, iter 12, Sup Loss: 0.04993, Unsup Loss: 0.22377
+Epoch 17, iter 13, Sup Loss: 0.04928, Unsup Loss: 0.24609
+Epoch 17, iter 14, Sup Loss: 0.02312, Unsup Loss: 0.18344
+Epoch 17, iter 15, Sup Loss: 0.03012, Unsup Loss: 0.09824
+Epoch 17, iter 16, Sup Loss: 0.03088, Unsup Loss: 0.20845
+Epoch 17, iter 17, Sup Loss: 0.02783, Unsup Loss: 0.16175
+Epoch 17, iter 18, Sup Loss: 0.04267, Unsup Loss: 0.21883
+Epoch 17, Total train step 18 || AVG_loss: 0.03804, Avg Dice score: 0.9172, Avg IOU: 0.8477
+Epoch 17, Validation || sum_loss: 0.11312, Dice score: 0.8753, IOU: 0.7804
+Training and evaluating on epoch17 complete in 0m 16s
+Epoch 18, iter 1, Sup Loss: 0.04483, Unsup Loss: 0.11818
+Epoch 18, iter 2, Sup Loss: 0.04949, Unsup Loss: 0.12213
+Epoch 18, iter 3, Sup Loss: 0.03698, Unsup Loss: 0.18315
+Epoch 18, iter 4, Sup Loss: 0.0307, Unsup Loss: 0.09385
+Epoch 18, iter 5, Sup Loss: 0.04309, Unsup Loss: 0.14811
+Epoch 18, iter 6, Sup Loss: 0.03497, Unsup Loss: 0.18489
+Epoch 18, iter 7, Sup Loss: 0.05139, Unsup Loss: 0.17866
+Epoch 18, iter 8, Sup Loss: 0.04452, Unsup Loss: 0.12843
+Epoch 18, iter 9, Sup Loss: 0.04677, Unsup Loss: 0.14813
+Epoch 18, iter 10, Sup Loss: 0.03219, Unsup Loss: 0.11714
+Epoch 18, iter 11, Sup Loss: 0.02997, Unsup Loss: 0.20711
+Epoch 18, iter 12, Sup Loss: 0.04115, Unsup Loss: 0.24149
+Epoch 18, iter 13, Sup Loss: 0.03512, Unsup Loss: 0.1293
+Epoch 18, iter 14, Sup Loss: 0.03446, Unsup Loss: 0.1522
+Epoch 18, iter 15, Sup Loss: 0.04303, Unsup Loss: 0.14237
+Epoch 18, iter 16, Sup Loss: 0.04555, Unsup Loss: 0.15817
+Epoch 18, iter 17, Sup Loss: 0.02999, Unsup Loss: 0.24911
+Epoch 18, iter 18, Sup Loss: 0.02916, Unsup Loss: 0.11524
+Epoch 18, Total train step 18 || AVG_loss: 0.03883, Avg Dice score: 0.9156, Avg IOU: 0.8447
+Epoch 18, Validation || sum_loss: 0.12065, Dice score: 0.8719, IOU: 0.7752
+Training and evaluating on epoch18 complete in 0m 16s
+Epoch 19, iter 1, Sup Loss: 0.03987, Unsup Loss: 0.06639
+Epoch 19, iter 2, Sup Loss: 0.0554, Unsup Loss: 0.22914
+Epoch 19, iter 3, Sup Loss: 0.04467, Unsup Loss: 0.15415
+Epoch 19, iter 4, Sup Loss: 0.02676, Unsup Loss: 0.23606
+Epoch 19, iter 5, Sup Loss: 0.0409, Unsup Loss: 0.09759
+Epoch 19, iter 6, Sup Loss: 0.04454, Unsup Loss: 0.16322
+Epoch 19, iter 7, Sup Loss: 0.04306, Unsup Loss: 0.17965
+Epoch 19, iter 8, Sup Loss: 0.03379, Unsup Loss: 0.12998
+Epoch 19, iter 9, Sup Loss: 0.05347, Unsup Loss: 0.12404
+Epoch 19, iter 10, Sup Loss: 0.04448, Unsup Loss: 0.1392
+Epoch 19, iter 11, Sup Loss: 0.02477, Unsup Loss: 0.11146
+Epoch 19, iter 12, Sup Loss: 0.03074, Unsup Loss: 0.23137
+Epoch 19, iter 13, Sup Loss: 0.04074, Unsup Loss: 0.19265
+Epoch 19, iter 14, Sup Loss: 0.02888, Unsup Loss: 0.1426
+Epoch 19, iter 15, Sup Loss: 0.03485, Unsup Loss: 0.25253
+Epoch 19, iter 16, Sup Loss: 0.0547, Unsup Loss: 0.24805
+Epoch 19, iter 17, Sup Loss: 0.03995, Unsup Loss: 0.19655
+Epoch 19, iter 18, Sup Loss: 0.02383, Unsup Loss: 0.18646
+Epoch 19, Total train step 18 || AVG_loss: 0.03959, Avg Dice score: 0.914, Avg IOU: 0.8423
+Epoch 19, Validation || sum_loss: 0.11278, Dice score: 0.8776, IOU: 0.7839
+New best epoch 19!===============================
+Training and evaluating on epoch19 complete in 0m 17s
+Epoch 20, iter 1, Sup Loss: 0.03264, Unsup Loss: 0.15161
+Epoch 20, iter 2, Sup Loss: 0.03133, Unsup Loss: 0.12768
+Epoch 20, iter 3, Sup Loss: 0.03673, Unsup Loss: 0.11361
+Epoch 20, iter 4, Sup Loss: 0.03412, Unsup Loss: 0.13691
+Epoch 20, iter 5, Sup Loss: 0.04508, Unsup Loss: 0.16203
+Epoch 20, iter 6, Sup Loss: 0.0442, Unsup Loss: 0.16747
+Epoch 20, iter 7, Sup Loss: 0.08291, Unsup Loss: 0.12306
+Epoch 20, iter 8, Sup Loss: 0.03168, Unsup Loss: 0.18217
+Epoch 20, iter 9, Sup Loss: 0.03344, Unsup Loss: 0.16101
+Epoch 20, iter 10, Sup Loss: 0.03413, Unsup Loss: 0.10644
+Epoch 20, iter 11, Sup Loss: 0.03108, Unsup Loss: 0.10515
+Epoch 20, iter 12, Sup Loss: 0.04399, Unsup Loss: 0.13363
+Epoch 20, iter 13, Sup Loss: 0.04457, Unsup Loss: 0.17918
+Epoch 20, iter 14, Sup Loss: 0.07272, Unsup Loss: 0.12468
+Epoch 20, iter 15, Sup Loss: 0.02735, Unsup Loss: 0.11196
+Epoch 20, iter 16, Sup Loss: 0.0348, Unsup Loss: 0.18053
+Epoch 20, iter 17, Sup Loss: 0.04192, Unsup Loss: 0.14208
+Epoch 20, iter 18, Sup Loss: 0.03568, Unsup Loss: 0.16428
+Epoch 20, Total train step 18 || AVG_loss: 0.03777, Avg Dice score: 0.9163, Avg IOU: 0.8461
+Epoch 20, Validation || sum_loss: 0.11217, Dice score: 0.878, IOU: 0.7845
+New best epoch 20!===============================
+Training and evaluating on epoch20 complete in 0m 16s
+Epoch 21, iter 1, Sup Loss: 0.03185, Unsup Loss: 0.10581
+Epoch 21, iter 2, Sup Loss: 0.03445, Unsup Loss: 0.19431
+Epoch 21, iter 3, Sup Loss: 0.04162, Unsup Loss: 0.12234
+Epoch 21, iter 4, Sup Loss: 0.05611, Unsup Loss: 0.15604
+Epoch 21, iter 5, Sup Loss: 0.0542, Unsup Loss: 0.13856
+Epoch 21, iter 6, Sup Loss: 0.0333, Unsup Loss: 0.1859
+Epoch 21, iter 7, Sup Loss: 0.03583, Unsup Loss: 0.10186
+Epoch 21, iter 8, Sup Loss: 0.03239, Unsup Loss: 0.2007
+Epoch 21, iter 9, Sup Loss: 0.03059, Unsup Loss: 0.19114
+Epoch 21, iter 10, Sup Loss: 0.032, Unsup Loss: 0.20619
+Epoch 21, iter 11, Sup Loss: 0.05383, Unsup Loss: 0.25631
+Epoch 21, iter 12, Sup Loss: 0.05086, Unsup Loss: 0.09854
+Epoch 21, iter 13, Sup Loss: 0.03038, Unsup Loss: 0.13738
+Epoch 21, iter 14, Sup Loss: 0.02524, Unsup Loss: 0.21412
+Epoch 21, iter 15, Sup Loss: 0.0311, Unsup Loss: 0.20532
+Epoch 21, iter 16, Sup Loss: 0.02803, Unsup Loss: 0.22687
+Epoch 21, iter 17, Sup Loss: 0.03501, Unsup Loss: 0.19479
+Epoch 21, iter 18, Sup Loss: 0.05148, Unsup Loss: 0.29139
+Epoch 21, Total train step 18 || AVG_loss: 0.03906, Avg Dice score: 0.9145, Avg IOU: 0.8432
+Epoch 21, Validation || sum_loss: 0.11758, Dice score: 0.8729, IOU: 0.7766
+Training and evaluating on epoch21 complete in 0m 16s
+Epoch 22, iter 1, Sup Loss: 0.04178, Unsup Loss: 0.22251
+Epoch 22, iter 2, Sup Loss: 0.05896, Unsup Loss: 0.15189
+Epoch 22, iter 3, Sup Loss: 0.02651, Unsup Loss: 0.10734
+Epoch 22, iter 4, Sup Loss: 0.03031, Unsup Loss: 0.1315
+Epoch 22, iter 5, Sup Loss: 0.04785, Unsup Loss: 0.09597
+Epoch 22, iter 6, Sup Loss: 0.03007, Unsup Loss: 0.13716
+Epoch 22, iter 7, Sup Loss: 0.01947, Unsup Loss: 0.18631
+Epoch 22, iter 8, Sup Loss: 0.03781, Unsup Loss: 0.18047
+Epoch 22, iter 9, Sup Loss: 0.05664, Unsup Loss: 0.11255
+Epoch 22, iter 10, Sup Loss: 0.02485, Unsup Loss: 0.11392
+Epoch 22, iter 11, Sup Loss: 0.0277, Unsup Loss: 0.21432
+Epoch 22, iter 12, Sup Loss: 0.04159, Unsup Loss: 0.23719
+Epoch 22, iter 13, Sup Loss: 0.02615, Unsup Loss: 0.14228
+Epoch 22, iter 14, Sup Loss: 0.0143, Unsup Loss: 0.11657
+Epoch 22, iter 15, Sup Loss: 0.03615, Unsup Loss: 0.24784
+Epoch 22, iter 16, Sup Loss: 0.05375, Unsup Loss: 0.20164
+Epoch 22, iter 17, Sup Loss: 0.02431, Unsup Loss: 0.11248
+Epoch 22, iter 18, Sup Loss: 0.02707, Unsup Loss: 0.12636
+Epoch 22, Total train step 18 || AVG_loss: 0.03646, Avg Dice score: 0.9209, Avg IOU: 0.8544
+Epoch 22, Validation || sum_loss: 0.11105, Dice score: 0.8791, IOU: 0.7865
+New best epoch 22!===============================
+Training and evaluating on epoch22 complete in 0m 16s
+Epoch 23, iter 1, Sup Loss: 0.03247, Unsup Loss: 0.13605
+Epoch 23, iter 2, Sup Loss: 0.04576, Unsup Loss: 0.0918
+Epoch 23, iter 3, Sup Loss: 0.03701, Unsup Loss: 0.10026
+Epoch 23, iter 4, Sup Loss: 0.04339, Unsup Loss: 0.14133
+Epoch 23, iter 5, Sup Loss: 0.03142, Unsup Loss: 0.13606
+Epoch 23, iter 6, Sup Loss: 0.02203, Unsup Loss: 0.16126
+Epoch 23, iter 7, Sup Loss: 0.03563, Unsup Loss: 0.13565
+Epoch 23, iter 8, Sup Loss: 0.02666, Unsup Loss: 0.20173
+Epoch 23, iter 9, Sup Loss: 0.04231, Unsup Loss: 0.15125
+Epoch 23, iter 10, Sup Loss: 0.03338, Unsup Loss: 0.22628
+Epoch 23, iter 11, Sup Loss: 0.04071, Unsup Loss: 0.16359
+Epoch 23, iter 12, Sup Loss: 0.03024, Unsup Loss: 0.18548
+Epoch 23, iter 13, Sup Loss: 0.02062, Unsup Loss: 0.18344
+Epoch 23, iter 14, Sup Loss: 0.02677, Unsup Loss: 0.14071
+Epoch 23, iter 15, Sup Loss: 0.02494, Unsup Loss: 0.22543
+Epoch 23, iter 16, Sup Loss: 0.03889, Unsup Loss: 0.15059
+Epoch 23, iter 17, Sup Loss: 0.03038, Unsup Loss: 0.10288
+Epoch 23, iter 18, Sup Loss: 0.03803, Unsup Loss: 0.08237
+Epoch 23, Total train step 18 || AVG_loss: 0.03367, Avg Dice score: 0.9269, Avg IOU: 0.8642
+Epoch 23, Validation || sum_loss: 0.1118, Dice score: 0.8795, IOU: 0.7873
+New best epoch 23!===============================
+Training and evaluating on epoch23 complete in 0m 16s
+Epoch 24, iter 1, Sup Loss: 0.03412, Unsup Loss: 0.24583
+Epoch 24, iter 2, Sup Loss: 0.05328, Unsup Loss: 0.18602
+Epoch 24, iter 3, Sup Loss: 0.0324, Unsup Loss: 0.14701
+Epoch 24, iter 4, Sup Loss: 0.02263, Unsup Loss: 0.13167
+Epoch 24, iter 5, Sup Loss: 0.04175, Unsup Loss: 0.12922
+Epoch 24, iter 6, Sup Loss: 0.02623, Unsup Loss: 0.15615
+Epoch 24, iter 7, Sup Loss: 0.02073, Unsup Loss: 0.21314
+Epoch 24, iter 8, Sup Loss: 0.03162, Unsup Loss: 0.16098
+Epoch 24, iter 9, Sup Loss: 0.04807, Unsup Loss: 0.20697
+Epoch 24, iter 10, Sup Loss: 0.02787, Unsup Loss: 0.17798
+Epoch 24, iter 11, Sup Loss: 0.02241, Unsup Loss: 0.17951
+Epoch 24, iter 12, Sup Loss: 0.0391, Unsup Loss: 0.11256
+Epoch 24, iter 13, Sup Loss: 0.02627, Unsup Loss: 0.17786
+Epoch 24, iter 14, Sup Loss: 0.01709, Unsup Loss: 0.15667
+Epoch 24, iter 15, Sup Loss: 0.02869, Unsup Loss: 0.12494
+Epoch 24, iter 16, Sup Loss: 0.04329, Unsup Loss: 0.10741
+Epoch 24, iter 17, Sup Loss: 0.02679, Unsup Loss: 0.25884
+Epoch 24, iter 18, Sup Loss: 0.02333, Unsup Loss: 0.0723
+Epoch 24, Total train step 18 || AVG_loss: 0.03267, Avg Dice score: 0.9285, Avg IOU: 0.8673
+Epoch 24, Validation || sum_loss: 0.11532, Dice score: 0.8758, IOU: 0.7818
+Training and evaluating on epoch24 complete in 0m 16s
+Epoch 25, iter 1, Sup Loss: 0.02952, Unsup Loss: 0.10768
+Epoch 25, iter 2, Sup Loss: 0.03785, Unsup Loss: 0.196
+Epoch 25, iter 3, Sup Loss: 0.05546, Unsup Loss: 0.18558
+Epoch 25, iter 4, Sup Loss: 0.03034, Unsup Loss: 0.29856
+Epoch 25, iter 5, Sup Loss: 0.03199, Unsup Loss: 0.19704
+Epoch 25, iter 6, Sup Loss: 0.02171, Unsup Loss: 0.15464
+Epoch 25, iter 7, Sup Loss: 0.02798, Unsup Loss: 0.14523
+Epoch 25, iter 8, Sup Loss: 0.02646, Unsup Loss: 0.1399
+Epoch 25, iter 9, Sup Loss: 0.03051, Unsup Loss: 0.17443
+Epoch 25, iter 10, Sup Loss: 0.05196, Unsup Loss: 0.11126
+Epoch 25, iter 11, Sup Loss: 0.0259, Unsup Loss: 0.21038
+Epoch 25, iter 12, Sup Loss: 0.02696, Unsup Loss: 0.16768
+Epoch 25, iter 13, Sup Loss: 0.02018, Unsup Loss: 0.23972
+Epoch 25, iter 14, Sup Loss: 0.02216, Unsup Loss: 0.19656
+Epoch 25, iter 15, Sup Loss: 0.02476, Unsup Loss: 0.20395
+Epoch 25, iter 16, Sup Loss: 0.02746, Unsup Loss: 0.23874
+Epoch 25, iter 17, Sup Loss: 0.04934, Unsup Loss: 0.13214
+Epoch 25, iter 18, Sup Loss: 0.02355, Unsup Loss: 0.06525
+Epoch 25, Total train step 18 || AVG_loss: 0.03202, Avg Dice score: 0.9313, Avg IOU: 0.872
+Epoch 25, Validation || sum_loss: 0.11178, Dice score: 0.8801, IOU: 0.7885
+New best epoch 25!===============================
+Training and evaluating on epoch25 complete in 0m 16s
+Epoch 26, iter 1, Sup Loss: 0.04494, Unsup Loss: 0.18035
+Epoch 26, iter 2, Sup Loss: 0.02429, Unsup Loss: 0.13268
+Epoch 26, iter 3, Sup Loss: 0.04801, Unsup Loss: 0.09706
+Epoch 26, iter 4, Sup Loss: 0.03246, Unsup Loss: 0.12457
+Epoch 26, iter 5, Sup Loss: 0.02532, Unsup Loss: 0.2535
+Epoch 26, iter 6, Sup Loss: 0.02691, Unsup Loss: 0.10211
+Epoch 26, iter 7, Sup Loss: 0.02447, Unsup Loss: 0.12664
+Epoch 26, iter 8, Sup Loss: 0.04092, Unsup Loss: 0.18087
+Epoch 26, iter 9, Sup Loss: 0.02324, Unsup Loss: 0.09356
+Epoch 26, iter 10, Sup Loss: 0.04368, Unsup Loss: 0.10546
+Epoch 26, iter 11, Sup Loss: 0.02962, Unsup Loss: 0.19638
+Epoch 26, iter 12, Sup Loss: 0.02174, Unsup Loss: 0.14106
+Epoch 26, iter 13, Sup Loss: 0.02616, Unsup Loss: 0.15754
+Epoch 26, iter 14, Sup Loss: 0.02117, Unsup Loss: 0.16766
+Epoch 26, iter 15, Sup Loss: 0.04205, Unsup Loss: 0.15087
+Epoch 26, iter 16, Sup Loss: 0.02144, Unsup Loss: 0.12277
+Epoch 26, iter 17, Sup Loss: 0.03521, Unsup Loss: 0.17666
+Epoch 26, iter 18, Sup Loss: 0.03139, Unsup Loss: 0.24439
+Epoch 26, Total train step 18 || AVG_loss: 0.03215, Avg Dice score: 0.9294, Avg IOU: 0.8687
+Epoch 26, Validation || sum_loss: 0.11945, Dice score: 0.8731, IOU: 0.7774
+Training and evaluating on epoch26 complete in 0m 16s
+Epoch 27, iter 1, Sup Loss: 0.03253, Unsup Loss: 0.1685
+Epoch 27, iter 2, Sup Loss: 0.02433, Unsup Loss: 0.21215
+Epoch 27, iter 3, Sup Loss: 0.02716, Unsup Loss: 0.11019
+Epoch 27, iter 4, Sup Loss: 0.04267, Unsup Loss: 0.17762
+Epoch 27, iter 5, Sup Loss: 0.05042, Unsup Loss: 0.21979
+Epoch 27, iter 6, Sup Loss: 0.03292, Unsup Loss: 0.09657
+Epoch 27, iter 7, Sup Loss: 0.02901, Unsup Loss: 0.14751
+Epoch 27, iter 8, Sup Loss: 0.02554, Unsup Loss: 0.13656
+Epoch 27, iter 9, Sup Loss: 0.02215, Unsup Loss: 0.13067
+Epoch 27, iter 10, Sup Loss: 0.02672, Unsup Loss: 0.188
+Epoch 27, iter 11, Sup Loss: 0.03968, Unsup Loss: 0.17896
+Epoch 27, iter 12, Sup Loss: 0.04555, Unsup Loss: 0.15676
+Epoch 27, iter 13, Sup Loss: 0.03019, Unsup Loss: 0.13363
+Epoch 27, iter 14, Sup Loss: 0.02224, Unsup Loss: 0.26968
+Epoch 27, iter 15, Sup Loss: 0.028, Unsup Loss: 0.21332
+Epoch 27, iter 16, Sup Loss: 0.02348, Unsup Loss: 0.11227
+Epoch 27, iter 17, Sup Loss: 0.02563, Unsup Loss: 0.21658
+Epoch 27, iter 18, Sup Loss: 0.03992, Unsup Loss: 0.18413
+Epoch 27, Total train step 18 || AVG_loss: 0.03221, Avg Dice score: 0.9293, Avg IOU: 0.8684
+Epoch 27, Validation || sum_loss: 0.11896, Dice score: 0.8747, IOU: 0.7795
+Training and evaluating on epoch27 complete in 0m 17s
+Epoch 28, iter 1, Sup Loss: 0.04861, Unsup Loss: 0.20104
+Epoch 28, iter 2, Sup Loss: 0.04155, Unsup Loss: 0.13718
+Epoch 28, iter 3, Sup Loss: 0.02173, Unsup Loss: 0.12393
+Epoch 28, iter 4, Sup Loss: 0.03395, Unsup Loss: 0.16236
+Epoch 28, iter 5, Sup Loss: 0.03007, Unsup Loss: 0.16147
+Epoch 28, iter 6, Sup Loss: 0.0294, Unsup Loss: 0.12797
+Epoch 28, iter 7, Sup Loss: 0.03484, Unsup Loss: 0.0843
+Epoch 28, iter 8, Sup Loss: 0.0369, Unsup Loss: 0.22823
+Epoch 28, iter 9, Sup Loss: 0.03654, Unsup Loss: 0.21979
+Epoch 28, iter 10, Sup Loss: 0.0218, Unsup Loss: 0.07428
+Epoch 28, iter 11, Sup Loss: 0.02989, Unsup Loss: 0.10557
+Epoch 28, iter 12, Sup Loss: 0.02757, Unsup Loss: 0.17482
+Epoch 28, iter 13, Sup Loss: 0.02629, Unsup Loss: 0.15873
+Epoch 28, iter 14, Sup Loss: 0.02377, Unsup Loss: 0.10224
+Epoch 28, iter 15, Sup Loss: 0.03491, Unsup Loss: 0.10368
+Epoch 28, iter 16, Sup Loss: 0.03607, Unsup Loss: 0.10701
+Epoch 28, iter 17, Sup Loss: 0.02185, Unsup Loss: 0.11263
+Epoch 28, iter 18, Sup Loss: 0.02984, Unsup Loss: 0.12442
+Epoch 28, Total train step 18 || AVG_loss: 0.03171, Avg Dice score: 0.9302, Avg IOU: 0.8698
+Epoch 28, Validation || sum_loss: 0.11736, Dice score: 0.8734, IOU: 0.7776
+Training and evaluating on epoch28 complete in 0m 17s
+Epoch 29, iter 1, Sup Loss: 0.02133, Unsup Loss: 0.08277
+Epoch 29, iter 2, Sup Loss: 0.0275, Unsup Loss: 0.29418
+Epoch 29, iter 3, Sup Loss: 0.02644, Unsup Loss: 0.19145
+Epoch 29, iter 4, Sup Loss: 0.03277, Unsup Loss: 0.18432
+Epoch 29, iter 5, Sup Loss: 0.03068, Unsup Loss: 0.14858
+Epoch 29, iter 6, Sup Loss: 0.04561, Unsup Loss: 0.13162
+Epoch 29, iter 7, Sup Loss: 0.02538, Unsup Loss: 0.10815
+Epoch 29, iter 8, Sup Loss: 0.01987, Unsup Loss: 0.20296
+Epoch 29, iter 9, Sup Loss: 0.02668, Unsup Loss: 0.10635
+Epoch 29, iter 10, Sup Loss: 0.02569, Unsup Loss: 0.10808
+Epoch 29, iter 11, Sup Loss: 0.02753, Unsup Loss: 0.11083
+Epoch 29, iter 12, Sup Loss: 0.02838, Unsup Loss: 0.1643
+Epoch 29, iter 13, Sup Loss: 0.04769, Unsup Loss: 0.1287
+Epoch 29, iter 14, Sup Loss: 0.02421, Unsup Loss: 0.20921
+Epoch 29, iter 15, Sup Loss: 0.01997, Unsup Loss: 0.15526
+Epoch 29, iter 16, Sup Loss: 0.02561, Unsup Loss: 0.14685
+Epoch 29, iter 17, Sup Loss: 0.0332, Unsup Loss: 0.20958
+Epoch 29, iter 18, Sup Loss: 0.03368, Unsup Loss: 0.18332
+Epoch 29, Total train step 18 || AVG_loss: 0.0295, Avg Dice score: 0.9337, Avg IOU: 0.876
+Epoch 29, Validation || sum_loss: 0.11623, Dice score: 0.8771, IOU: 0.7835
+Training and evaluating on epoch29 complete in 0m 16s
+Epoch 30, iter 1, Sup Loss: 0.04369, Unsup Loss: 0.14563
+Epoch 30, iter 2, Sup Loss: 0.0415, Unsup Loss: 0.10301
+Epoch 30, iter 3, Sup Loss: 0.02839, Unsup Loss: 0.221
+Epoch 30, iter 4, Sup Loss: 0.03238, Unsup Loss: 0.21503
+Epoch 30, iter 5, Sup Loss: 0.03594, Unsup Loss: 0.18522
+Epoch 30, iter 6, Sup Loss: 0.0226, Unsup Loss: 0.24299
+Epoch 30, iter 7, Sup Loss: 0.0238, Unsup Loss: 0.13282
+Epoch 30, iter 8, Sup Loss: 0.04219, Unsup Loss: 0.10875
+Epoch 30, iter 9, Sup Loss: 0.03452, Unsup Loss: 0.10132
+Epoch 30, iter 10, Sup Loss: 0.02854, Unsup Loss: 0.14274
+Epoch 30, iter 11, Sup Loss: 0.03194, Unsup Loss: 0.23421
+Epoch 30, iter 12, Sup Loss: 0.02966, Unsup Loss: 0.05401
+Epoch 30, iter 13, Sup Loss: 0.02177, Unsup Loss: 0.10541
+Epoch 30, iter 14, Sup Loss: 0.01986, Unsup Loss: 0.22391
+Epoch 30, iter 15, Sup Loss: 0.04826, Unsup Loss: 0.14034
+Epoch 30, iter 16, Sup Loss: 0.03562, Unsup Loss: 0.12691
+Epoch 30, iter 17, Sup Loss: 0.02625, Unsup Loss: 0.19001
+Epoch 30, iter 18, Sup Loss: 0.02907, Unsup Loss: 0.08718
+Epoch 30, Total train step 18 || AVG_loss: 0.03302, Avg Dice score: 0.927, Avg IOU: 0.8643
+Epoch 30, Validation || sum_loss: 0.11713, Dice score: 0.8762, IOU: 0.7822
+Training and evaluating on epoch30 complete in 0m 16s
+Epoch 31, iter 1, Sup Loss: 0.02431, Unsup Loss: 0.2145
+Epoch 31, iter 2, Sup Loss: 0.04031, Unsup Loss: 0.16207
+Epoch 31, iter 3, Sup Loss: 0.06061, Unsup Loss: 0.10702
+Epoch 31, iter 4, Sup Loss: 0.04082, Unsup Loss: 0.21343
+Epoch 31, iter 5, Sup Loss: 0.02776, Unsup Loss: 0.11585
+Epoch 31, iter 6, Sup Loss: 0.02018, Unsup Loss: 0.14988
+Epoch 31, iter 7, Sup Loss: 0.04335, Unsup Loss: 0.13037
+Epoch 31, iter 8, Sup Loss: 0.02099, Unsup Loss: 0.14825
+Epoch 31, iter 9, Sup Loss: 0.03088, Unsup Loss: 0.12241
+Epoch 31, iter 10, Sup Loss: 0.05557, Unsup Loss: 0.1691
+Epoch 31, iter 11, Sup Loss: 0.04105, Unsup Loss: 0.24845
+Epoch 31, iter 12, Sup Loss: 0.02889, Unsup Loss: 0.07205
+Epoch 31, iter 13, Sup Loss: 0.02496, Unsup Loss: 0.0929
+Epoch 31, iter 14, Sup Loss: 0.02269, Unsup Loss: 0.18155
+Epoch 31, iter 15, Sup Loss: 0.01845, Unsup Loss: 0.17201
+Epoch 31, iter 16, Sup Loss: 0.03637, Unsup Loss: 0.10925
+Epoch 31, iter 17, Sup Loss: 0.05729, Unsup Loss: 0.15918
+Epoch 31, iter 18, Sup Loss: 0.03255, Unsup Loss: 0.20882
+Epoch 31, Total train step 18 || AVG_loss: 0.0351, Avg Dice score: 0.9218, Avg IOU: 0.8562
+Epoch 31, Validation || sum_loss: 0.11327, Dice score: 0.8781, IOU: 0.785
+Training and evaluating on epoch31 complete in 0m 16s
+Epoch 32, iter 1, Sup Loss: 0.03132, Unsup Loss: 0.18226
+Epoch 32, iter 2, Sup Loss: 0.02995, Unsup Loss: 0.16349
+Epoch 32, iter 3, Sup Loss: 0.02748, Unsup Loss: 0.1633
+Epoch 32, iter 4, Sup Loss: 0.04116, Unsup Loss: 0.12805
+Epoch 32, iter 5, Sup Loss: 0.02794, Unsup Loss: 0.11876
+Epoch 32, iter 6, Sup Loss: 0.03981, Unsup Loss: 0.14238
+Epoch 32, iter 7, Sup Loss: 0.01673, Unsup Loss: 0.08858
+Epoch 32, iter 8, Sup Loss: 0.02661, Unsup Loss: 0.19358
+Epoch 32, iter 9, Sup Loss: 0.02752, Unsup Loss: 0.08417
+Epoch 32, iter 10, Sup Loss: 0.02209, Unsup Loss: 0.15086
+Epoch 32, iter 11, Sup Loss: 0.03353, Unsup Loss: 0.24587
+Epoch 32, iter 12, Sup Loss: 0.02455, Unsup Loss: 0.17868
+Epoch 32, iter 13, Sup Loss: 0.03497, Unsup Loss: 0.09758
+Epoch 32, iter 14, Sup Loss: 0.01779, Unsup Loss: 0.141
+Epoch 32, iter 15, Sup Loss: 0.02715, Unsup Loss: 0.15131
+Epoch 32, iter 16, Sup Loss: 0.02506, Unsup Loss: 0.18327
+Epoch 32, iter 17, Sup Loss: 0.02025, Unsup Loss: 0.10913
+Epoch 32, iter 18, Sup Loss: 0.02992, Unsup Loss: 0.19853
+Epoch 32, Total train step 18 || AVG_loss: 0.02907, Avg Dice score: 0.9354, Avg IOU: 0.879
+Epoch 32, Validation || sum_loss: 0.1158, Dice score: 0.8731, IOU: 0.7772
+Training and evaluating on epoch32 complete in 0m 17s
+Epoch 33, iter 1, Sup Loss: 0.05043, Unsup Loss: 0.14594
+Epoch 33, iter 2, Sup Loss: 0.0365, Unsup Loss: 0.20652
+Epoch 33, iter 3, Sup Loss: 0.02246, Unsup Loss: 0.11421
+Epoch 33, iter 4, Sup Loss: 0.02537, Unsup Loss: 0.11359
+Epoch 33, iter 5, Sup Loss: 0.02551, Unsup Loss: 0.16975
+Epoch 33, iter 6, Sup Loss: 0.02478, Unsup Loss: 0.05936
+Epoch 33, iter 7, Sup Loss: 0.02219, Unsup Loss: 0.08445
+Epoch 33, iter 8, Sup Loss: 0.04581, Unsup Loss: 0.18086
+Epoch 33, iter 9, Sup Loss: 0.03192, Unsup Loss: 0.16695
+Epoch 33, iter 10, Sup Loss: 0.02171, Unsup Loss: 0.15184
+Epoch 33, iter 11, Sup Loss: 0.02655, Unsup Loss: 0.20982
+Epoch 33, iter 12, Sup Loss: 0.0232, Unsup Loss: 0.17634
+Epoch 33, iter 13, Sup Loss: 0.02241, Unsup Loss: 0.17683
+Epoch 33, iter 14, Sup Loss: 0.01591, Unsup Loss: 0.13588
+Epoch 33, iter 15, Sup Loss: 0.04554, Unsup Loss: 0.18024
+Epoch 33, iter 16, Sup Loss: 0.03497, Unsup Loss: 0.18314
+Epoch 33, iter 17, Sup Loss: 0.02786, Unsup Loss: 0.27056
+Epoch 33, iter 18, Sup Loss: 0.02184, Unsup Loss: 0.18514
+Epoch 33, Total train step 18 || AVG_loss: 0.03019, Avg Dice score: 0.933, Avg IOU: 0.8749
+Epoch 33, Validation || sum_loss: 0.11779, Dice score: 0.8723, IOU: 0.7759
+Training and evaluating on epoch33 complete in 0m 16s
+Epoch 34, iter 1, Sup Loss: 0.04332, Unsup Loss: 0.24013
+Epoch 34, iter 2, Sup Loss: 0.02446, Unsup Loss: 0.09228
+Epoch 34, iter 3, Sup Loss: 0.03651, Unsup Loss: 0.2437
+Epoch 34, iter 4, Sup Loss: 0.0234, Unsup Loss: 0.1842
+Epoch 34, iter 5, Sup Loss: 0.03063, Unsup Loss: 0.29816
+Epoch 34, iter 6, Sup Loss: 0.02313, Unsup Loss: 0.08559
+Epoch 34, iter 7, Sup Loss: 0.02422, Unsup Loss: 0.20864
+Epoch 34, iter 8, Sup Loss: 0.04234, Unsup Loss: 0.17652
+Epoch 34, iter 9, Sup Loss: 0.0264, Unsup Loss: 0.21168
+Epoch 34, iter 10, Sup Loss: 0.03321, Unsup Loss: 0.14358
+Epoch 34, iter 11, Sup Loss: 0.01666, Unsup Loss: 0.13586
+Epoch 34, iter 12, Sup Loss: 0.02916, Unsup Loss: 0.1916
+Epoch 34, iter 13, Sup Loss: 0.02528, Unsup Loss: 0.11587
+Epoch 34, iter 14, Sup Loss: 0.0194, Unsup Loss: 0.15188
+Epoch 34, iter 15, Sup Loss: 0.04272, Unsup Loss: 0.17559
+Epoch 34, iter 16, Sup Loss: 0.02062, Unsup Loss: 0.15636
+Epoch 34, iter 17, Sup Loss: 0.0305, Unsup Loss: 0.25449
+Epoch 34, iter 18, Sup Loss: 0.01688, Unsup Loss: 0.14789
+Epoch 34, Total train step 18 || AVG_loss: 0.02897, Avg Dice score: 0.9353, Avg IOU: 0.879
+Epoch 34, Validation || sum_loss: 0.11825, Dice score: 0.8733, IOU: 0.7776
+Training and evaluating on epoch34 complete in 0m 16s
+Epoch 35, iter 1, Sup Loss: 0.03116, Unsup Loss: 0.08436
+Epoch 35, iter 2, Sup Loss: 0.04117, Unsup Loss: 0.18403
+Epoch 35, iter 3, Sup Loss: 0.02704, Unsup Loss: 0.13144
+Epoch 35, iter 4, Sup Loss: 0.03216, Unsup Loss: 0.18141
+Epoch 35, iter 5, Sup Loss: 0.02158, Unsup Loss: 0.05823
+Epoch 35, iter 6, Sup Loss: 0.03481, Unsup Loss: 0.20894
+Epoch 35, iter 7, Sup Loss: 0.02257, Unsup Loss: 0.11556
+Epoch 35, iter 8, Sup Loss: 0.02834, Unsup Loss: 0.12807
+Epoch 35, iter 9, Sup Loss: 0.03829, Unsup Loss: 0.14254
+Epoch 35, iter 10, Sup Loss: 0.02283, Unsup Loss: 0.20469
+Epoch 35, iter 11, Sup Loss: 0.02812, Unsup Loss: 0.14745
+Epoch 35, iter 12, Sup Loss: 0.02353, Unsup Loss: 0.14489
+Epoch 35, iter 13, Sup Loss: 0.02955, Unsup Loss: 0.10287
+Epoch 35, iter 14, Sup Loss: 0.0207, Unsup Loss: 0.18642
+Epoch 35, iter 15, Sup Loss: 0.0261, Unsup Loss: 0.21072
+Epoch 35, iter 16, Sup Loss: 0.03401, Unsup Loss: 0.10166
+Epoch 35, iter 17, Sup Loss: 0.02709, Unsup Loss: 0.1637
+Epoch 35, iter 18, Sup Loss: 0.02562, Unsup Loss: 0.22724
+Epoch 35, Total train step 18 || AVG_loss: 0.02933, Avg Dice score: 0.9343, Avg IOU: 0.8769
+Epoch 35, Validation || sum_loss: 0.11607, Dice score: 0.8741, IOU: 0.7786
+Training and evaluating on epoch35 complete in 0m 16s
+Epoch 36, iter 1, Sup Loss: 0.03866, Unsup Loss: 0.18339
+Epoch 36, iter 2, Sup Loss: 0.02763, Unsup Loss: 0.13308
+Epoch 36, iter 3, Sup Loss: 0.025, Unsup Loss: 0.11321
+Epoch 36, iter 4, Sup Loss: 0.02907, Unsup Loss: 0.19087
+Epoch 36, iter 5, Sup Loss: 0.02614, Unsup Loss: 0.1411
+Epoch 36, iter 6, Sup Loss: 0.02856, Unsup Loss: 0.10859
+Epoch 36, iter 7, Sup Loss: 0.03351, Unsup Loss: 0.167
+Epoch 36, iter 8, Sup Loss: 0.03486, Unsup Loss: 0.14568
+Epoch 36, iter 9, Sup Loss: 0.03035, Unsup Loss: 0.12701
+Epoch 36, iter 10, Sup Loss: 0.0301, Unsup Loss: 0.1808
+Epoch 36, iter 11, Sup Loss: 0.0267, Unsup Loss: 0.26631
+Epoch 36, iter 12, Sup Loss: 0.02368, Unsup Loss: 0.27872
+Epoch 36, iter 13, Sup Loss: 0.02497, Unsup Loss: 0.19568
+Epoch 36, iter 14, Sup Loss: 0.02588, Unsup Loss: 0.11028
+Epoch 36, iter 15, Sup Loss: 0.03568, Unsup Loss: 0.15924
+Epoch 36, iter 16, Sup Loss: 0.02663, Unsup Loss: 0.19612
+Epoch 36, iter 17, Sup Loss: 0.02185, Unsup Loss: 0.23589
+Epoch 36, iter 18, Sup Loss: 0.02283, Unsup Loss: 0.13793
+Epoch 36, Total train step 18 || AVG_loss: 0.02845, Avg Dice score: 0.9357, Avg IOU: 0.8793
+Epoch 36, Validation || sum_loss: 0.11292, Dice score: 0.8769, IOU: 0.783
+Training and evaluating on epoch36 complete in 0m 16s
+Epoch 37, iter 1, Sup Loss: 0.04189, Unsup Loss: 0.16786
+Epoch 37, iter 2, Sup Loss: 0.02199, Unsup Loss: 0.22631
+Epoch 37, iter 3, Sup Loss: 0.02561, Unsup Loss: 0.28296
+Epoch 37, iter 4, Sup Loss: 0.02332, Unsup Loss: 0.13836
+Epoch 37, iter 5, Sup Loss: 0.02946, Unsup Loss: 0.18695
+Epoch 37, iter 6, Sup Loss: 0.02598, Unsup Loss: 0.14028
+Epoch 37, iter 7, Sup Loss: 0.02823, Unsup Loss: 0.15175
+Epoch 37, iter 8, Sup Loss: 0.04384, Unsup Loss: 0.07838
+Epoch 37, iter 9, Sup Loss: 0.02168, Unsup Loss: 0.09442
+Epoch 37, iter 10, Sup Loss: 0.02138, Unsup Loss: 0.13567
+Epoch 37, iter 11, Sup Loss: 0.01814, Unsup Loss: 0.11632
+Epoch 37, iter 12, Sup Loss: 0.02329, Unsup Loss: 0.18888
+Epoch 37, iter 13, Sup Loss: 0.02209, Unsup Loss: 0.13172
+Epoch 37, iter 14, Sup Loss: 0.02197, Unsup Loss: 0.16832
+Epoch 37, iter 15, Sup Loss: 0.03745, Unsup Loss: 0.16352
+Epoch 37, iter 16, Sup Loss: 0.01986, Unsup Loss: 0.19904
+Epoch 37, iter 17, Sup Loss: 0.02016, Unsup Loss: 0.17618
+Epoch 37, iter 18, Sup Loss: 0.01665, Unsup Loss: 0.14743
+Epoch 37, Total train step 18 || AVG_loss: 0.02588, Avg Dice score: 0.9416, Avg IOU: 0.8901
+Epoch 37, Validation || sum_loss: 0.11255, Dice score: 0.8802, IOU: 0.7883
+New best epoch 37!===============================
+Training and evaluating on epoch37 complete in 0m 17s
+Epoch 38, iter 1, Sup Loss: 0.02747, Unsup Loss: 0.1721
+Epoch 38, iter 2, Sup Loss: 0.0247, Unsup Loss: 0.18831
+Epoch 38, iter 3, Sup Loss: 0.02282, Unsup Loss: 0.14912
+Epoch 38, iter 4, Sup Loss: 0.02568, Unsup Loss: 0.14707
+Epoch 38, iter 5, Sup Loss: 0.03503, Unsup Loss: 0.10265
+Epoch 38, iter 6, Sup Loss: 0.02791, Unsup Loss: 0.08653
+Epoch 38, iter 7, Sup Loss: 0.02543, Unsup Loss: 0.16018
+Epoch 38, iter 8, Sup Loss: 0.02479, Unsup Loss: 0.18913
+Epoch 38, iter 9, Sup Loss: 0.02254, Unsup Loss: 0.17506
+Epoch 38, iter 10, Sup Loss: 0.02071, Unsup Loss: 0.18258
+Epoch 38, iter 11, Sup Loss: 0.0227, Unsup Loss: 0.10044
+Epoch 38, iter 12, Sup Loss: 0.03455, Unsup Loss: 0.17433
+Epoch 38, iter 13, Sup Loss: 0.0278, Unsup Loss: 0.12381
+Epoch 38, iter 14, Sup Loss: 0.0209, Unsup Loss: 0.1205
+Epoch 38, iter 15, Sup Loss: 0.0229, Unsup Loss: 0.14424
+Epoch 38, iter 16, Sup Loss: 0.01984, Unsup Loss: 0.0937
+Epoch 38, iter 17, Sup Loss: 0.02046, Unsup Loss: 0.1897
+Epoch 38, iter 18, Sup Loss: 0.02717, Unsup Loss: 0.17466
+Epoch 38, Total train step 18 || AVG_loss: 0.02547, Avg Dice score: 0.9426, Avg IOU: 0.8915
+Epoch 38, Validation || sum_loss: 0.11458, Dice score: 0.8765, IOU: 0.7826
+Training and evaluating on epoch38 complete in 0m 16s
+Epoch 39, iter 1, Sup Loss: 0.04371, Unsup Loss: 0.12013
+Epoch 39, iter 2, Sup Loss: 0.02022, Unsup Loss: 0.11405
+Epoch 39, iter 3, Sup Loss: 0.02442, Unsup Loss: 0.11411
+Epoch 39, iter 4, Sup Loss: 0.0324, Unsup Loss: 0.12659
+Epoch 39, iter 5, Sup Loss: 0.02018, Unsup Loss: 0.15235
+Epoch 39, iter 6, Sup Loss: 0.02242, Unsup Loss: 0.13735
+Epoch 39, iter 7, Sup Loss: 0.03389, Unsup Loss: 0.14169
+Epoch 39, iter 8, Sup Loss: 0.03632, Unsup Loss: 0.17434
+Epoch 39, iter 9, Sup Loss: 0.02201, Unsup Loss: 0.20134
+Epoch 39, iter 10, Sup Loss: 0.02325, Unsup Loss: 0.1642
+Epoch 39, iter 11, Sup Loss: 0.02961, Unsup Loss: 0.31454
+Epoch 39, iter 12, Sup Loss: 0.01853, Unsup Loss: 0.23621
+Epoch 39, iter 13, Sup Loss: 0.02126, Unsup Loss: 0.13834
+Epoch 39, iter 14, Sup Loss: 0.0204, Unsup Loss: 0.18649
+Epoch 39, iter 15, Sup Loss: 0.03636, Unsup Loss: 0.14619
+Epoch 39, iter 16, Sup Loss: 0.02443, Unsup Loss: 0.09519
+Epoch 39, iter 17, Sup Loss: 0.02083, Unsup Loss: 0.10755
+Epoch 39, iter 18, Sup Loss: 0.02763, Unsup Loss: 0.13529
+Epoch 39, Total train step 18 || AVG_loss: 0.0266, Avg Dice score: 0.9403, Avg IOU: 0.8877
+Epoch 39, Validation || sum_loss: 0.10983, Dice score: 0.8809, IOU: 0.7889
+New best epoch 39!===============================
+Training and evaluating on epoch39 complete in 0m 17s
+Epoch 40, iter 1, Sup Loss: 0.03568, Unsup Loss: 0.17296
+Epoch 40, iter 2, Sup Loss: 0.02722, Unsup Loss: 0.1245
+Epoch 40, iter 3, Sup Loss: 0.03621, Unsup Loss: 0.21649
+Epoch 40, iter 4, Sup Loss: 0.02954, Unsup Loss: 0.17384
+Epoch 40, iter 5, Sup Loss: 0.02209, Unsup Loss: 0.08862
+Epoch 40, iter 6, Sup Loss: 0.02221, Unsup Loss: 0.06804
+Epoch 40, iter 7, Sup Loss: 0.0265, Unsup Loss: 0.21385
+Epoch 40, iter 8, Sup Loss: 0.03637, Unsup Loss: 0.16993
+Epoch 40, iter 9, Sup Loss: 0.02632, Unsup Loss: 0.17877
+Epoch 40, iter 10, Sup Loss: 0.03322, Unsup Loss: 0.17315
+Epoch 40, iter 11, Sup Loss: 0.0226, Unsup Loss: 0.23534
+Epoch 40, iter 12, Sup Loss: 0.01847, Unsup Loss: 0.1879
+Epoch 40, iter 13, Sup Loss: 0.02736, Unsup Loss: 0.19542
+Epoch 40, iter 14, Sup Loss: 0.03437, Unsup Loss: 0.16796
+Epoch 40, iter 15, Sup Loss: 0.02813, Unsup Loss: 0.08285
+Epoch 40, iter 16, Sup Loss: 0.02338, Unsup Loss: 0.11272
+Epoch 40, iter 17, Sup Loss: 0.03592, Unsup Loss: 0.17458
+Epoch 40, iter 18, Sup Loss: 0.02183, Unsup Loss: 0.22736
+Epoch 40, Total train step 18 || AVG_loss: 0.02809, Avg Dice score: 0.9364, Avg IOU: 0.8807
+Epoch 40, Validation || sum_loss: 0.11562, Dice score: 0.8761, IOU: 0.7818
+Training and evaluating on epoch40 complete in 0m 16s
+Epoch 41, iter 1, Sup Loss: 0.02388, Unsup Loss: 0.14133
+Epoch 41, iter 2, Sup Loss: 0.03764, Unsup Loss: 0.18698
+Epoch 41, iter 3, Sup Loss: 0.02665, Unsup Loss: 0.13686
+Epoch 41, iter 4, Sup Loss: 0.02406, Unsup Loss: 0.07282
+Epoch 41, iter 5, Sup Loss: 0.02228, Unsup Loss: 0.11815
+Epoch 41, iter 6, Sup Loss: 0.0402, Unsup Loss: 0.19123
+Epoch 41, iter 7, Sup Loss: 0.01933, Unsup Loss: 0.08512
+Epoch 41, iter 8, Sup Loss: 0.02322, Unsup Loss: 0.15529
+Epoch 41, iter 9, Sup Loss: 0.03544, Unsup Loss: 0.19368
+Epoch 41, iter 10, Sup Loss: 0.0281, Unsup Loss: 0.14759
+Epoch 41, iter 11, Sup Loss: 0.01993, Unsup Loss: 0.17372
+Epoch 41, iter 12, Sup Loss: 0.01958, Unsup Loss: 0.17576
+Epoch 41, iter 13, Sup Loss: 0.03415, Unsup Loss: 0.12162
+Epoch 41, iter 14, Sup Loss: 0.01512, Unsup Loss: 0.14597
+Epoch 41, iter 15, Sup Loss: 0.01829, Unsup Loss: 0.17087
+Epoch 41, iter 16, Sup Loss: 0.03168, Unsup Loss: 0.18666
+Epoch 41, iter 17, Sup Loss: 0.02571, Unsup Loss: 0.14711
+Epoch 41, iter 18, Sup Loss: 0.01956, Unsup Loss: 0.19039
+Epoch 41, Total train step 18 || AVG_loss: 0.02671, Avg Dice score: 0.9407, Avg IOU: 0.8883
+Epoch 41, Validation || sum_loss: 0.10809, Dice score: 0.8819, IOU: 0.7909
+New best epoch 41!===============================
+Training and evaluating on epoch41 complete in 0m 17s
+Epoch 42, iter 1, Sup Loss: 0.02085, Unsup Loss: 0.18079
+Epoch 42, iter 2, Sup Loss: 0.02115, Unsup Loss: 0.15315
+Epoch 42, iter 3, Sup Loss: 0.03469, Unsup Loss: 0.1705
+Epoch 42, iter 4, Sup Loss: 0.02697, Unsup Loss: 0.10923
+Epoch 42, iter 5, Sup Loss: 0.02359, Unsup Loss: 0.14908
+Epoch 42, iter 6, Sup Loss: 0.02543, Unsup Loss: 0.10797
+Epoch 42, iter 7, Sup Loss: 0.02166, Unsup Loss: 0.19353
+Epoch 42, iter 8, Sup Loss: 0.01845, Unsup Loss: 0.11495
+Epoch 42, iter 9, Sup Loss: 0.01924, Unsup Loss: 0.15689
+Epoch 42, iter 10, Sup Loss: 0.03017, Unsup Loss: 0.19055
+Epoch 42, iter 11, Sup Loss: 0.02129, Unsup Loss: 0.16421
+Epoch 42, iter 12, Sup Loss: 0.01938, Unsup Loss: 0.0976
+Epoch 42, iter 13, Sup Loss: 0.02095, Unsup Loss: 0.09063
+Epoch 42, iter 14, Sup Loss: 0.02098, Unsup Loss: 0.20809
+Epoch 42, iter 15, Sup Loss: 0.01779, Unsup Loss: 0.12896
+Epoch 42, iter 16, Sup Loss: 0.02029, Unsup Loss: 0.11929
+Epoch 42, iter 17, Sup Loss: 0.02975, Unsup Loss: 0.23809
+Epoch 42, iter 18, Sup Loss: 0.02182, Unsup Loss: 0.19121
+Epoch 42, Total train step 18 || AVG_loss: 0.02328, Avg Dice score: 0.9477, Avg IOU: 0.9008
+Epoch 42, Validation || sum_loss: 0.10932, Dice score: 0.8821, IOU: 0.7911
+New best epoch 42!===============================
+Training and evaluating on epoch42 complete in 0m 16s
+Epoch 43, iter 1, Sup Loss: 0.02811, Unsup Loss: 0.20955
+Epoch 43, iter 2, Sup Loss: 0.02005, Unsup Loss: 0.18443
+Epoch 43, iter 3, Sup Loss: 0.02449, Unsup Loss: 0.15073
+Epoch 43, iter 4, Sup Loss: 0.02098, Unsup Loss: 0.17951
+Epoch 43, iter 5, Sup Loss: 0.01734, Unsup Loss: 0.15828
+Epoch 43, iter 6, Sup Loss: 0.03655, Unsup Loss: 0.10089
+Epoch 43, iter 7, Sup Loss: 0.03051, Unsup Loss: 0.12302
+Epoch 43, iter 8, Sup Loss: 0.02215, Unsup Loss: 0.12786
+Epoch 43, iter 9, Sup Loss: 0.01685, Unsup Loss: 0.21807
+Epoch 43, iter 10, Sup Loss: 0.02106, Unsup Loss: 0.13642
+Epoch 43, iter 11, Sup Loss: 0.01677, Unsup Loss: 0.18915
+Epoch 43, iter 12, Sup Loss: 0.01561, Unsup Loss: 0.12732
+Epoch 43, iter 13, Sup Loss: 0.033, Unsup Loss: 0.11592
+Epoch 43, iter 14, Sup Loss: 0.02144, Unsup Loss: 0.14981
+Epoch 43, iter 15, Sup Loss: 0.01753, Unsup Loss: 0.16192
+Epoch 43, iter 16, Sup Loss: 0.01424, Unsup Loss: 0.19915
+Epoch 43, iter 17, Sup Loss: 0.01975, Unsup Loss: 0.2655
+Epoch 43, iter 18, Sup Loss: 0.01683, Unsup Loss: 0.17754
+Epoch 43, Total train step 18 || AVG_loss: 0.02158, Avg Dice score: 0.9517, Avg IOU: 0.9081
+Epoch 43, Validation || sum_loss: 0.10995, Dice score: 0.8828, IOU: 0.7923
+New best epoch 43!===============================
+Training and evaluating on epoch43 complete in 0m 17s
+Epoch 44, iter 1, Sup Loss: 0.02528, Unsup Loss: 0.14144
+Epoch 44, iter 2, Sup Loss: 0.01859, Unsup Loss: 0.26449
+Epoch 44, iter 3, Sup Loss: 0.02183, Unsup Loss: 0.18597
+Epoch 44, iter 4, Sup Loss: 0.03896, Unsup Loss: 0.19655
+Epoch 44, iter 5, Sup Loss: 0.02019, Unsup Loss: 0.1877
+Epoch 44, iter 6, Sup Loss: 0.02304, Unsup Loss: 0.22993
+Epoch 44, iter 7, Sup Loss: 0.02652, Unsup Loss: 0.20731
+Epoch 44, iter 8, Sup Loss: 0.02492, Unsup Loss: 0.14075
+Epoch 44, iter 9, Sup Loss: 0.01895, Unsup Loss: 0.21878
+Epoch 44, iter 10, Sup Loss: 0.02132, Unsup Loss: 0.15369
+Epoch 44, iter 11, Sup Loss: 0.03782, Unsup Loss: 0.19535
+Epoch 44, iter 12, Sup Loss: 0.01896, Unsup Loss: 0.09447
+Epoch 44, iter 13, Sup Loss: 0.02548, Unsup Loss: 0.14774
+Epoch 44, iter 14, Sup Loss: 0.01941, Unsup Loss: 0.11376
+Epoch 44, iter 15, Sup Loss: 0.02694, Unsup Loss: 0.14374
+Epoch 44, iter 16, Sup Loss: 0.01663, Unsup Loss: 0.16399
+Epoch 44, iter 17, Sup Loss: 0.02071, Unsup Loss: 0.1402
+Epoch 44, iter 18, Sup Loss: 0.03689, Unsup Loss: 0.2014
+Epoch 44, Total train step 18 || AVG_loss: 0.02484, Avg Dice score: 0.9438, Avg IOU: 0.8941
+Epoch 44, Validation || sum_loss: 0.11179, Dice score: 0.8808, IOU: 0.7893
+Training and evaluating on epoch44 complete in 0m 16s
+Epoch 45, iter 1, Sup Loss: 0.01813, Unsup Loss: 0.09609
+Epoch 45, iter 2, Sup Loss: 0.02042, Unsup Loss: 0.10883
+Epoch 45, iter 3, Sup Loss: 0.02595, Unsup Loss: 0.18414
+Epoch 45, iter 4, Sup Loss: 0.03083, Unsup Loss: 0.11249
+Epoch 45, iter 5, Sup Loss: 0.03551, Unsup Loss: 0.20613
+Epoch 45, iter 6, Sup Loss: 0.02358, Unsup Loss: 0.14719
+Epoch 45, iter 7, Sup Loss: 0.01746, Unsup Loss: 0.27929
+Epoch 45, iter 8, Sup Loss: 0.02013, Unsup Loss: 0.20971
+Epoch 45, iter 9, Sup Loss: 0.02165, Unsup Loss: 0.10378
+Epoch 45, iter 10, Sup Loss: 0.02233, Unsup Loss: 0.09959
+Epoch 45, iter 11, Sup Loss: 0.02037, Unsup Loss: 0.15263
+Epoch 45, iter 12, Sup Loss: 0.0334, Unsup Loss: 0.18487
+Epoch 45, iter 13, Sup Loss: 0.0244, Unsup Loss: 0.18788
+Epoch 45, iter 14, Sup Loss: 0.0147, Unsup Loss: 0.19198
+Epoch 45, iter 15, Sup Loss: 0.01553, Unsup Loss: 0.09487
+Epoch 45, iter 16, Sup Loss: 0.01439, Unsup Loss: 0.14252
+Epoch 45, iter 17, Sup Loss: 0.01789, Unsup Loss: 0.26889
+Epoch 45, iter 18, Sup Loss: 0.02285, Unsup Loss: 0.12749
+Epoch 45, Total train step 18 || AVG_loss: 0.02285, Avg Dice score: 0.9476, Avg IOU: 0.9006
+Epoch 45, Validation || sum_loss: 0.1105, Dice score: 0.8797, IOU: 0.787
+Training and evaluating on epoch45 complete in 0m 17s
+Epoch 46, iter 1, Sup Loss: 0.03055, Unsup Loss: 0.18605
+Epoch 46, iter 2, Sup Loss: 0.02217, Unsup Loss: 0.07882
+Epoch 46, iter 3, Sup Loss: 0.02087, Unsup Loss: 0.10354
+Epoch 46, iter 4, Sup Loss: 0.02769, Unsup Loss: 0.14405
+Epoch 46, iter 5, Sup Loss: 0.03356, Unsup Loss: 0.1032
+Epoch 46, iter 6, Sup Loss: 0.02637, Unsup Loss: 0.15641
+Epoch 46, iter 7, Sup Loss: 0.01522, Unsup Loss: 0.16284
+Epoch 46, iter 8, Sup Loss: 0.02455, Unsup Loss: 0.17502
+Epoch 46, iter 9, Sup Loss: 0.01823, Unsup Loss: 0.14728
+Epoch 46, iter 10, Sup Loss: 0.01841, Unsup Loss: 0.08545
+Epoch 46, iter 11, Sup Loss: 0.02052, Unsup Loss: 0.1648
+Epoch 46, iter 12, Sup Loss: 0.02389, Unsup Loss: 0.22726
+Epoch 46, iter 13, Sup Loss: 0.02169, Unsup Loss: 0.11734
+Epoch 46, iter 14, Sup Loss: 0.00947, Unsup Loss: 0.21341
+Epoch 46, iter 15, Sup Loss: 0.02064, Unsup Loss: 0.13268
+Epoch 46, iter 16, Sup Loss: 0.0165, Unsup Loss: 0.14401
+Epoch 46, iter 17, Sup Loss: 0.01604, Unsup Loss: 0.12127
+Epoch 46, iter 18, Sup Loss: 0.01753, Unsup Loss: 0.13595
+Epoch 46, Total train step 18 || AVG_loss: 0.02224, Avg Dice score: 0.9499, Avg IOU: 0.9049
+Epoch 46, Validation || sum_loss: 0.10936, Dice score: 0.8818, IOU: 0.7909
+Training and evaluating on epoch46 complete in 0m 16s
+Epoch 47, iter 1, Sup Loss: 0.02268, Unsup Loss: 0.13683
+Epoch 47, iter 2, Sup Loss: 0.01912, Unsup Loss: 0.17085
+Epoch 47, iter 3, Sup Loss: 0.0203, Unsup Loss: 0.14915
+Epoch 47, iter 4, Sup Loss: 0.01811, Unsup Loss: 0.18506
+Epoch 47, iter 5, Sup Loss: 0.04114, Unsup Loss: 0.19038
+Epoch 47, iter 6, Sup Loss: 0.02162, Unsup Loss: 0.1214
+Epoch 47, iter 7, Sup Loss: 0.01456, Unsup Loss: 0.2053
+Epoch 47, iter 8, Sup Loss: 0.02165, Unsup Loss: 0.09866
+Epoch 47, iter 9, Sup Loss: 0.01599, Unsup Loss: 0.11142
+Epoch 47, iter 10, Sup Loss: 0.01636, Unsup Loss: 0.09671
+Epoch 47, iter 11, Sup Loss: 0.01448, Unsup Loss: 0.26223
+Epoch 47, iter 12, Sup Loss: 0.03174, Unsup Loss: 0.13385
+Epoch 47, iter 13, Sup Loss: 0.01974, Unsup Loss: 0.21674
+Epoch 47, iter 14, Sup Loss: 0.01558, Unsup Loss: 0.18047
+Epoch 47, iter 15, Sup Loss: 0.01896, Unsup Loss: 0.17221
+Epoch 47, iter 16, Sup Loss: 0.01495, Unsup Loss: 0.15864
+Epoch 47, iter 17, Sup Loss: 0.01781, Unsup Loss: 0.16041
+Epoch 47, iter 18, Sup Loss: 0.01494, Unsup Loss: 0.21513
+Epoch 47, Total train step 18 || AVG_loss: 0.02054, Avg Dice score: 0.9538, Avg IOU: 0.912
+Epoch 47, Validation || sum_loss: 0.11032, Dice score: 0.8821, IOU: 0.7909
+Training and evaluating on epoch47 complete in 0m 16s
+Epoch 48, iter 1, Sup Loss: 0.02814, Unsup Loss: 0.10961
+Epoch 48, iter 2, Sup Loss: 0.01743, Unsup Loss: 0.10054
+Epoch 48, iter 3, Sup Loss: 0.02164, Unsup Loss: 0.13296
+Epoch 48, iter 4, Sup Loss: 0.02011, Unsup Loss: 0.17574
+Epoch 48, iter 5, Sup Loss: 0.02713, Unsup Loss: 0.21132
+Epoch 48, iter 6, Sup Loss: 0.0266, Unsup Loss: 0.16584
+Epoch 48, iter 7, Sup Loss: 0.02522, Unsup Loss: 0.0974
+Epoch 48, iter 8, Sup Loss: 0.02212, Unsup Loss: 0.15964
+Epoch 48, iter 9, Sup Loss: 0.01693, Unsup Loss: 0.10101
+Epoch 48, iter 10, Sup Loss: 0.01796, Unsup Loss: 0.15911
+Epoch 48, iter 11, Sup Loss: 0.0168, Unsup Loss: 0.16398
+Epoch 48, iter 12, Sup Loss: 0.02352, Unsup Loss: 0.18934
+Epoch 48, iter 13, Sup Loss: 0.02619, Unsup Loss: 0.20147
+Epoch 48, iter 14, Sup Loss: 0.0315, Unsup Loss: 0.14535
+Epoch 48, iter 15, Sup Loss: 0.01958, Unsup Loss: 0.22938
+Epoch 48, iter 16, Sup Loss: 0.01728, Unsup Loss: 0.20135
+Epoch 48, iter 17, Sup Loss: 0.02729, Unsup Loss: 0.13897
+Epoch 48, iter 18, Sup Loss: 0.02273, Unsup Loss: 0.20269
+Epoch 48, Total train step 18 || AVG_loss: 0.02227, Avg Dice score: 0.9497, Avg IOU: 0.9044
+Epoch 48, Validation || sum_loss: 0.11775, Dice score: 0.8776, IOU: 0.7841
+Training and evaluating on epoch48 complete in 0m 16s
+Epoch 49, iter 1, Sup Loss: 0.04036, Unsup Loss: 0.20426
+Epoch 49, iter 2, Sup Loss: 0.02815, Unsup Loss: 0.16161
+Epoch 49, iter 3, Sup Loss: 0.02144, Unsup Loss: 0.14812
+Epoch 49, iter 4, Sup Loss: 0.01692, Unsup Loss: 0.15621
+Epoch 49, iter 5, Sup Loss: 0.02194, Unsup Loss: 0.10637
+Epoch 49, iter 6, Sup Loss: 0.02619, Unsup Loss: 0.23679
+Epoch 49, iter 7, Sup Loss: 0.03364, Unsup Loss: 0.16105
+Epoch 49, iter 8, Sup Loss: 0.04186, Unsup Loss: 0.12749
+Epoch 49, iter 9, Sup Loss: 0.02495, Unsup Loss: 0.25695
+Epoch 49, iter 10, Sup Loss: 0.02084, Unsup Loss: 0.15471
+Epoch 49, iter 11, Sup Loss: 0.01814, Unsup Loss: 0.16415
+Epoch 49, iter 12, Sup Loss: 0.02273, Unsup Loss: 0.16004
+Epoch 49, iter 13, Sup Loss: 0.03282, Unsup Loss: 0.18662
+Epoch 49, iter 14, Sup Loss: 0.026, Unsup Loss: 0.13646
+Epoch 49, iter 15, Sup Loss: 0.03293, Unsup Loss: 0.13402
+Epoch 49, iter 16, Sup Loss: 0.03279, Unsup Loss: 0.16644
+Epoch 49, iter 17, Sup Loss: 0.01903, Unsup Loss: 0.17234
+Epoch 49, iter 18, Sup Loss: 0.01931, Unsup Loss: 0.16251
+Epoch 49, Total train step 18 || AVG_loss: 0.02649, Avg Dice score: 0.9394, Avg IOU: 0.8862
+Epoch 49, Validation || sum_loss: 0.10959, Dice score: 0.8829, IOU: 0.7918
+New best epoch 49!===============================
+Training and evaluating on epoch49 complete in 0m 17s
+Epoch 50, iter 1, Sup Loss: 0.0272, Unsup Loss: 0.12908
+Epoch 50, iter 2, Sup Loss: 0.02067, Unsup Loss: 0.12946
+Epoch 50, iter 3, Sup Loss: 0.02045, Unsup Loss: 0.17156
+Epoch 50, iter 4, Sup Loss: 0.02115, Unsup Loss: 0.11966
+Epoch 50, iter 5, Sup Loss: 0.03024, Unsup Loss: 0.12595
+Epoch 50, iter 6, Sup Loss: 0.03475, Unsup Loss: 0.2202
+Epoch 50, iter 7, Sup Loss: 0.02524, Unsup Loss: 0.22609
+Epoch 50, iter 8, Sup Loss: 0.02191, Unsup Loss: 0.2069
+Epoch 50, iter 9, Sup Loss: 0.01683, Unsup Loss: 0.09696
+Epoch 50, iter 10, Sup Loss: 0.01795, Unsup Loss: 0.12479
+Epoch 50, iter 11, Sup Loss: 0.0171, Unsup Loss: 0.14448
+Epoch 50, iter 12, Sup Loss: 0.02651, Unsup Loss: 0.15703
+Epoch 50, iter 13, Sup Loss: 0.02973, Unsup Loss: 0.13256
+Epoch 50, iter 14, Sup Loss: 0.02213, Unsup Loss: 0.1106
+Epoch 50, iter 15, Sup Loss: 0.01894, Unsup Loss: 0.26342
+Epoch 50, iter 16, Sup Loss: 0.01466, Unsup Loss: 0.12654
+Epoch 50, iter 17, Sup Loss: 0.01591, Unsup Loss: 0.09279
+Epoch 50, iter 18, Sup Loss: 0.01559, Unsup Loss: 0.10352
+Epoch 50, Total train step 18 || AVG_loss: 0.022, Avg Dice score: 0.9501, Avg IOU: 0.9052
+Epoch 50, Validation || sum_loss: 0.11062, Dice score: 0.8825, IOU: 0.7921
+Training and evaluating on epoch50 complete in 0m 16s
+Epoch 51, iter 1, Sup Loss: 0.01707, Unsup Loss: 0.16969
+Epoch 51, iter 2, Sup Loss: 0.02362, Unsup Loss: 0.21529
+Epoch 51, iter 3, Sup Loss: 0.02097, Unsup Loss: 0.2032
+Epoch 51, iter 4, Sup Loss: 0.02183, Unsup Loss: 0.18678
+Epoch 51, iter 5, Sup Loss: 0.01646, Unsup Loss: 0.11254
+Epoch 51, iter 6, Sup Loss: 0.02062, Unsup Loss: 0.14689
+Epoch 51, iter 7, Sup Loss: 0.018, Unsup Loss: 0.11321
+Epoch 51, iter 8, Sup Loss: 0.01397, Unsup Loss: 0.17897
+Epoch 51, iter 9, Sup Loss: 0.01847, Unsup Loss: 0.19081
+Epoch 51, iter 10, Sup Loss: 0.01689, Unsup Loss: 0.14565
+Epoch 51, iter 11, Sup Loss: 0.0187, Unsup Loss: 0.09296
+Epoch 51, iter 12, Sup Loss: 0.0143, Unsup Loss: 0.20054
+Epoch 51, iter 13, Sup Loss: 0.01766, Unsup Loss: 0.16631
+Epoch 51, iter 14, Sup Loss: 0.01345, Unsup Loss: 0.12896
+Epoch 51, iter 15, Sup Loss: 0.01273, Unsup Loss: 0.12042
+Epoch 51, iter 16, Sup Loss: 0.01564, Unsup Loss: 0.19836
+Epoch 51, iter 17, Sup Loss: 0.01495, Unsup Loss: 0.14934
+Epoch 51, iter 18, Sup Loss: 0.01739, Unsup Loss: 0.11069
+Epoch 51, Total train step 18 || AVG_loss: 0.01763, Avg Dice score: 0.9612, Avg IOU: 0.9253
+Epoch 51, Validation || sum_loss: 0.10759, Dice score: 0.8851, IOU: 0.7964
+New best epoch 51!===============================
+Training and evaluating on epoch51 complete in 0m 16s
+Epoch 52, iter 1, Sup Loss: 0.01391, Unsup Loss: 0.19131
+Epoch 52, iter 2, Sup Loss: 0.0152, Unsup Loss: 0.1596
+Epoch 52, iter 3, Sup Loss: 0.01855, Unsup Loss: 0.14205
+Epoch 52, iter 4, Sup Loss: 0.01959, Unsup Loss: 0.22491
+Epoch 52, iter 5, Sup Loss: 0.02221, Unsup Loss: 0.11644
+Epoch 52, iter 6, Sup Loss: 0.0184, Unsup Loss: 0.1754
+Epoch 52, iter 7, Sup Loss: 0.02358, Unsup Loss: 0.19204
+Epoch 52, iter 8, Sup Loss: 0.0122, Unsup Loss: 0.15518
+Epoch 52, iter 9, Sup Loss: 0.01318, Unsup Loss: 0.19651
+Epoch 52, iter 10, Sup Loss: 0.01667, Unsup Loss: 0.12146
+Epoch 52, iter 11, Sup Loss: 0.01631, Unsup Loss: 0.12617
+Epoch 52, iter 12, Sup Loss: 0.01906, Unsup Loss: 0.27283
+Epoch 52, iter 13, Sup Loss: 0.01565, Unsup Loss: 0.20162
+Epoch 52, iter 14, Sup Loss: 0.01714, Unsup Loss: 0.18
+Epoch 52, iter 15, Sup Loss: 0.01129, Unsup Loss: 0.15828
+Epoch 52, iter 16, Sup Loss: 0.0125, Unsup Loss: 0.17451
+Epoch 52, iter 17, Sup Loss: 0.01415, Unsup Loss: 0.1246
+Epoch 52, iter 18, Sup Loss: 0.01458, Unsup Loss: 0.20872
+Epoch 52, Total train step 18 || AVG_loss: 0.01609, Avg Dice score: 0.9645, Avg IOU: 0.9316
+Epoch 52, Validation || sum_loss: 0.10593, Dice score: 0.8869, IOU: 0.7988
+New best epoch 52!===============================
+Training and evaluating on epoch52 complete in 0m 16s
+Epoch 53, iter 1, Sup Loss: 0.01361, Unsup Loss: 0.16741
+Epoch 53, iter 2, Sup Loss: 0.01565, Unsup Loss: 0.18704
+Epoch 53, iter 3, Sup Loss: 0.01605, Unsup Loss: 0.10388
+Epoch 53, iter 4, Sup Loss: 0.01531, Unsup Loss: 0.12932
+Epoch 53, iter 5, Sup Loss: 0.01675, Unsup Loss: 0.12206
+Epoch 53, iter 6, Sup Loss: 0.01475, Unsup Loss: 0.23511
+Epoch 53, iter 7, Sup Loss: 0.01363, Unsup Loss: 0.14737
+Epoch 53, iter 8, Sup Loss: 0.01232, Unsup Loss: 0.13125
+Epoch 53, iter 9, Sup Loss: 0.01377, Unsup Loss: 0.16997
+Epoch 53, iter 10, Sup Loss: 0.01416, Unsup Loss: 0.15897
+Epoch 53, iter 11, Sup Loss: 0.01279, Unsup Loss: 0.17327
+Epoch 53, iter 12, Sup Loss: 0.01363, Unsup Loss: 0.15133
+Epoch 53, iter 13, Sup Loss: 0.01321, Unsup Loss: 0.12432
+Epoch 53, iter 14, Sup Loss: 0.00874, Unsup Loss: 0.09171
+Epoch 53, iter 15, Sup Loss: 0.01144, Unsup Loss: 0.10347
+Epoch 53, iter 16, Sup Loss: 0.01233, Unsup Loss: 0.13004
+Epoch 53, iter 17, Sup Loss: 0.01312, Unsup Loss: 0.16266
+Epoch 53, iter 18, Sup Loss: 0.01115, Unsup Loss: 0.11292
+Epoch 53, Total train step 18 || AVG_loss: 0.01377, Avg Dice score: 0.9701, Avg IOU: 0.9419
+Epoch 53, Validation || sum_loss: 0.10649, Dice score: 0.8866, IOU: 0.7982
+Training and evaluating on epoch53 complete in 0m 16s
+Epoch 54, iter 1, Sup Loss: 0.01854, Unsup Loss: 0.2484
+Epoch 54, iter 2, Sup Loss: 0.01295, Unsup Loss: 0.10541
+Epoch 54, iter 3, Sup Loss: 0.01759, Unsup Loss: 0.11131
+Epoch 54, iter 4, Sup Loss: 0.01323, Unsup Loss: 0.11941
+Epoch 54, iter 5, Sup Loss: 0.01934, Unsup Loss: 0.20404
+Epoch 54, iter 6, Sup Loss: 0.0131, Unsup Loss: 0.08457
+Epoch 54, iter 7, Sup Loss: 0.01207, Unsup Loss: 0.17988
+Epoch 54, iter 8, Sup Loss: 0.01473, Unsup Loss: 0.24152
+Epoch 54, iter 9, Sup Loss: 0.01217, Unsup Loss: 0.15429
+Epoch 54, iter 10, Sup Loss: 0.01576, Unsup Loss: 0.16474
+Epoch 54, iter 11, Sup Loss: 0.01166, Unsup Loss: 0.1333
+Epoch 54, iter 12, Sup Loss: 0.01572, Unsup Loss: 0.13437
+Epoch 54, iter 13, Sup Loss: 0.01151, Unsup Loss: 0.17449
+Epoch 54, iter 14, Sup Loss: 0.00936, Unsup Loss: 0.28011
+Epoch 54, iter 15, Sup Loss: 0.01382, Unsup Loss: 0.13652
+Epoch 54, iter 16, Sup Loss: 0.01005, Unsup Loss: 0.12486
+Epoch 54, iter 17, Sup Loss: 0.01375, Unsup Loss: 0.1154
+Epoch 54, iter 18, Sup Loss: 0.01109, Unsup Loss: 0.10482
+Epoch 54, Total train step 18 || AVG_loss: 0.01406, Avg Dice score: 0.9693, Avg IOU: 0.9406
+Epoch 54, Validation || sum_loss: 0.10756, Dice score: 0.8868, IOU: 0.7988
+Training and evaluating on epoch54 complete in 0m 16s
+Epoch 55, iter 1, Sup Loss: 0.01852, Unsup Loss: 0.17189
+Epoch 55, iter 2, Sup Loss: 0.01453, Unsup Loss: 0.1956
+Epoch 55, iter 3, Sup Loss: 0.0121, Unsup Loss: 0.1008
+Epoch 55, iter 4, Sup Loss: 0.01093, Unsup Loss: 0.13738
+Epoch 55, iter 5, Sup Loss: 0.01424, Unsup Loss: 0.15836
+Epoch 55, iter 6, Sup Loss: 0.01431, Unsup Loss: 0.11022
+Epoch 55, iter 7, Sup Loss: 0.01521, Unsup Loss: 0.17447
+Epoch 55, iter 8, Sup Loss: 0.01381, Unsup Loss: 0.13548
+Epoch 55, iter 9, Sup Loss: 0.01255, Unsup Loss: 0.17133
+Epoch 55, iter 10, Sup Loss: 0.01034, Unsup Loss: 0.13574
+Epoch 55, iter 11, Sup Loss: 0.00963, Unsup Loss: 0.24357
+Epoch 55, iter 12, Sup Loss: 0.01226, Unsup Loss: 0.14931
+Epoch 55, iter 13, Sup Loss: 0.01255, Unsup Loss: 0.12689
+Epoch 55, iter 14, Sup Loss: 0.01217, Unsup Loss: 0.16834
+Epoch 55, iter 15, Sup Loss: 0.01243, Unsup Loss: 0.13996
+Epoch 55, iter 16, Sup Loss: 0.01065, Unsup Loss: 0.11745
+Epoch 55, iter 17, Sup Loss: 0.00984, Unsup Loss: 0.29009
+Epoch 55, iter 18, Sup Loss: 0.00876, Unsup Loss: 0.12758
+Epoch 55, Total train step 18 || AVG_loss: 0.01248, Avg Dice score: 0.973, Avg IOU: 0.9476
+Epoch 55, Validation || sum_loss: 0.10682, Dice score: 0.8871, IOU: 0.7992
+New best epoch 55!===============================
+Training and evaluating on epoch55 complete in 0m 16s
+Epoch 56, iter 1, Sup Loss: 0.01446, Unsup Loss: 0.16738
+Epoch 56, iter 2, Sup Loss: 0.012, Unsup Loss: 0.13304
+Epoch 56, iter 3, Sup Loss: 0.01258, Unsup Loss: 0.13047
+Epoch 56, iter 4, Sup Loss: 0.01236, Unsup Loss: 0.10978
+Epoch 56, iter 5, Sup Loss: 0.01433, Unsup Loss: 0.14486
+Epoch 56, iter 6, Sup Loss: 0.01375, Unsup Loss: 0.14691
+Epoch 56, iter 7, Sup Loss: 0.00974, Unsup Loss: 0.13607
+Epoch 56, iter 8, Sup Loss: 0.01184, Unsup Loss: 0.20937
+Epoch 56, iter 9, Sup Loss: 0.01115, Unsup Loss: 0.11932
+Epoch 56, iter 10, Sup Loss: 0.01109, Unsup Loss: 0.19717
+Epoch 56, iter 11, Sup Loss: 0.01107, Unsup Loss: 0.22865
+Epoch 56, iter 12, Sup Loss: 0.01211, Unsup Loss: 0.12043
+Epoch 56, iter 13, Sup Loss: 0.01208, Unsup Loss: 0.16956
+Epoch 56, iter 14, Sup Loss: 0.00779, Unsup Loss: 0.1694
+Epoch 56, iter 15, Sup Loss: 0.01109, Unsup Loss: 0.11951
+Epoch 56, iter 16, Sup Loss: 0.01006, Unsup Loss: 0.20105
+Epoch 56, iter 17, Sup Loss: 0.00901, Unsup Loss: 0.1696
+Epoch 56, iter 18, Sup Loss: 0.01001, Unsup Loss: 0.0748
+Epoch 56, Total train step 18 || AVG_loss: 0.01182, Avg Dice score: 0.9748, Avg IOU: 0.9509
+Epoch 56, Validation || sum_loss: 0.1098, Dice score: 0.8847, IOU: 0.7956
+Training and evaluating on epoch56 complete in 0m 16s
+Epoch 57, iter 1, Sup Loss: 0.01476, Unsup Loss: 0.18946
+Epoch 57, iter 2, Sup Loss: 0.0125, Unsup Loss: 0.22605
+Epoch 57, iter 3, Sup Loss: 0.02219, Unsup Loss: 0.15797
+Epoch 57, iter 4, Sup Loss: 0.01272, Unsup Loss: 0.1824
+Epoch 57, iter 5, Sup Loss: 0.01049, Unsup Loss: 0.11013
+Epoch 57, iter 6, Sup Loss: 0.00942, Unsup Loss: 0.13619
+Epoch 57, iter 7, Sup Loss: 0.01451, Unsup Loss: 0.13778
+Epoch 57, iter 8, Sup Loss: 0.01105, Unsup Loss: 0.19989
+Epoch 57, iter 9, Sup Loss: 0.01077, Unsup Loss: 0.20972
+Epoch 57, iter 10, Sup Loss: 0.0165, Unsup Loss: 0.10473
+Epoch 57, iter 11, Sup Loss: 0.01142, Unsup Loss: 0.19177
+Epoch 57, iter 12, Sup Loss: 0.01003, Unsup Loss: 0.14969
+Epoch 57, iter 13, Sup Loss: 0.00901, Unsup Loss: 0.25775
+Epoch 57, iter 14, Sup Loss: 0.01321, Unsup Loss: 0.17118
+Epoch 57, iter 15, Sup Loss: 0.00974, Unsup Loss: 0.12132
+Epoch 57, iter 16, Sup Loss: 0.01014, Unsup Loss: 0.12132
+Epoch 57, iter 17, Sup Loss: 0.01487, Unsup Loss: 0.11478
+Epoch 57, iter 18, Sup Loss: 0.01153, Unsup Loss: 0.13596
+Epoch 57, Total train step 18 || AVG_loss: 0.01248, Avg Dice score: 0.973, Avg IOU: 0.9475
+Epoch 57, Validation || sum_loss: 0.11074, Dice score: 0.8847, IOU: 0.7949
+Training and evaluating on epoch57 complete in 0m 16s
+Epoch 58, iter 1, Sup Loss: 0.01191, Unsup Loss: 0.13163
+Epoch 58, iter 2, Sup Loss: 0.01064, Unsup Loss: 0.11188
+Epoch 58, iter 3, Sup Loss: 0.01095, Unsup Loss: 0.12345
+Epoch 58, iter 4, Sup Loss: 0.01099, Unsup Loss: 0.14614
+Epoch 58, iter 5, Sup Loss: 0.01733, Unsup Loss: 0.1344
+Epoch 58, iter 6, Sup Loss: 0.01586, Unsup Loss: 0.11321
+Epoch 58, iter 7, Sup Loss: 0.00822, Unsup Loss: 0.19072
+Epoch 58, iter 8, Sup Loss: 0.00945, Unsup Loss: 0.11555
+Epoch 58, iter 9, Sup Loss: 0.00905, Unsup Loss: 0.20244
+Epoch 58, iter 10, Sup Loss: 0.00913, Unsup Loss: 0.21251
+Epoch 58, iter 11, Sup Loss: 0.01012, Unsup Loss: 0.14437
+Epoch 58, iter 12, Sup Loss: 0.01378, Unsup Loss: 0.25801
+Epoch 58, iter 13, Sup Loss: 0.01394, Unsup Loss: 0.16903
+Epoch 58, iter 14, Sup Loss: 0.01172, Unsup Loss: 0.1438
+Epoch 58, iter 15, Sup Loss: 0.00828, Unsup Loss: 0.12848
+Epoch 58, iter 16, Sup Loss: 0.00818, Unsup Loss: 0.16351
+Epoch 58, iter 17, Sup Loss: 0.00906, Unsup Loss: 0.12408
+Epoch 58, iter 18, Sup Loss: 0.01042, Unsup Loss: 0.06708
+Epoch 58, Total train step 18 || AVG_loss: 0.01125, Avg Dice score: 0.9755, Avg IOU: 0.9523
+Epoch 58, Validation || sum_loss: 0.10972, Dice score: 0.8854, IOU: 0.7963
+Training and evaluating on epoch58 complete in 0m 16s
+Epoch 59, iter 1, Sup Loss: 0.01372, Unsup Loss: 0.13666
+Epoch 59, iter 2, Sup Loss: 0.01317, Unsup Loss: 0.14276
+Epoch 59, iter 3, Sup Loss: 0.01149, Unsup Loss: 0.09728
+Epoch 59, iter 4, Sup Loss: 0.01351, Unsup Loss: 0.18084
+Epoch 59, iter 5, Sup Loss: 0.0105, Unsup Loss: 0.12903
+Epoch 59, iter 6, Sup Loss: 0.01063, Unsup Loss: 0.21107
+Epoch 59, iter 7, Sup Loss: 0.0118, Unsup Loss: 0.14568
+Epoch 59, iter 8, Sup Loss: 0.01282, Unsup Loss: 0.11675
+Epoch 59, iter 9, Sup Loss: 0.01261, Unsup Loss: 0.11495
+Epoch 59, iter 10, Sup Loss: 0.01025, Unsup Loss: 0.16172
+Epoch 59, iter 11, Sup Loss: 0.01135, Unsup Loss: 0.06516
+Epoch 59, iter 12, Sup Loss: 0.00926, Unsup Loss: 0.12321
+Epoch 59, iter 13, Sup Loss: 0.01018, Unsup Loss: 0.22988
+Epoch 59, iter 14, Sup Loss: 0.00977, Unsup Loss: 0.1505
+Epoch 59, iter 15, Sup Loss: 0.01042, Unsup Loss: 0.10624
+Epoch 59, iter 16, Sup Loss: 0.01014, Unsup Loss: 0.11687
+Epoch 59, iter 17, Sup Loss: 0.0094, Unsup Loss: 0.24816
+Epoch 59, iter 18, Sup Loss: 0.01013, Unsup Loss: 0.09378
+Epoch 59, Total train step 18 || AVG_loss: 0.0113, Avg Dice score: 0.976, Avg IOU: 0.9532
+Epoch 59, Validation || sum_loss: 0.10826, Dice score: 0.8871, IOU: 0.7989
+New best epoch 59!===============================
+Training and evaluating on epoch59 complete in 0m 16s
+Epoch 60, iter 1, Sup Loss: 0.01394, Unsup Loss: 0.21153
+Epoch 60, iter 2, Sup Loss: 0.01252, Unsup Loss: 0.24904
+Epoch 60, iter 3, Sup Loss: 0.01392, Unsup Loss: 0.16506
+Epoch 60, iter 4, Sup Loss: 0.01175, Unsup Loss: 0.13188
+Epoch 60, iter 5, Sup Loss: 0.00972, Unsup Loss: 0.20225
+Epoch 60, iter 6, Sup Loss: 0.00939, Unsup Loss: 0.13545
+Epoch 60, iter 7, Sup Loss: 0.01542, Unsup Loss: 0.19223
+Epoch 60, iter 8, Sup Loss: 0.01011, Unsup Loss: 0.13046
+Epoch 60, iter 9, Sup Loss: 0.00998, Unsup Loss: 0.1202
+Epoch 60, iter 10, Sup Loss: 0.01259, Unsup Loss: 0.16567
+Epoch 60, iter 11, Sup Loss: 0.0092, Unsup Loss: 0.0877
+Epoch 60, iter 12, Sup Loss: 0.00865, Unsup Loss: 0.135
+Epoch 60, iter 13, Sup Loss: 0.00845, Unsup Loss: 0.15845
+Epoch 60, iter 14, Sup Loss: 0.01518, Unsup Loss: 0.12403
+Epoch 60, iter 15, Sup Loss: 0.00902, Unsup Loss: 0.23505
+Epoch 60, iter 16, Sup Loss: 0.0091, Unsup Loss: 0.23711
+Epoch 60, iter 17, Sup Loss: 0.0121, Unsup Loss: 0.12518
+Epoch 60, iter 18, Sup Loss: 0.00924, Unsup Loss: 0.17212
+Epoch 60, Total train step 18 || AVG_loss: 0.01086, Avg Dice score: 0.9767, Avg IOU: 0.9544
+Epoch 60, Validation || sum_loss: 0.11187, Dice score: 0.8844, IOU: 0.7949
+Training and evaluating on epoch60 complete in 0m 16s
+Epoch 61, iter 1, Sup Loss: 0.01274, Unsup Loss: 0.09137
+Epoch 61, iter 2, Sup Loss: 0.01674, Unsup Loss: 0.11584
+Epoch 61, iter 3, Sup Loss: 0.0104, Unsup Loss: 0.18336
+Epoch 61, iter 4, Sup Loss: 0.01471, Unsup Loss: 0.2305
+Epoch 61, iter 5, Sup Loss: 0.01413, Unsup Loss: 0.07383
+Epoch 61, iter 6, Sup Loss: 0.01045, Unsup Loss: 0.15065
+Epoch 61, iter 7, Sup Loss: 0.00764, Unsup Loss: 0.21449
+Epoch 61, iter 8, Sup Loss: 0.01097, Unsup Loss: 0.21613
+Epoch 61, iter 9, Sup Loss: 0.0151, Unsup Loss: 0.12134
+Epoch 61, iter 10, Sup Loss: 0.00957, Unsup Loss: 0.11605
+Epoch 61, iter 11, Sup Loss: 0.01179, Unsup Loss: 0.1382
+Epoch 61, iter 12, Sup Loss: 0.01168, Unsup Loss: 0.13639
+Epoch 61, iter 13, Sup Loss: 0.01028, Unsup Loss: 0.12567
+Epoch 61, iter 14, Sup Loss: 0.00851, Unsup Loss: 0.08579
+Epoch 61, iter 15, Sup Loss: 0.00927, Unsup Loss: 0.08819
+Epoch 61, iter 16, Sup Loss: 0.01207, Unsup Loss: 0.0773
+Epoch 61, iter 17, Sup Loss: 0.00914, Unsup Loss: 0.12703
+Epoch 61, iter 18, Sup Loss: 0.0117, Unsup Loss: 0.26344
+Epoch 61, Total train step 18 || AVG_loss: 0.0119, Avg Dice score: 0.9737, Avg IOU: 0.9488
+Epoch 61, Validation || sum_loss: 0.11228, Dice score: 0.8846, IOU: 0.7949
+Training and evaluating on epoch61 complete in 0m 16s
+Epoch 62, iter 1, Sup Loss: 0.01344, Unsup Loss: 0.14854
+Epoch 62, iter 2, Sup Loss: 0.0122, Unsup Loss: 0.12343
+Epoch 62, iter 3, Sup Loss: 0.01344, Unsup Loss: 0.14731
+Epoch 62, iter 4, Sup Loss: 0.01498, Unsup Loss: 0.12173
+Epoch 62, iter 5, Sup Loss: 0.01156, Unsup Loss: 0.11122
+Epoch 62, iter 6, Sup Loss: 0.00953, Unsup Loss: 0.12098
+Epoch 62, iter 7, Sup Loss: 0.00824, Unsup Loss: 0.13639
+Epoch 62, iter 8, Sup Loss: 0.00961, Unsup Loss: 0.09601
+Epoch 62, iter 9, Sup Loss: 0.0105, Unsup Loss: 0.12222
+Epoch 62, iter 10, Sup Loss: 0.01052, Unsup Loss: 0.1264
+Epoch 62, iter 11, Sup Loss: 0.01242, Unsup Loss: 0.16553
+Epoch 62, iter 12, Sup Loss: 0.00945, Unsup Loss: 0.10106
+Epoch 62, iter 13, Sup Loss: 0.008, Unsup Loss: 0.12182
+Epoch 62, iter 14, Sup Loss: 0.00951, Unsup Loss: 0.15122
+Epoch 62, iter 15, Sup Loss: 0.00914, Unsup Loss: 0.1346
+Epoch 62, iter 16, Sup Loss: 0.00971, Unsup Loss: 0.18409
+Epoch 62, iter 17, Sup Loss: 0.00959, Unsup Loss: 0.10879
+Epoch 62, iter 18, Sup Loss: 0.01075, Unsup Loss: 0.13409
+Epoch 62, Total train step 18 || AVG_loss: 0.01095, Avg Dice score: 0.9763, Avg IOU: 0.9537
+Epoch 62, Validation || sum_loss: 0.11319, Dice score: 0.8841, IOU: 0.7942
+Training and evaluating on epoch62 complete in 0m 16s
+Epoch 63, iter 1, Sup Loss: 0.00992, Unsup Loss: 0.14623
+Epoch 63, iter 2, Sup Loss: 0.00938, Unsup Loss: 0.18174
+Epoch 63, iter 3, Sup Loss: 0.01365, Unsup Loss: 0.13228
+Epoch 63, iter 4, Sup Loss: 0.01015, Unsup Loss: 0.17095
+Epoch 63, iter 5, Sup Loss: 0.01084, Unsup Loss: 0.13724
+Epoch 63, iter 6, Sup Loss: 0.01044, Unsup Loss: 0.10911
+Epoch 63, iter 7, Sup Loss: 0.01144, Unsup Loss: 0.13029
+Epoch 63, iter 8, Sup Loss: 0.00858, Unsup Loss: 0.21731
+Epoch 63, iter 9, Sup Loss: 0.00982, Unsup Loss: 0.12593
+Epoch 63, iter 10, Sup Loss: 0.01175, Unsup Loss: 0.05746
+Epoch 63, iter 11, Sup Loss: 0.00843, Unsup Loss: 0.15028
+Epoch 63, iter 12, Sup Loss: 0.01008, Unsup Loss: 0.13442
+Epoch 63, iter 13, Sup Loss: 0.01002, Unsup Loss: 0.16027
+Epoch 63, iter 14, Sup Loss: 0.01074, Unsup Loss: 0.10994
+Epoch 63, iter 15, Sup Loss: 0.00701, Unsup Loss: 0.08835
+Epoch 63, iter 16, Sup Loss: 0.00786, Unsup Loss: 0.10466
+Epoch 63, iter 17, Sup Loss: 0.01091, Unsup Loss: 0.17916
+Epoch 63, iter 18, Sup Loss: 0.01097, Unsup Loss: 0.10683
+Epoch 63, Total train step 18 || AVG_loss: 0.01011, Avg Dice score: 0.9782, Avg IOU: 0.9574
+Epoch 63, Validation || sum_loss: 0.11133, Dice score: 0.8847, IOU: 0.7948
+Training and evaluating on epoch63 complete in 0m 16s
+Epoch 64, iter 1, Sup Loss: 0.01134, Unsup Loss: 0.13294
+Epoch 64, iter 2, Sup Loss: 0.01121, Unsup Loss: 0.17219
+Epoch 64, iter 3, Sup Loss: 0.01197, Unsup Loss: 0.13101
+Epoch 64, iter 4, Sup Loss: 0.01221, Unsup Loss: 0.19281
+Epoch 64, iter 5, Sup Loss: 0.01023, Unsup Loss: 0.11568
+Epoch 64, iter 6, Sup Loss: 0.01084, Unsup Loss: 0.10808
+Epoch 64, iter 7, Sup Loss: 0.00699, Unsup Loss: 0.14411
+Epoch 64, iter 8, Sup Loss: 0.00958, Unsup Loss: 0.14032
+Epoch 64, iter 9, Sup Loss: 0.00953, Unsup Loss: 0.09604
+Epoch 64, iter 10, Sup Loss: 0.00982, Unsup Loss: 0.16063
+Epoch 64, iter 11, Sup Loss: 0.01005, Unsup Loss: 0.11479
+Epoch 64, iter 12, Sup Loss: 0.00911, Unsup Loss: 0.26619
+Epoch 64, iter 13, Sup Loss: 0.00833, Unsup Loss: 0.20029
+Epoch 64, iter 14, Sup Loss: 0.00687, Unsup Loss: 0.21744
+Epoch 64, iter 15, Sup Loss: 0.00915, Unsup Loss: 0.23927
+Epoch 64, iter 16, Sup Loss: 0.00795, Unsup Loss: 0.14211
+Epoch 64, iter 17, Sup Loss: 0.00859, Unsup Loss: 0.17238
+Epoch 64, iter 18, Sup Loss: 0.00864, Unsup Loss: 0.11917
+Epoch 64, Total train step 18 || AVG_loss: 0.00992, Avg Dice score: 0.9781, Avg IOU: 0.9573
+Epoch 64, Validation || sum_loss: 0.11179, Dice score: 0.8847, IOU: 0.7949
+Training and evaluating on epoch64 complete in 0m 16s
+Epoch 65, iter 1, Sup Loss: 0.01069, Unsup Loss: 0.24024
+Epoch 65, iter 2, Sup Loss: 0.01092, Unsup Loss: 0.14356
+Epoch 65, iter 3, Sup Loss: 0.01086, Unsup Loss: 0.13953
+Epoch 65, iter 4, Sup Loss: 0.00886, Unsup Loss: 0.17033
+Epoch 65, iter 5, Sup Loss: 0.01112, Unsup Loss: 0.09731
+Epoch 65, iter 6, Sup Loss: 0.01001, Unsup Loss: 0.22427
+Epoch 65, iter 7, Sup Loss: 0.01179, Unsup Loss: 0.18545
+Epoch 65, iter 8, Sup Loss: 0.00796, Unsup Loss: 0.16561
+Epoch 65, iter 9, Sup Loss: 0.00818, Unsup Loss: 0.13305
+Epoch 65, iter 10, Sup Loss: 0.00821, Unsup Loss: 0.18155
+Epoch 65, iter 11, Sup Loss: 0.00789, Unsup Loss: 0.19086
+Epoch 65, iter 12, Sup Loss: 0.0099, Unsup Loss: 0.11457
+Epoch 65, iter 13, Sup Loss: 0.00921, Unsup Loss: 0.18134
+Epoch 65, iter 14, Sup Loss: 0.00874, Unsup Loss: 0.08816
+Epoch 65, iter 15, Sup Loss: 0.00699, Unsup Loss: 0.14686
+Epoch 65, iter 16, Sup Loss: 0.00994, Unsup Loss: 0.20256
+Epoch 65, iter 17, Sup Loss: 0.00962, Unsup Loss: 0.10644
+Epoch 65, iter 18, Sup Loss: 0.00883, Unsup Loss: 0.19761
+Epoch 65, Total train step 18 || AVG_loss: 0.00946, Avg Dice score: 0.9796, Avg IOU: 0.96
+Epoch 65, Validation || sum_loss: 0.1152, Dice score: 0.8815, IOU: 0.7898
+Training and evaluating on epoch65 complete in 0m 16s
+Epoch 66, iter 1, Sup Loss: 0.01017, Unsup Loss: 0.13604
+Epoch 66, iter 2, Sup Loss: 0.00841, Unsup Loss: 0.14936
+Epoch 66, iter 3, Sup Loss: 0.00894, Unsup Loss: 0.10011
+Epoch 66, iter 4, Sup Loss: 0.01039, Unsup Loss: 0.13519
+Epoch 66, iter 5, Sup Loss: 0.0102, Unsup Loss: 0.11316
+Epoch 66, iter 6, Sup Loss: 0.01282, Unsup Loss: 0.18084
+Epoch 66, iter 7, Sup Loss: 0.01076, Unsup Loss: 0.19858
+Epoch 66, iter 8, Sup Loss: 0.00916, Unsup Loss: 0.24827
+Epoch 66, iter 9, Sup Loss: 0.00894, Unsup Loss: 0.1808
+Epoch 66, iter 10, Sup Loss: 0.0079, Unsup Loss: 0.167
+Epoch 66, iter 11, Sup Loss: 0.00822, Unsup Loss: 0.1531
+Epoch 66, iter 12, Sup Loss: 0.00853, Unsup Loss: 0.20688
+Epoch 66, iter 13, Sup Loss: 0.01118, Unsup Loss: 0.13386
+Epoch 66, iter 14, Sup Loss: 0.01941, Unsup Loss: 0.13681
+Epoch 66, iter 15, Sup Loss: 0.00729, Unsup Loss: 0.11356
+Epoch 66, iter 16, Sup Loss: 0.00775, Unsup Loss: 0.11921
+Epoch 66, iter 17, Sup Loss: 0.00946, Unsup Loss: 0.1721
+Epoch 66, iter 18, Sup Loss: 0.00944, Unsup Loss: 0.20207
+Epoch 66, Total train step 18 || AVG_loss: 0.00958, Avg Dice score: 0.9789, Avg IOU: 0.9587
+Epoch 66, Validation || sum_loss: 0.11563, Dice score: 0.8829, IOU: 0.7922
+Training and evaluating on epoch66 complete in 0m 16s
+Epoch 67, iter 1, Sup Loss: 0.01361, Unsup Loss: 0.19444
+Epoch 67, iter 2, Sup Loss: 0.014, Unsup Loss: 0.12829
+Epoch 67, iter 3, Sup Loss: 0.01204, Unsup Loss: 0.16123
+Epoch 67, iter 4, Sup Loss: 0.01014, Unsup Loss: 0.12475
+Epoch 67, iter 5, Sup Loss: 0.00989, Unsup Loss: 0.21012
+Epoch 67, iter 6, Sup Loss: 0.01064, Unsup Loss: 0.20065
+Epoch 67, iter 7, Sup Loss: 0.01024, Unsup Loss: 0.16417
+Epoch 67, iter 8, Sup Loss: 0.0085, Unsup Loss: 0.16691
+Epoch 67, iter 9, Sup Loss: 0.01077, Unsup Loss: 0.11425
+Epoch 67, iter 10, Sup Loss: 0.01016, Unsup Loss: 0.18241
+Epoch 67, iter 11, Sup Loss: 0.00946, Unsup Loss: 0.0961
+Epoch 67, iter 12, Sup Loss: 0.0085, Unsup Loss: 0.15657
+Epoch 67, iter 13, Sup Loss: 0.00942, Unsup Loss: 0.12197
+Epoch 67, iter 14, Sup Loss: 0.01254, Unsup Loss: 0.09171
+Epoch 67, iter 15, Sup Loss: 0.00835, Unsup Loss: 0.15115
+Epoch 67, iter 16, Sup Loss: 0.01181, Unsup Loss: 0.12357
+Epoch 67, iter 17, Sup Loss: 0.00928, Unsup Loss: 0.13278
+Epoch 67, iter 18, Sup Loss: 0.00856, Unsup Loss: 0.12216
+Epoch 67, Total train step 18 || AVG_loss: 0.01045, Avg Dice score: 0.9762, Avg IOU: 0.9536
+Epoch 67, Validation || sum_loss: 0.11391, Dice score: 0.8828, IOU: 0.7919
+Training and evaluating on epoch67 complete in 0m 16s
+Epoch 68, iter 1, Sup Loss: 0.00891, Unsup Loss: 0.15447
+Epoch 68, iter 2, Sup Loss: 0.01122, Unsup Loss: 0.1396
+Epoch 68, iter 3, Sup Loss: 0.00962, Unsup Loss: 0.15223
+Epoch 68, iter 4, Sup Loss: 0.01315, Unsup Loss: 0.12781
+Epoch 68, iter 5, Sup Loss: 0.00773, Unsup Loss: 0.19252
+Epoch 68, iter 6, Sup Loss: 0.00902, Unsup Loss: 0.18202
+Epoch 68, iter 7, Sup Loss: 0.00973, Unsup Loss: 0.19558
+Epoch 68, iter 8, Sup Loss: 0.00771, Unsup Loss: 0.10723
+Epoch 68, iter 9, Sup Loss: 0.00984, Unsup Loss: 0.11253
+Epoch 68, iter 10, Sup Loss: 0.0084, Unsup Loss: 0.12233
+Epoch 68, iter 11, Sup Loss: 0.00964, Unsup Loss: 0.10016
+Epoch 68, iter 12, Sup Loss: 0.00691, Unsup Loss: 0.14045
+Epoch 68, iter 13, Sup Loss: 0.00874, Unsup Loss: 0.05557
+Epoch 68, iter 14, Sup Loss: 0.01454, Unsup Loss: 0.12628
+Epoch 68, iter 15, Sup Loss: 0.00726, Unsup Loss: 0.0754
+Epoch 68, iter 16, Sup Loss: 0.00884, Unsup Loss: 0.15507
+Epoch 68, iter 17, Sup Loss: 0.00701, Unsup Loss: 0.15954
+Epoch 68, iter 18, Sup Loss: 0.00921, Unsup Loss: 0.099
+Epoch 68, Total train step 18 || AVG_loss: 0.00913, Avg Dice score: 0.9799, Avg IOU: 0.9605
+Epoch 68, Validation || sum_loss: 0.11421, Dice score: 0.8826, IOU: 0.7917
+Training and evaluating on epoch68 complete in 0m 16s
+Epoch 69, iter 1, Sup Loss: 0.01126, Unsup Loss: 0.2064
+Epoch 69, iter 2, Sup Loss: 0.01124, Unsup Loss: 0.16756
+Epoch 69, iter 3, Sup Loss: 0.00818, Unsup Loss: 0.2218
+Epoch 69, iter 4, Sup Loss: 0.00986, Unsup Loss: 0.17149
+Epoch 69, iter 5, Sup Loss: 0.01344, Unsup Loss: 0.16508
+Epoch 69, iter 6, Sup Loss: 0.00953, Unsup Loss: 0.12976
+Epoch 69, iter 7, Sup Loss: 0.00886, Unsup Loss: 0.11907
+Epoch 69, iter 8, Sup Loss: 0.00719, Unsup Loss: 0.13003
+Epoch 69, iter 9, Sup Loss: 0.0076, Unsup Loss: 0.14728
+Epoch 69, iter 10, Sup Loss: 0.00684, Unsup Loss: 0.11573
+Epoch 69, iter 11, Sup Loss: 0.00908, Unsup Loss: 0.20542
+Epoch 69, iter 12, Sup Loss: 0.01101, Unsup Loss: 0.27006
+Epoch 69, iter 13, Sup Loss: 0.00809, Unsup Loss: 0.1639
+Epoch 69, iter 14, Sup Loss: 0.00748, Unsup Loss: 0.17108
+Epoch 69, iter 15, Sup Loss: 0.00602, Unsup Loss: 0.19489
+Epoch 69, iter 16, Sup Loss: 0.00811, Unsup Loss: 0.17914
+Epoch 69, iter 17, Sup Loss: 0.00731, Unsup Loss: 0.1344
+Epoch 69, iter 18, Sup Loss: 0.00805, Unsup Loss: 0.13133
+Epoch 69, Total train step 18 || AVG_loss: 0.00902, Avg Dice score: 0.9802, Avg IOU: 0.9613
+Epoch 69, Validation || sum_loss: 0.1135, Dice score: 0.8839, IOU: 0.7937
+Training and evaluating on epoch69 complete in 0m 16s
+Epoch 70, iter 1, Sup Loss: 0.00998, Unsup Loss: 0.13697
+Epoch 70, iter 2, Sup Loss: 0.00871, Unsup Loss: 0.29607
+Epoch 70, iter 3, Sup Loss: 0.01194, Unsup Loss: 0.09737
+Epoch 70, iter 4, Sup Loss: 0.01141, Unsup Loss: 0.16059
+Epoch 70, iter 5, Sup Loss: 0.01014, Unsup Loss: 0.16189
+Epoch 70, iter 6, Sup Loss: 0.00903, Unsup Loss: 0.06991
+Epoch 70, iter 7, Sup Loss: 0.01037, Unsup Loss: 0.14551
+Epoch 70, iter 8, Sup Loss: 0.00829, Unsup Loss: 0.15715
+Epoch 70, iter 9, Sup Loss: 0.00716, Unsup Loss: 0.14596
+Epoch 70, iter 10, Sup Loss: 0.00998, Unsup Loss: 0.16117
+Epoch 70, iter 11, Sup Loss: 0.00979, Unsup Loss: 0.22167
+Epoch 70, iter 12, Sup Loss: 0.00697, Unsup Loss: 0.1668
+Epoch 70, iter 13, Sup Loss: 0.00764, Unsup Loss: 0.10623
+Epoch 70, iter 14, Sup Loss: 0.00927, Unsup Loss: 0.25339
+Epoch 70, iter 15, Sup Loss: 0.01076, Unsup Loss: 0.14744
+Epoch 70, iter 16, Sup Loss: 0.00741, Unsup Loss: 0.18351
+Epoch 70, iter 17, Sup Loss: 0.00829, Unsup Loss: 0.17286
+Epoch 70, iter 18, Sup Loss: 0.00781, Unsup Loss: 0.14209
+Epoch 70, Total train step 18 || AVG_loss: 0.00921, Avg Dice score: 0.9798, Avg IOU: 0.9605
+Epoch 70, Validation || sum_loss: 0.1158, Dice score: 0.8838, IOU: 0.7939
+Training and evaluating on epoch70 complete in 0m 16s
+Epoch 71, iter 1, Sup Loss: 0.01473, Unsup Loss: 0.12485
+Epoch 71, iter 2, Sup Loss: 0.01051, Unsup Loss: 0.13898
+Epoch 71, iter 3, Sup Loss: 0.01016, Unsup Loss: 0.19792
+Epoch 71, iter 4, Sup Loss: 0.01023, Unsup Loss: 0.12021
+Epoch 71, iter 5, Sup Loss: 0.00927, Unsup Loss: 0.11796
+Epoch 71, iter 6, Sup Loss: 0.00796, Unsup Loss: 0.20866
+Epoch 71, iter 7, Sup Loss: 0.00838, Unsup Loss: 0.19157
+Epoch 71, iter 8, Sup Loss: 0.01278, Unsup Loss: 0.14073
+Epoch 71, iter 9, Sup Loss: 0.01166, Unsup Loss: 0.13968
+Epoch 71, iter 10, Sup Loss: 0.00916, Unsup Loss: 0.1689
+Epoch 71, iter 11, Sup Loss: 0.00793, Unsup Loss: 0.08329
+Epoch 71, iter 12, Sup Loss: 0.00826, Unsup Loss: 0.15988
+Epoch 71, iter 13, Sup Loss: 0.01037, Unsup Loss: 0.10102
+Epoch 71, iter 14, Sup Loss: 0.01795, Unsup Loss: 0.09422
+Epoch 71, iter 15, Sup Loss: 0.00963, Unsup Loss: 0.11823
+Epoch 71, iter 16, Sup Loss: 0.00832, Unsup Loss: 0.14733
+Epoch 71, iter 17, Sup Loss: 0.0083, Unsup Loss: 0.0923
+Epoch 71, iter 18, Sup Loss: 0.01077, Unsup Loss: 0.16712
+Epoch 71, Total train step 18 || AVG_loss: 0.01019, Avg Dice score: 0.977, Avg IOU: 0.9551
+Epoch 71, Validation || sum_loss: 0.11488, Dice score: 0.8829, IOU: 0.7921
+Training and evaluating on epoch71 complete in 0m 16s
+Epoch 72, iter 1, Sup Loss: 0.01363, Unsup Loss: 0.20355
+Epoch 72, iter 2, Sup Loss: 0.00971, Unsup Loss: 0.13499
+Epoch 72, iter 3, Sup Loss: 0.00902, Unsup Loss: 0.24046
+Epoch 72, iter 4, Sup Loss: 0.00945, Unsup Loss: 0.17021
+Epoch 72, iter 5, Sup Loss: 0.01225, Unsup Loss: 0.14955
+Epoch 72, iter 6, Sup Loss: 0.00908, Unsup Loss: 0.08907
+Epoch 72, iter 7, Sup Loss: 0.01778, Unsup Loss: 0.17125
+Epoch 72, iter 8, Sup Loss: 0.01137, Unsup Loss: 0.23128
+Epoch 72, iter 9, Sup Loss: 0.00798, Unsup Loss: 0.11981
+Epoch 72, iter 10, Sup Loss: 0.00703, Unsup Loss: 0.15733
+Epoch 72, iter 11, Sup Loss: 0.00822, Unsup Loss: 0.16402
+Epoch 72, iter 12, Sup Loss: 0.00868, Unsup Loss: 0.15017
+Epoch 72, iter 13, Sup Loss: 0.00808, Unsup Loss: 0.23422
+Epoch 72, iter 14, Sup Loss: 0.02223, Unsup Loss: 0.11974
+Epoch 72, iter 15, Sup Loss: 0.00734, Unsup Loss: 0.14509
+Epoch 72, iter 16, Sup Loss: 0.00683, Unsup Loss: 0.11432
+Epoch 72, iter 17, Sup Loss: 0.00764, Unsup Loss: 0.16258
+Epoch 72, iter 18, Sup Loss: 0.00777, Unsup Loss: 0.2262
+Epoch 72, Total train step 18 || AVG_loss: 0.00945, Avg Dice score: 0.979, Avg IOU: 0.9589
+Epoch 72, Validation || sum_loss: 0.1149, Dice score: 0.8829, IOU: 0.7923
+Training and evaluating on epoch72 complete in 0m 17s
+Epoch 73, iter 1, Sup Loss: 0.0155, Unsup Loss: 0.15136
+Epoch 73, iter 2, Sup Loss: 0.01095, Unsup Loss: 0.12396
+Epoch 73, iter 3, Sup Loss: 0.01137, Unsup Loss: 0.05164
+Epoch 73, iter 4, Sup Loss: 0.00787, Unsup Loss: 0.12918
+Epoch 73, iter 5, Sup Loss: 0.00973, Unsup Loss: 0.14132
+Epoch 73, iter 6, Sup Loss: 0.00962, Unsup Loss: 0.14501
+Epoch 73, iter 7, Sup Loss: 0.01063, Unsup Loss: 0.10262
+Epoch 73, iter 8, Sup Loss: 0.01019, Unsup Loss: 0.24273
+Epoch 73, iter 9, Sup Loss: 0.0099, Unsup Loss: 0.19634
+Epoch 73, iter 10, Sup Loss: 0.0096, Unsup Loss: 0.18667
+Epoch 73, iter 11, Sup Loss: 0.00752, Unsup Loss: 0.15951
+Epoch 73, iter 12, Sup Loss: 0.00769, Unsup Loss: 0.12116
+Epoch 73, iter 13, Sup Loss: 0.00733, Unsup Loss: 0.1797
+Epoch 73, iter 14, Sup Loss: 0.00869, Unsup Loss: 0.19256
+Epoch 73, iter 15, Sup Loss: 0.0085, Unsup Loss: 0.10276
+Epoch 73, iter 16, Sup Loss: 0.00973, Unsup Loss: 0.124
+Epoch 73, iter 17, Sup Loss: 0.00903, Unsup Loss: 0.2473
+Epoch 73, iter 18, Sup Loss: 0.00688, Unsup Loss: 0.16306
+Epoch 73, Total train step 18 || AVG_loss: 0.00957, Avg Dice score: 0.9786, Avg IOU: 0.9581
+Epoch 73, Validation || sum_loss: 0.1141, Dice score: 0.8849, IOU: 0.7955
+Training and evaluating on epoch73 complete in 0m 16s
+Epoch 74, iter 1, Sup Loss: 0.01239, Unsup Loss: 0.1698
+Epoch 74, iter 2, Sup Loss: 0.00799, Unsup Loss: 0.10005
+Epoch 74, iter 3, Sup Loss: 0.0102, Unsup Loss: 0.16757
+Epoch 74, iter 4, Sup Loss: 0.01077, Unsup Loss: 0.17237
+Epoch 74, iter 5, Sup Loss: 0.01136, Unsup Loss: 0.08122
+Epoch 74, iter 6, Sup Loss: 0.01021, Unsup Loss: 0.17291
+Epoch 74, iter 7, Sup Loss: 0.00811, Unsup Loss: 0.17439
+Epoch 74, iter 8, Sup Loss: 0.00958, Unsup Loss: 0.17568
+Epoch 74, iter 9, Sup Loss: 0.00731, Unsup Loss: 0.20605
+Epoch 74, iter 10, Sup Loss: 0.00892, Unsup Loss: 0.07667
+Epoch 74, iter 11, Sup Loss: 0.00958, Unsup Loss: 0.10918
+Epoch 74, iter 12, Sup Loss: 0.00941, Unsup Loss: 0.22096
+Epoch 74, iter 13, Sup Loss: 0.00767, Unsup Loss: 0.09656
+Epoch 74, iter 14, Sup Loss: 0.01943, Unsup Loss: 0.12439
+Epoch 74, iter 15, Sup Loss: 0.00871, Unsup Loss: 0.21754
+Epoch 74, iter 16, Sup Loss: 0.0069, Unsup Loss: 0.18125
+Epoch 74, iter 17, Sup Loss: 0.00861, Unsup Loss: 0.13114
+Epoch 74, iter 18, Sup Loss: 0.00956, Unsup Loss: 0.15631
+Epoch 74, Total train step 18 || AVG_loss: 0.00956, Avg Dice score: 0.9786, Avg IOU: 0.9581
+Epoch 74, Validation || sum_loss: 0.11592, Dice score: 0.8811, IOU: 0.7892
+Training and evaluating on epoch74 complete in 0m 16s
+Epoch 75, iter 1, Sup Loss: 0.01952, Unsup Loss: 0.16711
+Epoch 75, iter 2, Sup Loss: 0.00853, Unsup Loss: 0.19562
+Epoch 75, iter 3, Sup Loss: 0.01007, Unsup Loss: 0.17593
+Epoch 75, iter 4, Sup Loss: 0.00859, Unsup Loss: 0.15702
+Epoch 75, iter 5, Sup Loss: 0.00825, Unsup Loss: 0.24264
+Epoch 75, iter 6, Sup Loss: 0.00888, Unsup Loss: 0.13571
+Epoch 75, iter 7, Sup Loss: 0.01202, Unsup Loss: 0.18226
+Epoch 75, iter 8, Sup Loss: 0.00881, Unsup Loss: 0.18359
+Epoch 75, iter 9, Sup Loss: 0.0083, Unsup Loss: 0.14788
+Epoch 75, iter 10, Sup Loss: 0.00899, Unsup Loss: 0.14974
+Epoch 75, iter 11, Sup Loss: 0.00748, Unsup Loss: 0.08375
+Epoch 75, iter 12, Sup Loss: 0.00655, Unsup Loss: 0.20244
+Epoch 75, iter 13, Sup Loss: 0.00666, Unsup Loss: 0.13603
+Epoch 75, iter 14, Sup Loss: 0.01126, Unsup Loss: 0.11577
+Epoch 75, iter 15, Sup Loss: 0.00635, Unsup Loss: 0.12493
+Epoch 75, iter 16, Sup Loss: 0.00803, Unsup Loss: 0.16783
+Epoch 75, iter 17, Sup Loss: 0.00936, Unsup Loss: 0.18485
+Epoch 75, iter 18, Sup Loss: 0.00803, Unsup Loss: 0.1807
+Epoch 75, Total train step 18 || AVG_loss: 0.00909, Avg Dice score: 0.9799, Avg IOU: 0.9607
+Epoch 75, Validation || sum_loss: 0.11308, Dice score: 0.8857, IOU: 0.7968
+Training and evaluating on epoch75 complete in 0m 16s
+Epoch 76, iter 1, Sup Loss: 0.00824, Unsup Loss: 0.18962
+Epoch 76, iter 2, Sup Loss: 0.00912, Unsup Loss: 0.1842
+Epoch 76, iter 3, Sup Loss: 0.01098, Unsup Loss: 0.14168
+Epoch 76, iter 4, Sup Loss: 0.00859, Unsup Loss: 0.20136
+Epoch 76, iter 5, Sup Loss: 0.00946, Unsup Loss: 0.17284
+Epoch 76, iter 6, Sup Loss: 0.01095, Unsup Loss: 0.08464
+Epoch 76, iter 7, Sup Loss: 0.00649, Unsup Loss: 0.13321
+Epoch 76, iter 8, Sup Loss: 0.00571, Unsup Loss: 0.16689
+Epoch 76, iter 9, Sup Loss: 0.00772, Unsup Loss: 0.14851
+Epoch 76, iter 10, Sup Loss: 0.00908, Unsup Loss: 0.16751
+Epoch 76, iter 11, Sup Loss: 0.00829, Unsup Loss: 0.18503
+Epoch 76, iter 12, Sup Loss: 0.0082, Unsup Loss: 0.15763
+Epoch 76, iter 13, Sup Loss: 0.00832, Unsup Loss: 0.12412
+Epoch 76, iter 14, Sup Loss: 0.00986, Unsup Loss: 0.19448
+Epoch 76, iter 15, Sup Loss: 0.00889, Unsup Loss: 0.19488
+Epoch 76, iter 16, Sup Loss: 0.0097, Unsup Loss: 0.17942
+Epoch 76, iter 17, Sup Loss: 0.00889, Unsup Loss: 0.15052
+Epoch 76, iter 18, Sup Loss: 0.00593, Unsup Loss: 0.1262
+Epoch 76, Total train step 18 || AVG_loss: 0.00872, Avg Dice score: 0.9805, Avg IOU: 0.9617
+Epoch 76, Validation || sum_loss: 0.11477, Dice score: 0.8846, IOU: 0.7952
+Training and evaluating on epoch76 complete in 0m 16s
+Epoch 77, iter 1, Sup Loss: 0.01164, Unsup Loss: 0.19447
+Epoch 77, iter 2, Sup Loss: 0.0083, Unsup Loss: 0.1347
+Epoch 77, iter 3, Sup Loss: 0.01048, Unsup Loss: 0.07739
+Epoch 77, iter 4, Sup Loss: 0.01164, Unsup Loss: 0.10817
+Epoch 77, iter 5, Sup Loss: 0.00806, Unsup Loss: 0.17561
+Epoch 77, iter 6, Sup Loss: 0.00771, Unsup Loss: 0.1412
+Epoch 77, iter 7, Sup Loss: 0.0064, Unsup Loss: 0.15286
+Epoch 77, iter 8, Sup Loss: 0.00816, Unsup Loss: 0.19026
+Epoch 77, iter 9, Sup Loss: 0.00866, Unsup Loss: 0.13837
+Epoch 77, iter 10, Sup Loss: 0.00837, Unsup Loss: 0.09349
+Epoch 77, iter 11, Sup Loss: 0.00792, Unsup Loss: 0.1555
+Epoch 77, iter 12, Sup Loss: 0.00606, Unsup Loss: 0.17338
+Epoch 77, iter 13, Sup Loss: 0.00744, Unsup Loss: 0.18277
+Epoch 77, iter 14, Sup Loss: 0.02245, Unsup Loss: 0.12083
+Epoch 77, iter 15, Sup Loss: 0.00912, Unsup Loss: 0.11883
+Epoch 77, iter 16, Sup Loss: 0.00647, Unsup Loss: 0.11668
+Epoch 77, iter 17, Sup Loss: 0.00634, Unsup Loss: 0.17456
+Epoch 77, iter 18, Sup Loss: 0.00782, Unsup Loss: 0.14648
+Epoch 77, Total train step 18 || AVG_loss: 0.00867, Avg Dice score: 0.9807, Avg IOU: 0.9622
+Epoch 77, Validation || sum_loss: 0.11591, Dice score: 0.8818, IOU: 0.7905
+Training and evaluating on epoch77 complete in 0m 16s
+Epoch 78, iter 1, Sup Loss: 0.0113, Unsup Loss: 0.05885
+Epoch 78, iter 2, Sup Loss: 0.01109, Unsup Loss: 0.17974
+Epoch 78, iter 3, Sup Loss: 0.00856, Unsup Loss: 0.18236
+Epoch 78, iter 4, Sup Loss: 0.00825, Unsup Loss: 0.15339
+Epoch 78, iter 5, Sup Loss: 0.00904, Unsup Loss: 0.15859
+Epoch 78, iter 6, Sup Loss: 0.00731, Unsup Loss: 0.12633
+Epoch 78, iter 7, Sup Loss: 0.00764, Unsup Loss: 0.18479
+Epoch 78, iter 8, Sup Loss: 0.00815, Unsup Loss: 0.11825
+Epoch 78, iter 9, Sup Loss: 0.00813, Unsup Loss: 0.21329
+Epoch 78, iter 10, Sup Loss: 0.00772, Unsup Loss: 0.08403
+Epoch 78, iter 11, Sup Loss: 0.00648, Unsup Loss: 0.1154
+Epoch 78, iter 12, Sup Loss: 0.00779, Unsup Loss: 0.18058
+Epoch 78, iter 13, Sup Loss: 0.0063, Unsup Loss: 0.0625
+Epoch 78, iter 14, Sup Loss: 0.00675, Unsup Loss: 0.11093
+Epoch 78, iter 15, Sup Loss: 0.00598, Unsup Loss: 0.06208
+Epoch 78, iter 16, Sup Loss: 0.00586, Unsup Loss: 0.10183
+Epoch 78, iter 17, Sup Loss: 0.00682, Unsup Loss: 0.18692
+Epoch 78, iter 18, Sup Loss: 0.00722, Unsup Loss: 0.20698
+Epoch 78, Total train step 18 || AVG_loss: 0.00795, Avg Dice score: 0.9826, Avg IOU: 0.9658
+Epoch 78, Validation || sum_loss: 0.11517, Dice score: 0.885, IOU: 0.796
+Training and evaluating on epoch78 complete in 0m 16s
+Epoch 79, iter 1, Sup Loss: 0.01431, Unsup Loss: 0.09845
+Epoch 79, iter 2, Sup Loss: 0.00746, Unsup Loss: 0.09856
+Epoch 79, iter 3, Sup Loss: 0.00625, Unsup Loss: 0.15176
+Epoch 79, iter 4, Sup Loss: 0.00992, Unsup Loss: 0.13576
+Epoch 79, iter 5, Sup Loss: 0.00639, Unsup Loss: 0.13178
+Epoch 79, iter 6, Sup Loss: 0.00756, Unsup Loss: 0.11105
+Epoch 79, iter 7, Sup Loss: 0.0111, Unsup Loss: 0.19528
+Epoch 79, iter 8, Sup Loss: 0.00711, Unsup Loss: 0.17169
+Epoch 79, iter 9, Sup Loss: 0.0073, Unsup Loss: 0.13722
+Epoch 79, iter 10, Sup Loss: 0.00584, Unsup Loss: 0.21115
+Epoch 79, iter 11, Sup Loss: 0.00928, Unsup Loss: 0.13495
+Epoch 79, iter 12, Sup Loss: 0.00659, Unsup Loss: 0.15786
+Epoch 79, iter 13, Sup Loss: 0.00672, Unsup Loss: 0.1223
+Epoch 79, iter 14, Sup Loss: 0.01167, Unsup Loss: 0.08394
+Epoch 79, iter 15, Sup Loss: 0.00568, Unsup Loss: 0.12164
+Epoch 79, iter 16, Sup Loss: 0.00643, Unsup Loss: 0.17087
+Epoch 79, iter 17, Sup Loss: 0.00658, Unsup Loss: 0.2549
+Epoch 79, iter 18, Sup Loss: 0.00863, Unsup Loss: 0.11898
+Epoch 79, Total train step 18 || AVG_loss: 0.00784, Avg Dice score: 0.9831, Avg IOU: 0.9667
+Epoch 79, Validation || sum_loss: 0.114, Dice score: 0.885, IOU: 0.7957
+Training and evaluating on epoch79 complete in 0m 16s
+Complete training ---------------------------------------------------- 
+ The best epoch is 59
+========================================================================================
+Test || Average loss: 0.10826, Dice score: 0.8871, IOU: 0.7989

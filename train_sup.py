@@ -4,28 +4,26 @@ nohup python -u multi_train_adapt.py --exp_name test --config_yml Configs/multi_
 """
 
 import argparse
-from sqlite3 import adapt
-import yaml
-import os, time
+import os
+import time
 from datetime import datetime
 
-import pandas as pd
-import torch.nn as nn
-import torch.utils.data
-import torch.optim as optim
 import medpy.metric.binary as metrics
+import torch.nn as nn
+import torch.optim as optim
+import torch.utils.data
+import yaml
 
 from Datasets.create_dataset import get_dataset, SkinDataset2
+from Models.CNN.ResNetBccd import resnet50
+from Utils.functions import fix_all_seed
 from Utils.losses import dice_loss
 from Utils.pieces import DotDict
-from Utils.functions import fix_all_seed
-from Models.Transformer.SwinUnet import SwinUnet
 
 torch.cuda.empty_cache()
 
 
 def main(config):
-
     dataset = get_dataset(
         config,
         img_size=config.data.img_size,
@@ -61,7 +59,8 @@ def main(config):
     )
     print(len(train_loader), len(dataset["lb_dataset"]))
 
-    model = SwinUnet(img_size=config.data.img_size)
+    # model = SwinUnet(img_size=config.data.img_size)
+    model = resnet50(pretrained=True, out_indices=[0, 1, 2, 3, 4], adapt_method=None)
 
     total_trainable_params = sum(
         p.numel() for p in model.parameters() if p.requires_grad
@@ -110,7 +109,6 @@ def train_val(config, model, train_loader, val_loader, criterion):
     # Training and Validating
     # ----------------------------------------------------------------------------
     epochs = config.train.num_epochs
-    max_iou = 0  # use for record best model
     max_dice = 0  # use for record best model
     best_epoch = 0  # use for recording the best epoch
     # create training data loading iteration

@@ -29,19 +29,14 @@ Folder Organization
 !gdown --id 1BQdIW_2tfyRbnTahsEYB9Ow4lIekXpSZ
 ```
 
-# How to run grid search
+# How to run pipeline
 ```bash
 python -u fixmatch.py --gpu 0 --seed 1 --exp exp_fixmatch_bbbc --fold 1 --dataset bbbc
 --dataset bccd --sup_ratio 0.25 --conf_thres 0.8 --seed 2 --debug 1
 ```
 
+# How to run grid search
 Grid search
-```bash
---sup_ratio
---conf_thres
---fold
---seed
-```
 
 ```json
 {
@@ -50,4 +45,8 @@ Grid search
     "fold": [1, 2, 3, 4, 5],
     "seed": [1, 2, 3]
 }
+```
+
+```bash
+python grid_exp.py
 ```

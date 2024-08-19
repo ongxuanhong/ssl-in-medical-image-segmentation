@@ -24,7 +24,12 @@ Folder Organization
 |-*.py
 ```
 
-# How to run
+# Download BCCD and LISC data
+```bash
+!gdown --id 1BQdIW_2tfyRbnTahsEYB9Ow4lIekXpSZ
+```
+
+# How to run grid search
 ```bash
 python -u fixmatch.py --gpu 0 --seed 1 --exp exp_fixmatch_bbbc --fold 1 --dataset bbbc
 --dataset bccd --sup_ratio 0.25 --conf_thres 0.8 --seed 2 --debug 1

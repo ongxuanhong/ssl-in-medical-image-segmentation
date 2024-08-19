@@ -1,5 +1,4 @@
-# Run 3 first cells in download.ipynb
-Folder Organization
+# Folder Organization
 ```
 |-data
     |-bccd

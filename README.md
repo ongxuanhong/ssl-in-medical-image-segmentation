@@ -2,17 +2,17 @@
 Folder Organization
 ```
 |-data
-    |-isic2018
+    |-bccd
         |-images
-        |-labels
-    |-ham10000
+        |-labels    
+    |-lisc
         |-images
         |-labels 
 |-processed_data
-    |-isic2018
+    |-bccd
         |-images
         |-labels
-    |-ham10000
+    |-lisc
         |-images
         |-labels
 |-Configs

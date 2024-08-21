@@ -4,11 +4,11 @@ seed: 1
 debug: False
 log: False
 data:
-  name: 'isic2018'
-  train_folder: 'processed_data/isic2018/'
-  val_folder: 'processed_data/isic2018/'
-  test_folder: 'processed_data/isic2018/'
-  save_folder: 'checkpoints/isic2018'
+  name: 'lisc'
+  train_folder: 'processed_data/lisc/'
+  val_folder: 'processed_data/lisc/'
+  test_folder: 'processed_data/lisc/'
+  save_folder: 'checkpoints/lisc'
   supervised_ratio: 0.04
   train_aug: True
   img_size: 224

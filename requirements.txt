@@ -118,3 +118,4 @@ wheel==0.41.2
 widgetsnbextension==4.0.10
 yacs==0.1.8
 zipp==3.17.0
+pycocotools==2.0.8

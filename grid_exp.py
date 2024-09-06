@@ -9,9 +9,9 @@ grid_search = {
 
 grid_search = {
     "supervised_ratio": [0.25, 0.125, 0.05, 0.02, 0.01],
-    "conf_thresh": [0.8, 0.85, 0.9, 0.95],
-    "fold": [1, 2, 3],
-    "seed": [1, 2, 3],
+    "conf_thresh": [0.8],
+    "fold": [1],
+    "seed": [1],
 }
 
 run_template = """

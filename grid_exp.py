@@ -8,10 +8,10 @@ grid_search = {
 }
 
 grid_search = {
-    "supervised_ratio": [0.25],
-    "conf_thresh": [0.8],
-    "fold": [1],
-    "seed": [1],
+    "supervised_ratio": [0.25, 0.125, 0.05, 0.02, 0.01],
+    "conf_thresh": [0.8, 0.85, 0.9, 0.95],
+    "fold": [1, 2, 3],
+    "seed": [1, 2, 3],
 }
 
 run_template = """
@@ -20,7 +20,7 @@ python -u {}.py --cuda 0 --seed {} \
 --conf_thres {} --fold {}
 """
 for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
-    for dataset in ["lisc", "bccd"]:
+    for dataset in ["livecells"]:
         for supervised_ratio in grid_search["supervised_ratio"]:
             for conf_thresh in grid_search["conf_thresh"]:
                 for fold in grid_search["fold"]:

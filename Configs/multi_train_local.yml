@@ -4,11 +4,11 @@ seed: 1
 debug: False
 log: False
 data:
-  name: 'lisc'
-  train_folder: 'processed_data/lisc/'
-  val_folder: 'processed_data/lisc/'
-  test_folder: 'processed_data/lisc/'
-  save_folder: 'checkpoints/lisc'
+  name: 'livecells'
+  train_folder: 'processed_data/livecells/'
+  val_folder: 'processed_data/livecells/'
+  test_folder: 'processed_data/livecells/'
+  save_folder: 'checkpoints/livecells'
   supervised_ratio: 0.04
   train_aug: True
   img_size: 224

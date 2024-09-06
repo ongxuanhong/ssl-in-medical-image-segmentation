@@ -17,14 +17,16 @@ grid_search = {
 run_template = """
 python -u {}.py --cuda 0 --seed {} \
 --exp {} --dataset {} --sup_ratio {} \
---conf_thres {} --fold {}
+--conf_thres {} --fold {} --debug true
 """
-for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
-    for dataset in ["livecells"]:
-        for supervised_ratio in grid_search["supervised_ratio"]:
-            for conf_thresh in grid_search["conf_thresh"]:
-                for fold in grid_search["fold"]:
-                    for seed in grid_search["seed"]:
+
+for supervised_ratio in grid_search["supervised_ratio"]:
+    for conf_thresh in grid_search["conf_thresh"]:
+        for fold in grid_search["fold"]:
+            for seed in grid_search["seed"]:
+                for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
+                    for dataset in ["livecells"]:
+                        
                         # check if the experiment has been run
                         exp_name = f"{exp}_{dataset}_supervised_ratio_{supervised_ratio}_conf_thresh_{conf_thresh}_fold_{fold}_seed_{seed}"
                         current_dir = os.getcwd()

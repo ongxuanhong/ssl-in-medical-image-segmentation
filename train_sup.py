@@ -15,7 +15,9 @@ import torch.utils.data
 import yaml
 
 from Datasets.create_dataset import get_dataset, SkinDataset2
-from Models.CNN.ResNetBccd import resnet50
+from Models.Transformer.SwinUnet import SwinUnet
+
+# from Models.CNN.ResNetBccd import resnet50
 from Utils.functions import fix_all_seed
 from Utils.losses import dice_loss
 from Utils.pieces import DotDict
@@ -59,8 +61,8 @@ def main(config):
     )
     print(len(train_loader), len(dataset["lb_dataset"]))
 
-    # model = SwinUnet(img_size=config.data.img_size)
-    model = resnet50(pretrained=True, out_indices=[0, 1, 2, 3, 4], adapt_method=None)
+    model = SwinUnet(img_size=config.data.img_size)
+    # model = resnet50(pretrained=True, out_indices=[0, 1, 2, 3, 4], adapt_method=None)
 
     total_trainable_params = sum(
         p.numel() for p in model.parameters() if p.requires_grad

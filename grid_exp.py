@@ -26,7 +26,7 @@ for supervised_ratio in grid_search["supervised_ratio"]:
             for seed in grid_search["seed"]:
                 for exp in ["fixmatch", "cct", "ccvc", "cps", "train_sup", "unimatch"]:
                     for dataset in ["lisc"]:
-                        
+
                         # check if the experiment has been run
                         exp_name = f"{exp}_{dataset}_supervised_ratio_{supervised_ratio}_conf_thresh_{conf_thresh}_fold_{fold}_seed_{seed}"
                         current_dir = os.getcwd()

@@ -4,28 +4,22 @@ nohup python -u multi_train_adapt.py --exp_name test --config_yml Configs/multi_
 """
 
 import argparse
-from sqlite3 import adapt
-import yaml
-import os, time
+import time
 from datetime import datetime
-import cv2
+from itertools import cycle
 
-import numpy as np
-import pandas as pd
-import torch.nn as nn
-import torch.utils.data
-import torch.optim as optim
 import medpy.metric.binary as metrics
+import torch.nn as nn
+import torch.optim as optim
+import torch.utils.data
+import yaml
 
 from Datasets.create_dataset import *
 from Datasets.unimatch import *
-from Datasets.transform import normalize
+from Models.Transformer.SwinUnetUni import SwinUnet
+from Utils.functions import fix_all_seed
 from Utils.losses import dice_loss
 from Utils.pieces import DotDict
-from Utils.functions import fix_all_seed
-
-from Models.Transformer.SwinUnetUni import SwinUnet
-from itertools import cycle
 
 torch.cuda.empty_cache()
 

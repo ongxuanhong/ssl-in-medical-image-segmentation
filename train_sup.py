@@ -16,7 +16,6 @@ import yaml
 
 from Datasets.create_dataset import get_dataset, SkinDataset2
 from Models.Transformer.SwinUnet import SwinUnet
-
 # from Models.CNN.ResNetBccd import resnet50
 from Utils.functions import fix_all_seed
 from Utils.losses import dice_loss
